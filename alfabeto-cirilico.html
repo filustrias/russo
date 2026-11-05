@@ -358,11 +358,11 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <p>O alfabeto russo tem 33 letras. Para cada uma, este capítulo indica o som equivalente em português, uma palavra russa de exemplo, como ela se lê e o que significa.</p>
-<p>Na coluna “Como se lê”, a sílaba em <strong>negrito</strong> é a tônica.</p>
+<p>Na coluna “Latinizado”, a sílaba em <strong>negrito</strong> é a tônica. O texto latinizado fica encoberto: clique sobre ele para vê-lo.</p>
 <section id="três-regras-antes-de-começar" class="level2">
 <h2 class="anchored" data-anchor-id="três-regras-antes-de-começar">Três regras antes de começar</h2>
 <ul>
-<li><strong>O átono soa como A.</strong> Quando a letra <strong>О</strong> não está na sílaba tônica, ela soa como <strong>a</strong>. Por isso вода se lê va-<strong>dá</strong>, e não vo-dá.</li>
+<li><strong>O átono soa como A.</strong> Quando a letra <strong>О</strong> não está na sílaba tônica, ela soa como <strong>a</strong>. Por isso вода se lê <span class="latinizado">va-<strong>dá</strong></span>, e não vo-dá.</li>
 <li><strong>Algumas letras parecem latinas, mas não são.</strong> В soa como V, Н soa como N, Р soa como R, С soa como S e Х soa como RR.</li>
 <li><strong>Г, Д e Т nunca mudam.</strong> Г soa sempre como em “gato”. Д soa sempre como em “dado”. Т soa sempre como em “tatu”. Os sons “dj” e “tch” do carioca não existem nessas letras.</li>
 </ul>
@@ -382,7 +382,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Letra</th>
 <th>Som em português</th>
 <th>Exemplo</th>
-<th>Como se lê</th>
+<th>Latinizado</th>
 <th>Significado</th>
 </tr>
 </thead>
@@ -453,7 +453,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Letra</th>
 <th>Som em português</th>
 <th>Exemplo</th>
-<th>Como se lê</th>
+<th>Latinizado</th>
 <th>Significado</th>
 </tr>
 </thead>
@@ -505,7 +505,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>Depois de consoante, <strong>Е</strong> dá um leve som de “i” antes do “e”: нет soa como “niet”, não “net”.</p>
+<p>Depois de consoante, <strong>Е</strong> dá um leve som de “i” antes do “e”: нет soa como “<span class="latinizado">niet</span>”, não “net”.</p>
 </div>
 </div>
 </section>
@@ -517,7 +517,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Letra</th>
 <th>Som em português</th>
 <th>Exemplo</th>
-<th>Como se lê</th>
+<th>Latinizado</th>
 <th>Significado</th>
 </tr>
 </thead>
@@ -588,7 +588,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Letra</th>
 <th>Som em português</th>
 <th>Exemplo</th>
-<th>Como se lê</th>
+<th>Latinizado</th>
 <th>Significado</th>
 </tr>
 </thead>
@@ -659,7 +659,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Letra</th>
 <th>Som em português</th>
 <th>Exemplo</th>
-<th>Como se lê</th>
+<th>Latinizado</th>
 <th>Significado</th>
 </tr>
 </thead>
@@ -730,7 +730,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Letra</th>
 <th>Som em português</th>
 <th>Exemplo</th>
-<th>Como se lê</th>
+<th>Latinizado</th>
 <th>Significado</th>
 </tr>
 </thead>
@@ -794,7 +794,7 @@ ul.task-list li input[type="checkbox"] {
 <th>Letra</th>
 <th>Som em português</th>
 <th>Exemplo</th>
-<th>Como se lê</th>
+<th>Latinizado</th>
 <th>Significado</th>
 </tr>
 </thead>
@@ -864,6 +864,85 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<style>
+.latinizado-todos { background: none; border: 1px solid currentColor; border-radius: 0.3em; color: inherit; cursor: pointer; font: inherit; font-size: 0.85em; margin: 0.5em 0 1em 0; padding: 0.25em 0.7em; }
+.latinizado-botao { background: none; border: none; border-radius: 0.3em; color: inherit; font: inherit; padding: 0 0.35em; text-align: inherit; cursor: pointer; }
+.latinizado-botao[aria-expanded="false"] { background: rgba(128, 128, 128, 0.3); }
+.latinizado-botao[aria-expanded="false"] .latinizado-texto { visibility: hidden; }
+</style>
+<script>
+// Encobre o texto latinizado até o clique. Vale para as colunas de tabela com o
+// título "Latinizado" e para os trechos marcados no texto com [...]{.latinizado}.
+document.addEventListener("DOMContentLoaded", function () {
+  var alvos = [];
+
+  document.querySelectorAll("main table").forEach(function (tabela) {
+    var titulos = Array.from(tabela.querySelectorAll("thead th"));
+    var coluna = titulos.findIndex(function (th) {
+      return th.textContent.trim().toLowerCase() === "latinizado";
+    });
+    if (coluna === -1) return;
+    tabela.querySelectorAll("tbody tr").forEach(function (linha) {
+      if (linha.cells[coluna]) alvos.push(linha.cells[coluna]);
+    });
+  });
+  document.querySelectorAll("main span.latinizado").forEach(function (trecho) {
+    alvos.push(trecho);
+  });
+
+  if (!alvos.length) return;
+
+  // Ordem de leitura, para o botão geral ficar antes do primeiro texto encoberto.
+  alvos.sort(function (a, b) {
+    return a.compareDocumentPosition(b) & Node.DOCUMENT_POSITION_FOLLOWING ? -1 : 1;
+  });
+
+  var botoes = alvos.map(function (alvo) {
+    var botao = document.createElement("button");
+    var texto = document.createElement("span");
+    botao.type = "button";
+    botao.className = "latinizado-botao";
+    texto.className = "latinizado-texto";
+    while (alvo.firstChild) texto.appendChild(alvo.firstChild);
+    botao.appendChild(texto);
+    alvo.appendChild(botao);
+    botao.addEventListener("click", function () {
+      definir(botao, botao.getAttribute("aria-expanded") === "false");
+      atualizarGeral();
+    });
+    return botao;
+  });
+
+  var geral = document.createElement("button");
+  geral.type = "button";
+  geral.className = "latinizado-todos";
+  var bloco = alvos[0].closest("table, ul, ol, .callout") || alvos[0].closest("p");
+  bloco.parentNode.insertBefore(geral, bloco);
+
+  function definir(botao, visivel) {
+    botao.setAttribute("aria-expanded", visivel ? "true" : "false");
+    if (visivel) botao.removeAttribute("aria-label");
+    else botao.setAttribute("aria-label", "Mostrar latinizado");
+  }
+
+  function atualizarGeral() {
+    var todosVisiveis = botoes.every(function (b) {
+      return b.getAttribute("aria-expanded") === "true";
+    });
+    geral.textContent = todosVisiveis ? "Ocultar todo o latinizado" : "Mostrar todo o latinizado";
+    geral.dataset.mostrar = todosVisiveis ? "nao" : "sim";
+  }
+
+  geral.addEventListener("click", function () {
+    var visivel = geral.dataset.mostrar === "sim";
+    botoes.forEach(function (b) { definir(b, visivel); });
+    atualizarGeral();
+  });
+
+  botoes.forEach(function (b) { definir(b, false); });
+  atualizarGeral();
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

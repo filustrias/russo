@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Caderno de russo",
     "section": "",
-    "text": "Robert Capa Moscow. Former USSR. 1947. © Robert Capa © International Center of Photography | Magnum Photos\n\n\n\nEstas são as minhas notas de aprendizado da língua russa.\n\nO alfabeto cirílico russo: as 33 letras, com som, exemplo e pronúncia.\nPimsleur — Lição 01: diálogo, conceitos, vocabulário e exercícios.",
+    "text": "Robert Capa Moscow. Former USSR. 1947. © Robert Capa © International Center of Photography | Magnum Photos\n\n\n\nEstas são as minhas notas de aprendizado da língua russa.\n\nO alfabeto cirílico russo: as 33 letras, com som, exemplo e latinizado.\nPimsleur — Lição 01: diálogo, conceitos, vocabulário e exercícios.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Caderno de russo</span>"
     ]
@@ -14,7 +14,7 @@
     "href": "alfabeto-cirilico.html",
     "title": "O alfabeto cirílico russo",
     "section": "",
-    "text": "Três regras antes de começar\nO alfabeto russo tem 33 letras. Para cada uma, este capítulo indica o som equivalente em português, uma palavra russa de exemplo, como ela se lê e o que significa.\nNa coluna “Como se lê”, a sílaba em negrito é a tônica.",
+    "text": "Três regras antes de começar\nO alfabeto russo tem 33 letras. Para cada uma, este capítulo indica o som equivalente em português, uma palavra russa de exemplo, como ela se lê e o que significa.\nNa coluna “Latinizado”, a sílaba em negrito é a tônica. O texto latinizado fica encoberto: clique sobre ele para vê-lo.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>O alfabeto cirílico russo</span>"
     ]
@@ -34,7 +34,7 @@
     "href": "alfabeto-cirilico.html#а-д",
     "title": "O alfabeto cirílico russo",
     "section": "А – Д",
-    "text": "А – Д\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nComo se lê\nSignificado\n\n\n\n\nА а\na de “casa”\nмама\nmá-ma\nmãe\n\n\nБ б\nb de “bola”\nбанк\nbank\nbanco\n\n\nВ в\nv de “vaca”\nвода\nva-dá\nágua\n\n\nГ г\ng de “gato”, sempre duro\nгазета\nga-zié-ta\njornal\n\n\nД д\nd de “dado”\nдом\ndom\ncasa\n\n\n\n\n\n\n\n\n\nAvisoArmadilhas\n\n\n\nВ parece o nosso B, mas soa como V. Д nunca soa como “dj”.",
+    "text": "А – Д\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nLatinizado\nSignificado\n\n\n\n\nА а\na de “casa”\nмама\nmá-ma\nmãe\n\n\nБ б\nb de “bola”\nбанк\nbank\nbanco\n\n\nВ в\nv de “vaca”\nвода\nva-dá\nágua\n\n\nГ г\ng de “gato”, sempre duro\nгазета\nga-zié-ta\njornal\n\n\nД д\nd de “dado”\nдом\ndom\ncasa\n\n\n\n\n\n\n\n\n\nAvisoArmadilhas\n\n\n\nВ parece o nosso B, mas soa como V. Д nunca soa como “dj”.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>O alfabeto cirílico russo</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "alfabeto-cirilico.html#е-и",
     "title": "O alfabeto cirílico russo",
     "section": "Е – И",
-    "text": "Е – И\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nComo se lê\nSignificado\n\n\n\n\nЕ е\nié de “Iémen”\nнет\nniet\nnão\n\n\nЁ ё\niô de “iôiô”, sempre tônica\nёлка\niôl-ka\npinheiro\n\n\nЖ ж\nj de “janela”\nжурнал\njur-nál\nrevista\n\n\nЗ з\nz de “zero”\nзима\nzi-má\ninverno\n\n\nИ и\ni de “ilha”\nмир\nmir\npaz; mundo\n\n\n\n\n\n\n\n\n\nNotaObservação\n\n\n\nDepois de consoante, Е dá um leve som de “i” antes do “e”: нет soa como “niet”, não “net”.",
+    "text": "Е – И\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nLatinizado\nSignificado\n\n\n\n\nЕ е\nié de “Iémen”\nнет\nniet\nnão\n\n\nЁ ё\niô de “iôiô”, sempre tônica\nёлка\niôl-ka\npinheiro\n\n\nЖ ж\nj de “janela”\nжурнал\njur-nál\nrevista\n\n\nЗ з\nz de “zero”\nзима\nzi-má\ninverno\n\n\nИ и\ni de “ilha”\nмир\nmir\npaz; mundo\n\n\n\n\n\n\n\n\n\nNotaObservação\n\n\n\nDepois de consoante, Е dá um leve som de “i” antes do “e”: нет soa como “niet”, não “net”.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>O alfabeto cirílico russo</span>"
     ]
@@ -54,7 +54,7 @@
     "href": "alfabeto-cirilico.html#й-н",
     "title": "O alfabeto cirílico russo",
     "section": "Й – Н",
-    "text": "Й – Н\n\n\n\nLetra\nSom em português\nExemplo\nComo se lê\nSignificado\n\n\n\n\nЙ й\ni curto de “pai”\nмой\nmoi\nmeu\n\n\nК к\nk de “casa”\nкот\nkot\ngato\n\n\nЛ л\nl de “lado”\nлампа\nlám-pa\nlâmpada\n\n\nМ м\nm de “mão”\nмолоко\nma-la-kó\nleite\n\n\nН н\nn de “navio”\nнос\nnos\nnariz\n\n\n\n\n\n\n\n\n\nAvisoArmadilhas\n\n\n\nН parece um H, mas soa como N. Em молоко, só o último О é tônico. Os dois primeiros soam como a.",
+    "text": "Й – Н\n\n\n\nLetra\nSom em português\nExemplo\nLatinizado\nSignificado\n\n\n\n\nЙ й\ni curto de “pai”\nмой\nmoi\nmeu\n\n\nК к\nk de “casa”\nкот\nkot\ngato\n\n\nЛ л\nl de “lado”\nлампа\nlám-pa\nlâmpada\n\n\nМ м\nm de “mão”\nмолоко\nma-la-kó\nleite\n\n\nН н\nn de “navio”\nнос\nnos\nnariz\n\n\n\n\n\n\n\n\n\nAvisoArmadilhas\n\n\n\nН parece um H, mas soa como N. Em молоко, só o último О é tônico. Os dois primeiros soam como a.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>O alfabeto cirílico russo</span>"
     ]
@@ -64,7 +64,7 @@
     "href": "alfabeto-cirilico.html#о-с",
     "title": "O alfabeto cirílico russo",
     "section": "О – С",
-    "text": "О – С\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nComo se lê\nSignificado\n\n\n\n\nО о\nó quando tônico; a quando átono\nмолоко\nma-la-kó\nleite\n\n\nП п\np de “pato”\nпапа\npá-pa\npapai\n\n\nР р\nr vibrado, como em “caro”\nрот\nrot\nboca\n\n\nС с\ns de “sapo”\nсок\nsok\nsuco\n\n\nТ т\nt de “tatu”\nтам\ntam\nlá\n\n\n\n\n\n\n\n\n\nAvisoArmadilhas\n\n\n\nР parece um P, mas soa como R vibrado. Nunca soa como o “r” carioca de “rato”. С parece um C, mas soa sempre como S, mesmo entre vogais.",
+    "text": "О – С\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nLatinizado\nSignificado\n\n\n\n\nО о\nó quando tônico; a quando átono\nмолоко\nma-la-kó\nleite\n\n\nП п\np de “pato”\nпапа\npá-pa\npapai\n\n\nР р\nr vibrado, como em “caro”\nрот\nrot\nboca\n\n\nС с\ns de “sapo”\nсок\nsok\nsuco\n\n\nТ т\nt de “tatu”\nтам\ntam\nlá\n\n\n\n\n\n\n\n\n\nAvisoArmadilhas\n\n\n\nР parece um P, mas soa como R vibrado. Nunca soa como o “r” carioca de “rato”. С parece um C, mas soa sempre como S, mesmo entre vogais.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>O alfabeto cirílico russo</span>"
     ]
@@ -74,7 +74,7 @@
     "href": "alfabeto-cirilico.html#у-ч",
     "title": "O alfabeto cirílico russo",
     "section": "У – Ч",
-    "text": "У – Ч\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nComo se lê\nSignificado\n\n\n\n\nУ у\nu de “uva”\nутро\nú-tra\nmanhã\n\n\nФ ф\nf de “faca”\nфото\nfó-ta\nfoto\n\n\nХ х\nrr de “carro” (carioca)\nхорошо\nrra-ra-chó\nbom; bem\n\n\nЦ ц\nts de “tsé-tsé”\nулица\nú-li-tsa\nrua\n\n\nЧ ч\ntch de “tchau”\nчай\ntchai\nchá\n\n\n\n\n\n\n\n\n\nAvisoArmadilhas\n\n\n\nУ parece um Y, mas soa como U. Х parece um X, mas soa como o rr gutural.",
+    "text": "У – Ч\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nLatinizado\nSignificado\n\n\n\n\nУ у\nu de “uva”\nутро\nú-tra\nmanhã\n\n\nФ ф\nf de “faca”\nфото\nfó-ta\nfoto\n\n\nХ х\nrr de “carro” (carioca)\nхорошо\nrra-ra-chó\nbom; bem\n\n\nЦ ц\nts de “tsé-tsé”\nулица\nú-li-tsa\nrua\n\n\nЧ ч\ntch de “tchau”\nчай\ntchai\nchá\n\n\n\n\n\n\n\n\n\nAvisoArmadilhas\n\n\n\nУ parece um Y, mas soa como U. Х parece um X, mas soa como o rr gutural.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>O alfabeto cirílico russo</span>"
     ]
@@ -84,7 +84,7 @@
     "href": "alfabeto-cirilico.html#ш-ь",
     "title": "O alfabeto cirílico russo",
     "section": "Ш – Ь",
-    "text": "Ш – Ь\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nComo se lê\nSignificado\n\n\n\n\nШ ш\nch de “chave”\nшапка\ncháp-ka\ngorro\n\n\nЩ щ\nch mais longo e suave\nборщ\nborch\nborscht (sopa)\n\n\nЪ ъ\nsem som; separa a consoante da vogal seguinte\nподъезд\npad-iést\nentrada do prédio\n\n\nЫ ы\nsem equivalente; um “i” com a língua recuada\nсыр\nsir\nqueijo\n\n\nЬ ь\nsem som; amolece a consoante anterior\nдень\ndienh\ndia\n\n\n\n\n\n\n\n\n\nNotaObservação\n\n\n\nЪ e Ь não são pronunciados. Eles só mudam o som da letra vizinha. Em день, o Ь deixa o “n” final mais suave, parecido com um “nh” curto.",
+    "text": "Ш – Ь\n\n\n\n\n\n\n\n\n\n\nLetra\nSom em português\nExemplo\nLatinizado\nSignificado\n\n\n\n\nШ ш\nch de “chave”\nшапка\ncháp-ka\ngorro\n\n\nЩ щ\nch mais longo e suave\nборщ\nborch\nborscht (sopa)\n\n\nЪ ъ\nsem som; separa a consoante da vogal seguinte\nподъезд\npad-iést\nentrada do prédio\n\n\nЫ ы\nsem equivalente; um “i” com a língua recuada\nсыр\nsir\nqueijo\n\n\nЬ ь\nsem som; amolece a consoante anterior\nдень\ndienh\ndia\n\n\n\n\n\n\n\n\n\nNotaObservação\n\n\n\nЪ e Ь não são pronunciados. Eles só mudam o som da letra vizinha. Em день, o Ь deixa o “n” final mais suave, parecido com um “nh” curto.",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>O alfabeto cirílico russo</span>"
     ]
@@ -94,7 +94,7 @@
     "href": "alfabeto-cirilico.html#э-я",
     "title": "O alfabeto cirílico russo",
     "section": "Э – Я",
-    "text": "Э – Я\n\n\n\nLetra\nSom em português\nExemplo\nComo se lê\nSignificado\n\n\n\n\nЭ э\né de “café”\nэто\né-ta\nisto\n\n\nЮ ю\niu de “Iugoslávia”\nюбка\niúp-ka\nsaia\n\n\nЯ я\niá de “Iara”\nяблоко\niá-bla-ka\nmaçã",
+    "text": "Э – Я\n\n\n\nLetra\nSom em português\nExemplo\nLatinizado\nSignificado\n\n\n\n\nЭ э\né de “café”\nэто\né-ta\nisto\n\n\nЮ ю\niu de “Iugoslávia”\nюбка\niúp-ka\nsaia\n\n\nЯ я\niá de “Iara”\nяблоко\niá-bla-ka\nmaçã",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>O alfabeto cirílico russo</span>"
     ]
@@ -125,7 +125,7 @@
     "href": "pimsleur_russo_01.html#diálogo",
     "title": "Pimsleur — Lição 01",
     "section": "",
-    "text": "Quem\nRusso\nPronúncia\nPortuguês\n\n\n\n\nHomem\nИзвини́те, вы понима́ете по-англи́йски?\nizviníte, vy panimáiete pa-anglíiski?\nCom licença, a senhora entende inglês?\n\n\nMulher\nНет, я не понима́ю по-англи́йски.\nniet, iá ni panimáiu pa-anglíiski.\nNão, eu não entendo inglês.\n\n\nMulher\nЯ немно́го понима́ю по-ру́сски.\niá nimnóga panimáiu pa-rússki.\nEu entendo um pouco de russo.\n\n\nMulher\nВы америка́нец?\nvy amirikánets?\nO senhor é americano?\n\n\nHomem\nДа, я америка́нец.\nda, iá amirikánets.\nSim, eu sou americano.",
+    "text": "Quem\nRusso\nLatinizado\nPortuguês\n\n\n\n\nHomem\nИзвини́те, вы понима́ете по-англи́йски?\nizviníte, vy panimáiete pa-anglíiski?\nCom licença, a senhora entende inglês?\n\n\nMulher\nНет, я не понима́ю по-англи́йски.\nniet, iá ni panimáiu pa-anglíiski.\nNão, eu não entendo inglês.\n\n\nMulher\nЯ немно́го понима́ю по-ру́сски.\niá nimnóga panimáiu pa-rússki.\nEu entendo um pouco de russo.\n\n\nMulher\nВы америка́нец?\nvy amirikánets?\nO senhor é americano?\n\n\nHomem\nДа, я америка́нец.\nda, iá amirikánets.\nSim, eu sou americano.",
     "crumbs": [
       "Pimsleur",
       "Pimsleur — Lição 01"
@@ -136,7 +136,7 @@
     "href": "pimsleur_russo_01.html#conceitos",
     "title": "Pimsleur — Lição 01",
     "section": "Conceitos",
-    "text": "Conceitos\nPergunta de sim/não. Não muda nada na frase, só a entoação. Вы понимаете. = «O senhor entende.» / Вы понимаете? = «O senhor entende?»\nNão = не, antes do verbo. Я понимаю → Я не понимаю. É curto e quase engolido na fala rápida, mas muda o sentido.\nVerbo «entender». Muda com a pessoa:\n\n\n\n\n\n\n\n\nRusso\nPronúncia\nPortuguês\n\n\n\n\nя понима́ю\niá panimáiu\neu entendo\n\n\nты понима́ешь\nty panimáiesh\ntu entendes / você entende\n\n\nон / она́ / оно́ понима́ет\non / aná / anó panimáiet\nele / ela entende (оно́: neutro)\n\n\nмы понима́ем\nmy panimáiem\nnós entendemos\n\n\nвы понима́ете\nvy panimáiete\no senhor / a senhora entende; vocês entendem\n\n\nони́ понима́ют\naní panimáiut\neles / elas entendem\n\n\n\nSem verbo «ser». Вы американец? = «o senhor americano?». O verbo fica subentendido. Para mulher: америка́нка (amirikánka).\nПо- = «em» (língua). по-английски = «em inglês», по-русски = «em russo».\nOrdem. немного vem antes do verbo: Я немного понимаю.\nAcento. O sinal ´ marca a sílaba forte (não se escreve no russo normal). O о fora da sílaba forte soa a: немно́го → nimnóga, по → pa.",
+    "text": "Conceitos\nPergunta de sim/não. Não muda nada na frase, só a entoação. Вы понимаете. = «O senhor entende.» / Вы понимаете? = «O senhor entende?»\nNão = не, antes do verbo. Я понимаю → Я не понимаю. É curto e quase engolido na fala rápida, mas muda o sentido.\nVerbo «entender». Muda com a pessoa:\n\n\n\n\n\n\n\n\nRusso\nLatinizado\nPortuguês\n\n\n\n\nя понима́ю\niá panimáiu\neu entendo\n\n\nты понима́ешь\nty panimáiesh\ntu entendes / você entende\n\n\nон / она́ / оно́ понима́ет\non / aná / anó panimáiet\nele / ela entende (оно́: neutro)\n\n\nмы понима́ем\nmy panimáiem\nnós entendemos\n\n\nвы понима́ете\nvy panimáiete\no senhor / a senhora entende; vocês entendem\n\n\nони́ понима́ют\naní panimáiut\neles / elas entendem\n\n\n\nSem verbo «ser». Вы американец? = «o senhor americano?». O verbo fica subentendido. Para mulher: америка́нка (amirikánka).\nПо- = «em» (língua). по-английски = «em inglês», по-русски = «em russo».\nOrdem. немного vem antes do verbo: Я немного понимаю.\nAcento. O sinal ´ marca a sílaba forte (não se escreve no russo normal). O о fora da sílaba forte soa a: немно́го → nimnóga, по → pa.",
     "crumbs": [
       "Pimsleur",
       "Pimsleur — Lição 01"
@@ -147,7 +147,7 @@
     "href": "pimsleur_russo_01.html#vocabulário",
     "title": "Pimsleur — Lição 01",
     "section": "Vocabulário",
-    "text": "Vocabulário\n\n\n\nRusso\nPronúncia\nPortuguês\n\n\n\n\nизвини́те\nizviníte\ncom licença / desculpe\n\n\nвы\nvy\no senhor / a senhora (você formal)\n\n\nя\niá\neu\n\n\nпонима́ть\npanimát’\nentender\n\n\nпо-англи́йски\npa-anglíiski\n(em) inglês\n\n\nпо-ру́сски\npa-rússki\n(em) russo\n\n\nда\nda\nsim\n\n\nнет\nniet\nnão\n\n\nне\nni\nnão (antes do verbo)\n\n\nнемно́го\nnimnóga\num pouco\n\n\nамерика́нец\namirikánets\namericano",
+    "text": "Vocabulário\n\n\n\nRusso\nLatinizado\nPortuguês\n\n\n\n\nизвини́те\nizviníte\ncom licença / desculpe\n\n\nвы\nvy\no senhor / a senhora (você formal)\n\n\nя\niá\neu\n\n\nпонима́ть\npanimát’\nentender\n\n\nпо-англи́йски\npa-anglíiski\n(em) inglês\n\n\nпо-ру́сски\npa-rússki\n(em) russo\n\n\nда\nda\nsim\n\n\nнет\nniet\nnão\n\n\nне\nni\nnão (antes do verbo)\n\n\nнемно́го\nnimnóga\num pouco\n\n\nамерика́нец\namirikánets\namericano",
     "crumbs": [
       "Pimsleur",
       "Pimsleur — Lição 01"
@@ -169,7 +169,7 @@
     "href": "pimsleur_russo_01.html#versão-informal",
     "title": "Pimsleur — Lição 01",
     "section": "Versão informal",
-    "text": "Versão informal\nEntre jovens ou amigos usa-se ты (tu) em vez de вы.\n\n\n\n\n\n\n\n\n\nQuem\nRusso\nPronúncia\nPortuguês\n\n\n\n\nHomem\nИзвини́, ты понима́ешь по-англи́йски?\nizviní, ty panimáiesh pa-anglíiski?\nDesculpa, entendes inglês?\n\n\nMulher\nНет, не понима́ю. Немно́го по-ру́сски.\nniet, ni panimáiu. nimnóga pa-rússki.\nNão, não entendo. Um pouco de russo.\n\n\nMulher\nТы америка́нец?\nty amirikánets?\nÉs americano?\n\n\nHomem\nЯ не америка́нец, я брази́лец.\niá ni amirikánets, iá brazíliets.\nNão sou americano, sou brasileiro.\n\n\n\nИзвини e понимаешь são as formas de ты.",
+    "text": "Versão informal\nEntre jovens ou amigos usa-se ты (tu) em vez de вы.\n\n\n\n\n\n\n\n\n\nQuem\nRusso\nLatinizado\nPortuguês\n\n\n\n\nHomem\nИзвини́, ты понима́ешь по-англи́йски?\nizviní, ty panimáiesh pa-anglíiski?\nDesculpa, entendes inglês?\n\n\nMulher\nНет, не понима́ю. Немно́го по-ру́сски.\nniet, ni panimáiu. nimnóga pa-rússki.\nNão, não entendo. Um pouco de russo.\n\n\nMulher\nТы америка́нец?\nty amirikánets?\nÉs americano?\n\n\nHomem\nЯ не америка́нец, я брази́лец.\niá ni amirikánets, iá brazíliets.\nNão sou americano, sou brasileiro.\n\n\n\nИзвини e понимаешь são as formas de ты.",
     "crumbs": [
       "Pimsleur",
       "Pimsleur — Lição 01"
