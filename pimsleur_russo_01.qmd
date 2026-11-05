@@ -1,0 +1,80 @@
+# Pimsleur — Lição 01 {.unnumbered}
+
+## Diálogo
+
+Um americano puxa conversa com uma russa.
+
+| Quem | Russo | Pronúncia | Português |
+|:--|:--|:--|:--|
+| Homem | Извини́те, вы понима́ете по-англи́йски? | izviníte, vy panimáiete pa-anglíiski? | Com licença, a senhora entende inglês? |
+| Mulher | Нет, я не понима́ю по-англи́йски. | niet, iá ni panimáiu pa-anglíiski. | Não, eu não entendo inglês. |
+| Mulher | Я немно́го понима́ю по-ру́сски. | iá nimnóga panimáiu pa-rússki. | Eu entendo um pouco de russo. |
+| Mulher | Вы америка́нец? | vy amirikánets? | O senhor é americano? |
+| Homem | Да, я америка́нец. | da, iá amirikánets. | Sim, eu sou americano. |
+
+## Conceitos
+
+**Pergunta de sim/não.** Não muda nada na frase, só a entoação. *Вы понимаете.* = «O senhor entende.» / *Вы понимаете?* = «O senhor entende?»
+
+**Não = не, antes do verbo.** *Я понимаю* → *Я **не** понимаю*. É curto e quase engolido na fala rápida, mas muda o sentido.
+
+**Verbo «entender».** Muda com a pessoa:
+
+| Russo | Pronúncia | Português |
+|:--|:--|:--|
+| я понима́ю | iá panimáiu | eu entendo |
+| вы понима́ете | vy panimáiete | o senhor / a senhora entende |
+
+**Sem verbo «ser».** *Вы американец?* = «o senhor americano?». O verbo fica subentendido. Para mulher: *америка́нка* (amirikánka).
+
+**По- = «em» (língua).** *по-английски* = «em inglês», *по-русски* = «em russo».
+
+**Ordem.** *немного* vem antes do verbo: *Я **немного** понимаю.*
+
+**Acento.** O sinal ´ marca a sílaba forte (não se escreve no russo normal). O **о** fora da sílaba forte soa *a*: *немно́го* → nimnóga, *по* → pa.
+
+## Vocabulário
+
+| Russo | Pronúncia | Português |
+|:--|:--|:--|
+| извини́те | izviníte | com licença / desculpe |
+| вы | vy | o senhor / a senhora (você formal) |
+| я | iá | eu |
+| понима́ть | panimát' | entender |
+| по-англи́йски | pa-anglíiski | (em) inglês |
+| по-ру́сски | pa-rússki | (em) russo |
+| да | da | sim |
+| нет | niet | não |
+| не | ni | não (antes do verbo) |
+| немно́го | nimnóga | um pouco |
+| америка́нец | amirikánets | americano |
+
+## Exercícios
+
+1. Pergunte a uma mulher se ela entende russo.
+2. Diga que você não entende inglês.
+3. Diga que entende um pouco de russo.
+4. Pergunte a um homem se ele é americano.
+5. Responda: «Sim, eu sou americano.»
+
+::: {.callout-tip collapse="true"}
+## Respostas
+1. Вы понима́ете по-ру́сски?
+2. Я не понима́ю по-англи́йски.
+3. Я немно́го понима́ю по-ру́сски.
+4. Вы америка́нец?
+5. Да, я америка́нец.
+:::
+
+## Versão informal
+
+Entre jovens ou amigos usa-se **ты** (tu) em vez de **вы**.
+
+| Quem | Russo | Pronúncia | Português |
+|:--|:--|:--|:--|
+| Homem | Извини́, ты понима́ешь по-англи́йски? | izviní, ty panimáiesh pa-anglíiski? | Desculpa, entendes inglês? |
+| Mulher | Нет, не понима́ю. Немно́го по-ру́сски. | niet, ni panimáiu. nimnóga pa-rússki. | Não, não entendo. Um pouco de russo. |
+| Mulher | Ты америка́нец? | ty amirikánets? | És americano? |
+| Homem | Ага́. | agá. | Aham. |
+
+*Извини* e *понимаешь* são as formas de *ты*. *Ага* é um «sim» bem informal.

@@ -1,0 +1,27 @@
+/*-- scss:rules --*/
+
+// Fontes com cirílico instaladas nos principais sistemas.
+body {
+  font-family: "Segoe UI", -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.7;
+}
+
+// A foto de abertura e a tabela de letras têm baixa resolução: não ampliar além do tamanho original.
+.imagem-abertura img {
+  display: block;
+  width: 100%;
+  max-width: 681px;
+  height: auto;
+  margin-inline: auto;
+}
+
+// Fundo branco para as letras pretas continuarem legíveis no modo escuro.
+.imagem-alfabeto img {
+  display: block;
+  max-width: min(100%, 330px);
+  height: auto;
+  margin-inline: auto;
+  padding: 0.5rem;
+  background: #fff;
+  border-radius: 4px;
+}
