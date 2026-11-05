@@ -25,3 +25,4 @@ format:
     toc: true
     toc-title: "Nesta página"
     smooth-scroll: true
+    include-after-body: latinizado.html

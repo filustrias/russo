@@ -6,17 +6,17 @@
 
 O alfabeto russo tem 33 letras. Para cada uma, este capítulo indica o som equivalente em português, uma palavra russa de exemplo, como ela se lê e o que significa.
 
-Na coluna "Como se lê", a sílaba em **negrito** é a tônica.
+Na coluna "Latinizado", a sílaba em **negrito** é a tônica. O texto latinizado fica encoberto: clique sobre ele para vê-lo.
 
 ## Três regras antes de começar
 
-- **O átono soa como A.** Quando a letra **О** não está na sílaba tônica, ela soa como **a**. Por isso вода se lê va-**dá**, e não vo-dá.
+- **O átono soa como A.** Quando a letra **О** não está na sílaba tônica, ela soa como **a**. Por isso вода se lê [va-**dá**]{.latinizado}, e não vo-dá.
 - **Algumas letras parecem latinas, mas não são.** В soa como V, Н soa como N, Р soa como R, С soa como S e Х soa como RR.
 - **Г, Д e Т nunca mudam.** Г soa sempre como em "gato". Д soa sempre como em "dado". Т soa sempre como em "tatu". Os sons "dj" e "tch" do carioca não existem nessas letras.
 
 ## А – Д
 
-| Letra | Som em português | Exemplo | Como se lê | Significado |
+| Letra | Som em português | Exemplo | Latinizado | Significado |
 |---|---|---|---|---|
 | **А а** | **a** de "casa" | мама | **má**-ma | mãe |
 | **Б б** | **b** de "bola" | банк | bank | banco |
@@ -31,7 +31,7 @@ Na coluna "Como se lê", a sílaba em **negrito** é a tônica.
 
 ## Е – И
 
-| Letra | Som em português | Exemplo | Como se lê | Significado |
+| Letra | Som em português | Exemplo | Latinizado | Significado |
 |---|---|---|---|---|
 | **Е е** | **ié** de "Iémen" | нет | niet | não |
 | **Ё ё** | **iô** de "iôiô", sempre tônica | ёлка | **iôl**-ka | pinheiro |
@@ -41,12 +41,12 @@ Na coluna "Como se lê", a sílaba em **negrito** é a tônica.
 
 ::: {.callout-note}
 ## Observação
-Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como "niet", não "net".
+Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como "[niet]{.latinizado}", não "net".
 :::
 
 ## Й – Н
 
-| Letra | Som em português | Exemplo | Como se lê | Significado |
+| Letra | Som em português | Exemplo | Latinizado | Significado |
 |---|---|---|---|---|
 | **Й й** | **i** curto de "pai" | мой | moi | meu |
 | **К к** | **k** de "casa" | кот | kot | gato |
@@ -61,7 +61,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como
 
 ## О – С
 
-| Letra | Som em português | Exemplo | Como se lê | Significado |
+| Letra | Som em português | Exemplo | Latinizado | Significado |
 |---|---|---|---|---|
 | **О о** | **ó** quando tônico; **a** quando átono | молоко | ma-la-**kó** | leite |
 | **П п** | **p** de "pato" | папа | **pá**-pa | papai |
@@ -77,7 +77,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como
 
 ## У – Ч
 
-| Letra | Som em português | Exemplo | Como se lê | Significado |
+| Letra | Som em português | Exemplo | Latinizado | Significado |
 |---|---|---|---|---|
 | **У у** | **u** de "uva" | утро | **ú**-tra | manhã |
 | **Ф ф** | **f** de "faca" | фото | **fó**-ta | foto |
@@ -92,7 +92,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como
 
 ## Ш – Ь
 
-| Letra | Som em português | Exemplo | Como se lê | Significado |
+| Letra | Som em português | Exemplo | Latinizado | Significado |
 |---|---|---|---|---|
 | **Ш ш** | **ch** de "chave" | шапка | **cháp**-ka | gorro |
 | **Щ щ** | **ch** mais longo e suave | борщ | borch | borscht (sopa) |
@@ -108,7 +108,7 @@ Em день, o Ь deixa o "n" final mais suave, parecido com um "nh" curto.
 
 ## Э – Я
 
-| Letra | Som em português | Exemplo | Como se lê | Significado |
+| Letra | Som em português | Exemplo | Latinizado | Significado |
 |---|---|---|---|---|
 | **Э э** | **é** de "café" | это | **é**-ta | isto |
 | **Ю ю** | **iu** de "Iugoslávia" | юбка | **iúp**-ka | saia |

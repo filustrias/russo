@@ -8,5 +8,5 @@ title: "Caderno de russo"
 
 Estas são as minhas notas de aprendizado da língua russa.
 
-- [O alfabeto cirílico russo](alfabeto-cirilico.qmd): as 33 letras, com som, exemplo e pronúncia.
+- [O alfabeto cirílico russo](alfabeto-cirilico.qmd): as 33 letras, com som, exemplo e latinizado.
 - [Pimsleur — Lição 01](pimsleur_russo_01.qmd): diálogo, conceitos, vocabulário e exercícios.
