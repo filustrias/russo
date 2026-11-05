@@ -1,0 +1,67 @@
+# Pimsleur — Lição 02 {.unnumbered}
+
+## Diálogo
+
+A russa começa a conversa com o americano.
+
+| Quem | Russo | Latinizado | Português |
+|:--|:--|:--|:--|
+| Mulher | Извини́те, вы понима́ете по-ру́сски? | izviníte, vy panimáiete pa-rússki? | Com licença, o senhor entende russo? |
+| Homem | Да, немно́го. | da, nimnóga. | Sim, um pouco. |
+| Mulher | Вы америка́нец? | vy amirikánets? | O senhor é americano? |
+| Homem | Да, я америка́нец. | da, iá amirikánets. | Sim, sou americano. |
+| Homem | Вы понима́ете по-англи́йски? | vy panimáiete pa-anglíiski? | A senhora entende inglês? |
+| Mulher | Нет, я не понима́ю по-англи́йски. | niet, iá ni panimáiu pa-anglíiski. | Não, não entendo inglês. |
+
+## Conceitos
+
+**Нет e не.** *Нет* é «não» como resposta. *Не* nega o verbo e vem antes dele: *Нет, я **не** понимаю.*
+
+**Хорошо antes do verbo.** Como *немного*: *Вы **хорошо** понимаете.* = «O senhor entende bem.»
+
+**«Não muito bem».** Em russo diz-se «entendo não muito bem»: *Я понимаю **не очень хорошо**.* Aqui *не* fica antes de *очень*, não do verbo.
+
+**Pronúncia.** Em *здра́вствуйте* o primeiro **в** não se ouve: [zdrástvuite]{.latinizado}. Em *хорошо́* só o último **о** é forte; os outros soam *a*: [kharashó]{.latinizado}. O mesmo em *спаси́бо* → [spasíba]{.latinizado} e *до свида́ния* → [da svidánia]{.latinizado}.
+
+## Vocabulário
+
+| Russo | Latinizado | Português |
+|:--|:--|:--|
+| здра́вствуйте | zdrástvuite | olá / bom dia (formal) |
+| хорошо́ | kharashó | bem |
+| о́чень | ótchen' | muito |
+| о́чень хорошо́ | ótchen' kharashó | muito bem |
+| не о́чень хорошо́ | ni ótchen' kharashó | não muito bem |
+| спаси́бо | spasíba | obrigado |
+| до свида́ния | da svidánia | até logo / adeus |
+
+## Exercícios
+
+1. Cumprimente uma senhora.
+2. Diga que entende um pouco de russo.
+3. Diga que não entende muito bem.
+4. Ela diz que você entende bem. Agradeça.
+5. Despeça-se.
+
+::: {.callout-tip collapse="true"}
+## Respostas
+1. Здра́вствуйте.
+2. Я немно́го понима́ю по-ру́сски.
+3. Я понима́ю не о́чень хорошо́.
+4. Спаси́бо.
+5. До свида́ния.
+:::
+
+## Versão informal
+
+Com *ты*, o cumprimento e a despedida também mudam.
+
+| Quem | Russo | Latinizado | Português |
+|:--|:--|:--|:--|
+| Mulher | Приве́т! Ты понима́ешь по-ру́сски? | privíet! ty panimáiesh pa-rússki? | Oi! Entendes russo? |
+| Homem | Немно́го. Не о́чень хорошо́. | nimnóga. ni ótchen' kharashó. | Um pouco. Não muito bem. |
+| Mulher | Нет, ты хорошо́ понима́ешь! | niet, ty kharashó panimáiesh! | Não, entendes bem! |
+| Homem | Спаси́бо! Пока́! | spasíba! paká! | Obrigado! Tchau! |
+| Mulher | Пока́! | paká! | Tchau! |
+
+*Приве́т* é «oi» e *Пока́* é «tchau».
