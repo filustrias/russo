@@ -3,7 +3,7 @@ title: "Caderno de russo"
 ---
 
 ::: {.imagem-abertura}
-![Foto: Robert Capa.](robert_capa_01.jpg){fig-alt="Fotografia em preto e branco de duas mulheres dançando juntas em uma praça, cercadas por outros pares e por prédios antigos. Uma delas, de lenço na cabeça, olha para a câmera."}
+![Robert Capa Moscow. Former USSR. 1947. © Robert Capa © International Center of Photography | Magnum Photos](robert_capa_01.jpg){fig-alt="Fotografia em preto e branco de duas mulheres dançando juntas em uma praça, cercadas por outros pares e por prédios antigos. Uma delas, de lenço na cabeça, olha para a câmera."}
 :::
 
 Estas são as minhas notas de aprendizado da língua russa.

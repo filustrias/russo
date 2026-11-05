@@ -23,7 +23,11 @@ Um americano puxa conversa com uma russa.
 | Russo | Pronúncia | Português |
 |:--|:--|:--|
 | я понима́ю | iá panimáiu | eu entendo |
-| вы понима́ете | vy panimáiete | o senhor / a senhora entende |
+| ты понима́ешь | ty panimáiesh | tu entendes / você entende |
+| он / она́ / оно́ понима́ет | on / aná / anó panimáiet | ele / ela entende (оно́: neutro) |
+| мы понима́ем | my panimáiem | nós entendemos |
+| вы понима́ете | vy panimáiete | o senhor / a senhora entende; vocês entendem |
+| они́ понима́ют | aní panimáiut | eles / elas entendem |
 
 **Sem verbo «ser».** *Вы американец?* = «o senhor americano?». O verbo fica subentendido. Para mulher: *америка́нка* (amirikánka).
 
@@ -75,6 +79,6 @@ Entre jovens ou amigos usa-se **ты** (tu) em vez de **вы**.
 | Homem | Извини́, ты понима́ешь по-англи́йски? | izviní, ty panimáiesh pa-anglíiski? | Desculpa, entendes inglês? |
 | Mulher | Нет, не понима́ю. Немно́го по-ру́сски. | niet, ni panimáiu. nimnóga pa-rússki. | Não, não entendo. Um pouco de russo. |
 | Mulher | Ты америка́нец? | ty amirikánets? | És americano? |
-| Homem | Ага́. | agá. | Aham. |
+| Homem | Я не америка́нец, я брази́лец. | iá ni amirikánets, iá brazíliets. | Não sou americano, sou brasileiro. |
 
-*Извини* e *понимаешь* são as formas de *ты*. *Ага* é um «sim» bem informal.
+*Извини* e *понимаешь* são as formas de *ты*.
