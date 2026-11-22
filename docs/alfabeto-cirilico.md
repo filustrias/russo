@@ -1,8 +1,8 @@
-# O alfabeto cirílico russo {#sec-alfabeto-cirilico}
-
-::: {.imagem-alfabeto}
-![Escrita cirílica antiga.](Early_cyrillic_script.png){fig-alt="Quadro com as letras do alfabeto cirílico antigo, em preto sobre fundo branco."}
-:::
+# O alfabeto cirílico russo
+<figure class="imagem-alfabeto">
+  <img src="./imagens/Early_cyrillic_script.png" alt="Quadro com as letras do alfabeto cirílico antigo, em preto sobre fundo branco." width="330" height="275">
+  <figcaption>Escrita cirílica antiga.</figcaption>
+</figure>
 
 O alfabeto russo tem 33 letras. Para cada uma, este capítulo indica o som equivalente em português, uma palavra russa de exemplo, como ela se lê e o que significa.
 
@@ -10,7 +10,7 @@ Na coluna "Latinizado", a sílaba em **negrito** é a tônica. O texto latinizad
 
 ## Três regras antes de começar
 
-- **O átono soa como A.** Quando a letra **О** não está na sílaba tônica, ela soa como **a**. Por isso вода se lê [va-**dá**]{.latinizado}, e não vo-dá.
+- **O átono soa como A.** Quando a letra **О** não está na sílaba tônica, ela soa como **a**. Por isso вода se lê <Lat>va-**dá**</Lat>, e não vo-dá.
 - **Algumas letras parecem latinas, mas não são.** В soa como V, Н soa como N, Р soa como R, С soa como S e Х soa como RR.
 - **Г, Д e Т nunca mudam.** Г soa sempre como em "gato". Д soa sempre como em "dado". Т soa sempre como em "tatu". Os sons "dj" e "tch" do carioca não existem nessas letras.
 
@@ -24,8 +24,7 @@ Na coluna "Latinizado", a sílaba em **negrito** é a tônica. O texto latinizad
 | **Г г** | **g** de "gato", sempre duro | газета | ga-**zié**-ta | jornal |
 | **Д д** | **d** de "dado" | дом | dom | casa |
 
-::: {.callout-warning}
-## Armadilhas
+::: warning Armadilhas
 **В** parece o nosso B, mas soa como **V**. **Д** nunca soa como "dj".
 :::
 
@@ -39,9 +38,8 @@ Na coluna "Latinizado", a sílaba em **negrito** é a tônica. O texto latinizad
 | **З з** | **z** de "zero" | зима | zi-**má** | inverno |
 | **И и** | **i** de "ilha" | мир | mir | paz; mundo |
 
-::: {.callout-note}
-## Observação
-Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como "[niet]{.latinizado}", não "net".
+::: info Observação
+Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como "<Lat>niet</Lat>", não "net".
 :::
 
 ## Й – Н
@@ -54,8 +52,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como
 | **М м** | **m** de "mão" | молоко | ma-la-**kó** | leite |
 | **Н н** | **n** de "navio" | нос | nos | nariz |
 
-::: {.callout-warning}
-## Armadilhas
+::: warning Armadilhas
 **Н** parece um H, mas soa como **N**. Em молоко, só o último О é tônico. Os dois primeiros soam como **a**.
 :::
 
@@ -69,8 +66,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como
 | **С с** | **s** de "sapo" | сок | sok | suco |
 | **Т т** | **t** de "tatu" | там | tam | lá |
 
-::: {.callout-warning}
-## Armadilhas
+::: warning Armadilhas
 **Р** parece um P, mas soa como **R** vibrado. Nunca soa como o "r" carioca de "rato".
 **С** parece um C, mas soa sempre como **S**, mesmo entre vogais.
 :::
@@ -85,8 +81,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como
 | **Ц ц** | **ts** de "tsé-tsé" | улица | **ú**-li-tsa | rua |
 | **Ч ч** | **tch** de "tchau" | чай | tchai | chá |
 
-::: {.callout-warning}
-## Armadilhas
+::: warning Armadilhas
 **У** parece um Y, mas soa como **U**. **Х** parece um X, mas soa como o **rr** gutural.
 :::
 
@@ -100,8 +95,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": нет soa como
 | **Ы ы** | sem equivalente; um "i" com a língua recuada | сыр | sir | queijo |
 | **Ь ь** | sem som; amolece a consoante anterior | день | dienh | dia |
 
-::: {.callout-note}
-## Observação
+::: info Observação
 **Ъ** e **Ь** não são pronunciados. Eles só mudam o som da letra vizinha.
 Em день, o Ь deixa o "n" final mais suave, parecido com um "nh" curto.
 :::

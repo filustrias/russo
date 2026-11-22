@@ -1,0 +1,35 @@
+import { h } from 'vue'
+import DefaultTheme from 'vitepress/theme'
+import type { Theme } from 'vitepress'
+
+import '@fontsource/golos-text/400.css'
+import '@fontsource/golos-text/500.css'
+import '@fontsource/golos-text/600.css'
+import '@fontsource/golos-text/700.css'
+import '@fontsource/pt-serif/400.css'
+import '@fontsource/pt-serif/400-italic.css'
+import '@fontsource/pt-serif/700.css'
+import '@fontsource/pt-serif/700-italic.css'
+import '@fontsource-variable/inter'
+import '@fontsource-variable/inter/wght-italic.css'
+import '@fontsource-variable/unbounded'
+import './estilo.css'
+
+import Lat from './Lat.vue'
+import LatTodos from './LatTodos.vue'
+import Leitura from './Leitura.vue'
+import Capa from './Capa.vue'
+
+export default {
+  extends: DefaultTheme,
+  Layout() {
+    return h(DefaultTheme.Layout, null, {
+      'home-hero-image': () => h(Capa),
+      'doc-before': () => h(LatTodos),
+      'nav-bar-content-after': () => h(Leitura)
+    })
+  },
+  enhanceApp({ app }) {
+    app.component('Lat', Lat)
+  }
+} satisfies Theme

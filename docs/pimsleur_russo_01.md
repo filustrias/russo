@@ -1,5 +1,4 @@
-# Pimsleur — Lição 01 {.unnumbered}
-
+# Pimsleur — Lição 01
 ## Diálogo
 
 Um americano puxa conversa com uma russa.
@@ -29,13 +28,13 @@ Um americano puxa conversa com uma russa.
 | вы понима́ете | vy panimáiete | o senhor / a senhora entende; vocês entendem |
 | они́ понима́ют | aní panimáiut | eles / elas entendem |
 
-**Sem verbo «ser».** *Вы американец?* = «o senhor americano?». O verbo fica subentendido. Para mulher: *америка́нка* ([amirikánka]{.latinizado}).
+**Sem verbo «ser».** *Вы американец?* = «o senhor americano?». O verbo fica subentendido. Para mulher: *америка́нка* (<Lat>amirikánka</Lat>).
 
 **По- = «em» (língua).** *по-английски* = «em inglês», *по-русски* = «em russo».
 
 **Ordem.** *немного* vem antes do verbo: *Я **немного** понимаю.*
 
-**Acento.** O sinal ´ marca a sílaba forte (não se escreve no russo normal). O **о** fora da sílaba forte soa *a*: *немно́го* → [nimnóga]{.latinizado}, *по* → [pa]{.latinizado}.
+**Acento.** O sinal ´ marca a sílaba forte (não se escreve no russo normal). O **о** fora da sílaba forte soa *a*: *немно́го* → <Lat>nimnóga</Lat>, *по* → <Lat>pa</Lat>.
 
 ## Vocabulário
 
@@ -61,8 +60,7 @@ Um americano puxa conversa com uma russa.
 4. Pergunte a um homem se ele é americano.
 5. Responda: «Sim, eu sou americano.»
 
-::: {.callout-tip collapse="true"}
-## Respostas
+::: details Respostas
 1. Вы понима́ете по-ру́сски?
 2. Я не понима́ю по-англи́йски.
 3. Я немно́го понима́ю по-ру́сски.

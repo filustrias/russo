@@ -1,5 +1,4 @@
-# Pimsleur — Lição 02 {.unnumbered}
-
+# Pimsleur — Lição 02
 ## Diálogo
 
 A russa começa a conversa com o americano.
@@ -21,7 +20,7 @@ A russa começa a conversa com o americano.
 
 **«Não muito bem».** Em russo diz-se «entendo não muito bem»: *Я понимаю **не очень хорошо**.* Aqui *не* fica antes de *очень*, não do verbo.
 
-**Pronúncia.** Em *здра́вствуйте* o primeiro **в** não se ouve: [zdrástvuite]{.latinizado}. Em *хорошо́* só o último **о** é forte; os outros soam *a*: [kharashó]{.latinizado}. O mesmo em *спаси́бо* → [spasíba]{.latinizado} e *до свида́ния* → [da svidánia]{.latinizado}.
+**Pronúncia.** Em *здра́вствуйте* o primeiro **в** não se ouve: <Lat>zdrástvuite</Lat>. Em *хорошо́* só o último **о** é forte; os outros soam *a*: <Lat>kharashó</Lat>. O mesmo em *спаси́бо* → <Lat>spasíba</Lat> e *до свида́ния* → <Lat>da svidánia</Lat>.
 
 ## Vocabulário
 
@@ -43,8 +42,7 @@ A russa começa a conversa com o americano.
 4. Ela diz que você entende bem. Agradeça.
 5. Despeça-se.
 
-::: {.callout-tip collapse="true"}
-## Respostas
+::: details Respostas
 1. Здра́вствуйте.
 2. Я немно́го понима́ю по-ру́сски.
 3. Я понима́ю не о́чень хорошо́.
