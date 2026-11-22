@@ -15,26 +15,26 @@ Um homem convida Anna para almoçar no restaurante Intourist.
 | Anna | Не зна́ю. А вы? | ni znáiu. a vy? | Não sei. E o senhor? |
 | Homem | Сейча́с я хоте́л бы пообе́дать. Не хоте́ли бы вы пообе́дать со мной? | sitchás iá khatiél by paabiédat'. ni khatiéli by vy paabiédat' sa mnói? | Agora eu gostaria de almoçar. A senhora não gostaria de almoçar comigo? |
 | Anna | С ва́ми? Да, спаси́бо. Где бы вы хоте́ли пообе́дать? | s vámi? da, spasíba. gdie by vy khatiéli paabiédat'? | Com o senhor? Sim, obrigada. Onde o senhor gostaria de almoçar? |
-| Homem | В рестора́не «Интури́ст». | v ristaránie «inturíst». | No restaurante Intourist. |
-| Anna | Хорошо́. Где рестора́н «Интури́ст»? | kharashó. gdie ristarán «inturíst»? | Está bem. Onde fica o restaurante Intourist? |
+| Homem | В рестора́не Интури́ст. | v ristaránie inturíst. | No restaurante Intourist. |
+| Anna | Хорошо́. Где рестора́н Интури́ст? | kharashó. gdie ristarán inturíst? | Está bem. Onde fica o restaurante Intourist? |
 | Homem | На Тверско́й у́лице. | na tvirskói úlitse. | Na Rua Tverskaya. |
 
 ## Conceitos
 
-**Comigo.** *со мной* = comigo. Antes de *мной*, *с* vira *со* para facilitar a pronúncia.
+**Comigo.** *Со мной* (<Lat>sa mnói</Lat> - comigo). Antes de *мной* (<Lat>mnói</Lat> - mim), *с* (<Lat>s</Lat> - com) vira *со* (<Lat>sa</Lat> - com) para facilitar a pronúncia.
 
-**Homem e mulher no «gostaria».** Ele diz *я хоте́л бы*; ela, *я хоте́ла бы*.
+**Ele e ela no gostaria.** Ele diz *я хоте́л бы* (<Lat>iá khatiél by</Lat> - eu gostaria); ela, *я хоте́ла бы* (<Lat>iá khatiéla by</Lat> - eu gostaria).
 
-**A que horas? (*Во ско́лько?*)**
+**A que horas?** *Во ско́лько?* (<Lat>va skól'ka?</Lat> - A que horas?)
 
-- *в час* = à uma hora
-- *в два часа́* = às duas horas
-- *в три часа́* = às três horas
-- *в четы́ре часа́* = às quatro horas
+- *в час* (<Lat>f tchas</Lat> - à uma hora)
+- *в два часа́* (<Lat>v dva tchisá</Lat> - às duas horas)
+- *в три часа́* (<Lat>f tri tchisá</Lat> - às três horas)
+- *в четы́ре часа́* (<Lat>f tchitýrie tchisá</Lat> - às quatro horas)
 
-**Números.** 1 *оди́н*, 2 *два*, 3 *три*, 4 *четы́ре*.
+**Números.** *Оди́н* (<Lat>adín</Lat> - um), *два* (<Lat>dva</Lat> - dois), *три* (<Lat>tri</Lat> - três), *четы́ре* (<Lat>tchitýrie</Lat> - quatro).
 
-**Certeza.** *Коне́чно* = claro, certamente.
+**Certeza.** *Коне́чно* (<Lat>kaniéshna</Lat> - claro).
 
 ## Vocabulário
 
@@ -61,13 +61,13 @@ Um homem convida Anna para almoçar no restaurante Intourist.
 2. Diga, como homem, que gostaria de almoçar agora.
 3. Convide a pessoa para almoçar com você.
 4. Pergunte onde fica o restaurante Intourist.
-5. Pergunte: «A que horas?»
+5. Pergunte: *A que horas?*
 
 ::: details Respostas
 1. Что бы вы хоте́ли де́лать сейча́с?
 2. Сейча́с я хоте́л бы пообе́дать.
 3. Не хоте́ли бы вы пообе́дать со мной?
-4. Где рестора́н «Интури́ст»?
+4. Где рестора́н Интури́ст?
 5. Во ско́лько?
 :::
 
@@ -80,8 +80,8 @@ Um homem convida Anna para almoçar no restaurante Intourist.
 | Anna | Да не зна́ю. А ты что ду́маешь? | da ni znáiu. a ty shto dúmaiesh? | Sei lá. E tu, o que acha? |
 | Homem | Я бы пообе́дал. Пойдёшь со мной за компа́нию? | iá by paabiédal. paidiôsh sa mnói za kampániiu? | Eu almoçaria. Bora almoçar comigo? |
 | Anna | С тобо́й? Да дава́й! А куда́ пойдём? | s tabói? da davái! a kudá paidiôm? | Contigo? Bora sim! E pra onde a gente vai? |
-| Homem | В «Интури́ст». | v «inturíst». | No «Intourist». |
+| Homem | В Интури́ст. | v inturíst. | No Intourist. |
 | Anna | Ага́, а где он? | agá, a gdie on? | Tá, e onde fica isso? |
 | Homem | Да на Тверско́й же. | da na tvirskói je. | Na Tverskaya, pô. |
 
-*Я бы пообе́дал* («eu almoçaria») dispensa o *хоте́л*. *За компа́нию* é «para fazer companhia». *С тобо́й* é o «contigo» de *ты*, como *с ва́ми* é o de *вы*. *Же* no fim dá ênfase: «ora, na Tverskaya!».
+*Я бы пообе́дал* (<Lat>iá by paabiédal</Lat> - eu almoçaria) dispensa o *хоте́л* (<Lat>khatiél</Lat> - queria). *За компа́нию* (<Lat>za kampániiu</Lat> - para fazer companhia). *С тобо́й* (<Lat>s tabói</Lat> - contigo) é a forma de *ты* (<Lat>ty</Lat> - tu), assim como *с ва́ми* (<Lat>s vámi</Lat> - com o senhor) é a de *вы* (<Lat>vy</Lat> - o senhor). *Же* (<Lat>je</Lat> - ora) no fim da frase dá ênfase.

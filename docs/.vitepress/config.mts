@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { latinizadoNasTabelas } from './theme/latinizado-markdown'
 
 // Lições do Pimsleur já escritas: basta aumentar este número ao criar a próxima.
-const totalLicoes = 10
+const totalLicoes = 20
 const licoes = Array.from({ length: totalLicoes }, (_, i) => {
   const n = String(i + 1).padStart(2, '0')
   return { text: `Lição ${n}`, link: `/pimsleur_russo_${n}` }

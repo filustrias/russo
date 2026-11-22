@@ -3,6 +3,7 @@ unidade: 1
 ---
 
 # Pimsleur — Lição 01
+
 ## Diálogo
 
 Um americano puxa conversa com uma russa.
@@ -17,11 +18,11 @@ Um americano puxa conversa com uma russa.
 
 ## Conceitos
 
-**Pergunta de sim/não.** Não muda nada na frase, só a entoação. *Вы понимаете.* = «O senhor entende.» / *Вы понимаете?* = «O senhor entende?»
+**Pergunta de sim ou não.** Nada muda na frase, só a entoação: *Вы понима́ете.* (<Lat>vy panimáiete.</Lat> - O senhor entende.) e *Вы понима́ете?* (<Lat>vy panimáiete?</Lat> - O senhor entende?)
 
-**Não = не, antes do verbo.** *Я понимаю* → *Я **не** понимаю*. É curto e quase engolido na fala rápida, mas muda o sentido.
+**Não antes do verbo.** *Не* (<Lat>ni</Lat> - não) vem logo antes do verbo: *Я понима́ю.* (<Lat>iá panimáiu.</Lat> - Eu entendo.) vira *Я не понима́ю.* (<Lat>iá ni panimáiu.</Lat> - Eu não entendo.) É curto e quase engolido na fala rápida, mas muda o sentido.
 
-**Verbo «entender».** Muda com a pessoa:
+**Verbo entender.** Muda com a pessoa:
 
 | Russo | Latinizado | Português |
 |:--|:--|:--|
@@ -32,13 +33,13 @@ Um americano puxa conversa com uma russa.
 | вы понима́ете | vy panimáiete | o senhor / a senhora entende; vocês entendem |
 | они́ понима́ют | aní panimáiut | eles / elas entendem |
 
-**Sem verbo «ser».** *Вы американец?* = «o senhor americano?». O verbo fica subentendido. Para mulher: *америка́нка* (<Lat>amirikánka</Lat>).
+**Sem verbo ser.** *Вы америка́нец?* (<Lat>vy amirikánets?</Lat> - O senhor é americano?): o verbo fica subentendido. Para mulher: *америка́нка* (<Lat>amirikánka</Lat> - americana).
 
-**По- = «em» (língua).** *по-английски* = «em inglês», *по-русски* = «em russo».
+**Língua com по-.** *по-англи́йски* (<Lat>pa-anglíiski</Lat> - em inglês), *по-ру́сски* (<Lat>pa-rússki</Lat> - em russo).
 
-**Ordem.** *немного* vem antes do verbo: *Я **немного** понимаю.*
+**Ordem.** *Немно́го* (<Lat>nimnóga</Lat> - um pouco) vem antes do verbo: *Я немно́го понима́ю.* (<Lat>iá nimnóga panimáiu.</Lat> - Eu entendo um pouco.)
 
-**Acento.** O sinal ´ marca a sílaba forte (não se escreve no russo normal). O **о** fora da sílaba forte soa *a*: *немно́го* → <Lat>nimnóga</Lat>, *по* → <Lat>pa</Lat>.
+**Acento.** O sinal ´ marca a sílaba forte e não se escreve no russo normal. O **о** fora da sílaba forte soa *a*: *немно́го* (<Lat>nimnóga</Lat> - um pouco), *по* (<Lat>pa</Lat> - em).
 
 ## Vocabulário
 
@@ -62,7 +63,7 @@ Um americano puxa conversa com uma russa.
 2. Diga que você não entende inglês.
 3. Diga que entende um pouco de russo.
 4. Pergunte a um homem se ele é americano.
-5. Responda: «Sim, eu sou americano.»
+5. Responda: *Sim, eu sou americano.*
 
 ::: details Respostas
 1. Вы понима́ете по-ру́сски?
@@ -74,7 +75,7 @@ Um americano puxa conversa com uma russa.
 
 ## Versão informal
 
-Entre jovens ou amigos usa-se **ты** (tu) em vez de **вы**.
+Entre jovens ou amigos usa-se *ты* (<Lat>ty</Lat> - tu) em vez de *вы* (<Lat>vy</Lat> - o senhor, a senhora).
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
@@ -83,7 +84,7 @@ Entre jovens ou amigos usa-se **ты** (tu) em vez de **вы**.
 | Mulher | Ты америка́нец? | ty amirikánets? | És americano? |
 | Homem | Я не америка́нец, я брази́лец. | iá ni amirikánets, iá brazíliets. | Não sou americano, sou brasileiro. |
 
-*Извини* e *понимаешь* são as formas de *ты*.
+*Извини́* (<Lat>izviní</Lat> - desculpa) e *понима́ешь* (<Lat>panimáiesh</Lat> - entendes) são as formas de *ты* (<Lat>ty</Lat> - tu).
 
 ### Outras formas informais
 
@@ -94,4 +95,4 @@ Entre jovens ou amigos usa-se **ты** (tu) em vez de **вы**.
 | Я чуть-чу́ть говорю́ по-ру́сски. | iá tchut'-tchút' gavariú pa-rússki. | Eu arranho um pouquinho de russo. |
 | Ага́, америка́нец. | agá, amirikánets. | É, americano. |
 
-*Чуть-чу́ть* é «um pouquinho», mais informal que *немно́го*. *Говорю́* é «eu falo»: o verbo *говори́ть* aparece na lição 4.
+*Чуть-чу́ть* (<Lat>tchut'-tchút'</Lat> - um pouquinho) é mais informal que *немно́го* (<Lat>nimnóga</Lat> - um pouco). *Говорю́* (<Lat>gavariú</Lat> - eu falo) vem do verbo *говори́ть* (<Lat>gavarít'</Lat> - falar), que aparece na lição 4.

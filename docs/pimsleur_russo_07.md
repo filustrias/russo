@@ -19,11 +19,11 @@ Um homem convida uma mulher para almoçar.
 
 ## Conceitos
 
-**Almoçar.** *пообе́дать* = almoçar. *Когда́ бы вы хоте́ли пообе́дать?* = «Quando a senhora gostaria de almoçar?»
+**Almoçar.** *Пообе́дать* (<Lat>paabiédat'</Lat> - almoçar): *Когда́ бы вы хоте́ли пообе́дать?* (<Lat>kagdá by vy khatiéli paabiédat'?</Lat> - Quando a senhora gostaria de almoçar?)
 
-**Lugares: в e на.** Com *в* ou *на*, o lugar muda de terminação (caso preposicional): *рестора́н* → *в рестора́не* (no restaurante); *Тверска́я у́лица* → *на Тверско́й у́лице* (na Rua Tverskaya).
+**Lugares com в e на.** Depois de *в* (<Lat>v</Lat> - em) ou *на* (<Lat>na</Lat> - em, sobre), o nome do lugar muda de terminação (caso preposicional): *рестора́н* (<Lat>ristarán</Lat> - restaurante) vira *в рестора́не* (<Lat>v ristaránie</Lat> - no restaurante); *Тверска́я у́лица* (<Lat>tvirskáia úlitsa</Lat> - Rua Tverskaya) vira *на Тверско́й у́лице* (<Lat>na tvirskói úlitse</Lat> - na Rua Tverskaya).
 
-**Bebidas.** *пи́во* (cerveja), *вино́* (vinho). *Вина́* é «um pouco de vinho» (genitivo partitivo).
+**Bebidas.** *Пи́во* (<Lat>píva</Lat> - cerveja) e *вино́* (<Lat>vinó</Lat> - vinho). Ao oferecer ou pedir, aparece *вина́* (<Lat>viná</Lat> - um pouco de vinho), o genitivo partitivo.
 
 ## Vocabulário
 
@@ -40,10 +40,10 @@ Um homem convida uma mulher para almoçar.
 ## Exercícios
 
 1. Pergunte quando a pessoa gostaria de almoçar.
-2. Diga: «Agora não. Talvez mais tarde.»
+2. Diga: *Agora não. Talvez mais tarde.*
 3. Diga que não sabe.
-4. Sugira: «Na minha casa?»
-5. Diga: «no restaurante».
+4. Sugira: *Na minha casa?*
+5. Diga: *no restaurante*.
 
 ::: details Respostas
 1. Когда́ бы вы хоте́ли пообе́дать?
@@ -64,4 +64,4 @@ Um homem convida uma mulher para almoçar.
 | Homem | У меня́ до́ма? | u miniá dóma? | Lá em casa? |
 | Mulher | О, с ра́достью! | o, s rádast'iu! | Opa, com certeza! |
 
-*Не отказа́лась бы* é «eu não recusaria», na forma feminina. *Попо́зже* é «um pouco mais tarde». *Без поня́тия* é «sem ideia». *С ра́достью* («com alegria») é um «com prazer» mais caloroso.
+*Не отказа́лась бы* (<Lat>ni atkazálas' by</Lat> - eu não recusaria) é a forma feminina. *Попо́зже* (<Lat>papójje</Lat> - um pouco mais tarde). *Без поня́тия* (<Lat>biz paniátiia</Lat> - sem ideia). *С ра́достью* (<Lat>s rádast'iu</Lat> - com alegria) é um com prazer mais caloroso.

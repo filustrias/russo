@@ -24,17 +24,17 @@ A russa começa a conversa com o americano.
 
 ## Conceitos
 
-**Нет e не.** *Нет* é «não» como resposta. *Не* nega o verbo e vem antes dele: *Нет, я **не** понимаю.*
+**Dois jeitos de dizer não.** *Нет* (<Lat>niet</Lat> - não) é a resposta. *Не* (<Lat>ni</Lat> - não) nega o verbo e vem antes dele: *Нет, я не понима́ю.* (<Lat>niet, iá ni panimáiu.</Lat> - Não, eu não entendo.)
 
-**Хорошо antes do verbo.** Como *немного*: *Вы **хорошо** понимаете.* = «O senhor entende bem.»
+**Bem, antes do verbo.** *Хорошо́* (<Lat>kharashó</Lat> - bem) vem antes do verbo, como *немно́го* (<Lat>nimnóga</Lat> - um pouco): *Вы хорошо́ понима́ете.* (<Lat>vy kharashó panimáiete.</Lat> - O senhor entende bem.)
 
-**«Não muito bem».** Em russo diz-se «entendo não muito bem»: *Я понимаю **не очень хорошо**.* Aqui *не* fica antes de *очень*, não do verbo.
+**Não muito bem.** Em russo diz-se "entendo não muito bem": *Я понима́ю не о́чень хорошо́.* (<Lat>iá panimáiu ni ótchen' kharashó.</Lat> - Não entendo muito bem.) Aqui *не* (<Lat>ni</Lat> - não) fica antes de *о́чень* (<Lat>ótchen'</Lat> - muito), e não do verbo.
 
-**Cumprimentos e agradecimento.** *Здра́вствуйте* é o «olá» formal; *До свида́ния*, o «até logo». *Спаси́бо* é «obrigado».
+**Cumprimentos e agradecimento.** *Здра́вствуйте* (<Lat>zdrástvuite</Lat> - olá, formal), *До свида́ния* (<Lat>da svidánia</Lat> - até logo), *Спаси́бо* (<Lat>spasíba</Lat> - obrigado).
 
-**Partícula «а».** Serve para contrapor ou devolver a pergunta: *А ты по-русски понимаешь?* = «E tu, entendes russo?»
+**Partícula а.** *А* (<Lat>a</Lat> - e, e quanto a) contrapõe ou devolve a pergunta: *А ты по-ру́сски понима́ешь?* (<Lat>a ty pa-rússki panimáiesh?</Lat> - E tu, entendes russo?)
 
-**Pronúncia.** Em *здра́вствуйте* o primeiro **в** não se ouve: <Lat>zdrástvuite</Lat>. Em *хорошо́* só o último **о** é forte; os outros soam *a*: <Lat>kharashó</Lat>. O mesmo em *спаси́бо* → <Lat>spasíba</Lat> e *до свида́ния* → <Lat>da svidánia</Lat>.
+**Pronúncia.** Em *здра́вствуйте* (<Lat>zdrástvuite</Lat> - olá) o primeiro **в** não se ouve. Em *хорошо́* (<Lat>kharashó</Lat> - bem) só o último **о** é forte; os outros soam *a*. O mesmo acontece em *спаси́бо* (<Lat>spasíba</Lat> - obrigado) e *до свида́ния* (<Lat>da svidánia</Lat> - até logo).
 
 ## Vocabulário
 
@@ -67,7 +67,7 @@ A russa começa a conversa com o americano.
 
 ## Versão informal
 
-Com *ты*, o cumprimento e a despedida também mudam.
+Com *ты* (<Lat>ty</Lat> - tu), o cumprimento e a despedida também mudam.
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
@@ -83,4 +83,4 @@ Com *ты*, o cumprimento e a despedida também mudam.
 | Homem | Спаси́бо! | spasíba! | Valeu! |
 | Mulher | Пока́! | paká! | Tchau! / Falou! |
 
-*Приве́т* é «oi» e *Пока́* é «tchau». *Вообще́ не* reforça o «não» («nada mesmo»), *так себе́* é «mais ou menos» e *да ла́дно* é «que isso». *Отли́чно* é «ótimo», mais forte que *хорошо́*.
+*Приве́т* (<Lat>privíet</Lat> - oi) e *Пока́* (<Lat>paká</Lat> - tchau) são o cumprimento e a despedida entre amigos. *Вообще́ не* (<Lat>vapshé ni</Lat> - nada mesmo) reforça o não. *Так себе́* (<Lat>tak sibié</Lat> - mais ou menos). *Да ла́дно* (<Lat>da ládna</Lat> - que isso). *Отли́чно* (<Lat>atlítchna</Lat> - ótimo) é mais forte que *хорошо́* (<Lat>kharashó</Lat> - bem).

@@ -21,15 +21,15 @@ Um homem pede informações a um passante.
 
 ## Conceitos
 
-**Sem verbo «ficar».** Como no «ser» da lição 1, o russo não diz o verbo: *Кра́сная пло́щадь там.* = «A Praça Vermelha (fica) lá.»
+**Sem verbo ficar.** Como acontece com o verbo ser (lição 1), o russo não diz o verbo: *Кра́сная пло́щадь там.* (<Lat>krásnaia plóshit' tam.</Lat> - A Praça Vermelha fica lá.)
 
-**Verbo «saber» (*знать*).** *Вы зна́ете?* = «O senhor sabe?». *Я зна́ю* = «Eu sei». *Я не зна́ю* = «Eu não sei».
+**Saber.** *Знать* (<Lat>znat'</Lat> - saber): *Вы зна́ете?* (<Lat>vy znáiete?</Lat> - O senhor sabe?), *Я зна́ю.* (<Lat>iá znáiu.</Lat> - Eu sei.) e *Я не зна́ю.* (<Lat>iá ni znáiu.</Lat> - Eu não sei.)
 
-**Verbo «querer» (*хоте́ть*).** *Вы хоти́те?* = «O senhor quer?». *Я хочу́* = «Eu quero».
+**Querer.** *Хоте́ть* (<Lat>khatiét'</Lat> - querer): *Вы хоти́те?* (<Lat>vy khatíte?</Lat> - O senhor quer?) e *Я хочу́.* (<Lat>iá khatchú.</Lat> - Eu quero.)
 
-**Convite educado.** *Не хоте́ли бы вы…?* = «O senhor não gostaria de…?»
+**Convite educado.** *Не хоте́ли бы вы…?* (<Lat>ni khatiéli by vy…?</Lat> - O senhor não gostaria de…?)
 
-**Comer e beber.** *что́-нибудь* (alguma coisa), *пое́сть* (comer), *вы́пить* (beber).
+**Comer e beber.** *Что́-нибудь* (<Lat>shtó-nibut'</Lat> - alguma coisa), *пое́сть* (<Lat>paiést'</Lat> - comer) e *вы́пить* (<Lat>výpit'</Lat> - beber).
 
 ## Vocabulário
 
@@ -76,4 +76,4 @@ Um homem pede informações a um passante.
 | Homem | По́нял, спаси́бо! Быва́й! | pónial, spasíba! byvái! | Entendi, valeu! Até mais! |
 | Passante | Уда́чи! | udátchi! | Boa sorte! / Tchau! |
 
-*Подскажи́* pede uma informação de modo informal. *Тут* é um «aqui» mais coloquial que *здесь*, e *вон там* é «lá adiante». *По́нял* é a forma masculina; uma mulher diria *поняла́* (<Lat>panilá</Lat>).
+*Подскажи́* (<Lat>patskají</Lat> - me dá uma dica) pede uma informação de modo informal. *Тут* (<Lat>tut</Lat> - aqui) é mais coloquial que *здесь* (<Lat>zdies'</Lat> - aqui). *Вон там* (<Lat>von tam</Lat> - lá adiante). *По́нял* (<Lat>pónial</Lat> - entendi) é a forma masculina; uma mulher diria *поняла́* (<Lat>panilá</Lat> - entendi).

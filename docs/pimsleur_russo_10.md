@@ -19,19 +19,19 @@ Lena convida Sergey para almoçar e os dois marcam a hora.
 
 ## Conceitos
 
-**Que horas são?** *Кото́рый сейча́с час?* = «Que horas são agora?»
+**Que horas são?** *Кото́рый сейча́с час?* (<Lat>katóryi sitchás tchas?</Lat> - Que horas são agora?)
 
-**Horas: a palavra «час» muda com o número.**
+**A palavra hora muda com o número.** *Час* (<Lat>tchas</Lat> - hora) tem três formas:
 
-| Número | Hora | Exemplo |
-|:--|:--|:--|
-| 1 | *час* | *в час* |
-| 2, 3, 4 | *часа́* | *в два часа́* |
-| 5 em diante | *часо́в* (genitivo plural) | *в пять часо́в* |
+| Número | Russo | Latinizado | Português |
+|:--|:--|:--|:--|
+| 1 | в час | f tchas | à uma hora |
+| 2, 3, 4 | в два часа́ | v dva tchisá | às duas horas |
+| 5 em diante | в пять часо́в | f piat' tchisóf | às cinco horas |
 
-Outros números: *пять* (5), *во́семь* (8), *де́вять* (9) → *в пять часо́в*, *в во́семь часо́в*, *в де́вять часо́в*.
+De 5 em diante usa-se *часо́в* (<Lat>tchisóf</Lat> - horas), o genitivo plural: *пять* (<Lat>piat'</Lat> - cinco), *во́семь* (<Lat>vóssim'</Lat> - oito), *де́вять* (<Lat>diéviat'</Lat> - nove).
 
-**Planejar (*собира́ться*).** *Я собира́юсь…* = «Eu pretendo… / Eu vou…». *Вы собира́етесь…?* = «O senhor pretende…?»
+**Pretender.** *Собира́ться* (<Lat>sabirátsa</Lat> - pretender, planejar): *Я собира́юсь…* (<Lat>iá sabiráius'…</Lat> - Eu pretendo…) e *Вы собира́етесь…?* (<Lat>vy sabiráietis'…?</Lat> - O senhor pretende…?)
 
 ## Vocabulário
 
@@ -52,10 +52,10 @@ Outros números: *пять* (5), *во́семь* (8), *де́вять* (9) → 
 ## Exercícios
 
 1. Diga, como mulher, que gostaria de almoçar com o senhor.
-2. Pergunte: «A que horas?»
-3. Diga: «Um pouco mais tarde.»
-4. Pergunte: «Às três ou às quatro?»
-5. Diga: «Às cinco horas.»
+2. Pergunte: *A que horas?*
+3. Diga: *Um pouco mais tarde.*
+4. Pergunte: *Às três ou às quatro?*
+5. Diga: *Às cinco horas.*
 
 ::: details Respostas
 1. Я хоте́ла бы пообе́дать с ва́ми.
@@ -76,4 +76,4 @@ Outros números: *пять* (5), *во́семь* (8), *де́вять* (9) → 
 | Lena | Дава́й в четы́ре, су́пер. | davái f tchitýrie, súpir. | Vamos às quatro, fica ótimo. |
 | Sergey | Договори́лись! До ско́рого, Лен! | dagavarílis'! da skórava, lien! | Fechado! Até mais, Lena! |
 
-*Серёж* e *Лен* são formas carinhosas de chamar *Серёжа* (Sergey) e *Ле́на*. *Го* vem do inglês «go» e é gíria jovem. *Договори́лись!* é «combinado!», e *До ско́рого!* é «até breve!».
+*Серёж* (<Lat>siriôsh</Lat> - Serjão) e *Лен* (<Lat>lien</Lat> - Lena) são formas carinhosas de chamar *Серёжа* (<Lat>siriôja</Lat> - Seryozha) e *Ле́на* (<Lat>liéna</Lat> - Lena). *Го* (<Lat>go</Lat> - bora) vem do inglês go e é gíria jovem. *Договори́лись!* (<Lat>dagavarílis'!</Lat> - Combinado!) *До ско́рого!* (<Lat>da skórava!</Lat> - Até breve!)

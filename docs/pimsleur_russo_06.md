@@ -19,15 +19,15 @@ Um homem oferece comida e bebida a uma mulher.
 
 ## Conceitos
 
-**«Gostaria» = verbo + бы.** A mulher diz *я хоте́ла бы*; o homem, *я хоте́л бы*. Ao convidar alguém: *Не хоте́ли бы вы…?*
+**Gostaria: verbo + бы.** A partícula *бы* (<Lat>by</Lat> - partícula do gostaria) junto do verbo no passado forma o gostaria. A mulher diz *я хоте́ла бы* (<Lat>iá khatiéla by</Lat> - eu gostaria); o homem, *я хоте́л бы* (<Lat>iá khatiél by</Lat> - eu gostaria). Para convidar: *Не хоте́ли бы вы…?* (<Lat>ni khatiéli by vy…?</Lat> - O senhor não gostaria de…?)
 
-**Tempo.** *Когда́?* (quando?), *сейча́с* (agora), *по́зже* (mais tarde), *мо́жет быть* (talvez).
+**Tempo.** *Когда́?* (<Lat>kagdá?</Lat> - quando?), *сейча́с* (<Lat>sitchás</Lat> - agora), *по́зже* (<Lat>pójje</Lat> - mais tarde), *мо́жет быть* (<Lat>mójet byt'</Lat> - talvez).
 
-**Inclusão.** *то́же* = também.
+**Também.** *То́же* (<Lat>tóje</Lat> - também).
 
-**Convidando para casa.** *у меня́* (na minha casa / comigo), *у вас* (na sua casa / com o senhor).
+**Convidando para casa.** *У меня́* (<Lat>u miniá</Lat> - na minha casa, comigo) e *у вас* (<Lat>u vas</Lat> - na sua casa, com o senhor).
 
-**Aceitando.** *С удово́льствием* = com prazer.
+**Aceitando.** *С удово́льствием.* (<Lat>s udavól'stviiem.</Lat> - Com prazer.)
 
 ## Vocabulário
 
@@ -47,9 +47,9 @@ Um homem oferece comida e bebida a uma mulher.
 ## Exercícios
 
 1. Pergunte a uma senhora se ela não gostaria de comer alguma coisa.
-2. Pergunte: «E beber alguma coisa?»
+2. Pergunte: *E beber alguma coisa?*
 3. Diga, como mulher, que gostaria de beber alguma coisa também.
-4. Diga: «Talvez mais tarde.»
+4. Diga: *Talvez mais tarde.*
 5. Aceite um convite com prazer.
 
 ::: details Respostas
@@ -71,4 +71,4 @@ Um homem oferece comida e bebida a uma mulher.
 | Mulher | И вы́пить то́же мо́жно. | i výpit' tóje mójna. | Tomar algo também cai bem. |
 | Homem | Отли́чно! | atlítchna! | Beleza! |
 
-*Перекуси́ть* é «beliscar», fazer um lanche. *Хо́чешь* é a forma de *ты* do verbo *хоте́ть*. *Чего́-нибудь* é a forma coloquial de *что́-нибудь* depois de *вы́пить*. *Мо́жно* é «pode», «dá».
+*Перекуси́ть* (<Lat>pirikusít'</Lat> - beliscar) é fazer um lanche. *Хо́чешь* (<Lat>khótchesh</Lat> - queres) é a forma de *ты* (<Lat>ty</Lat> - tu) do verbo *хоте́ть* (<Lat>khatiét'</Lat> - querer). *Чего́-нибудь* (<Lat>tchivó-nibut'</Lat> - alguma coisa) é a forma coloquial de *что́-нибудь* (<Lat>shtó-nibut'</Lat> - alguma coisa) depois de *вы́пить* (<Lat>výpit'</Lat> - beber). *Мо́жно* (<Lat>mójna</Lat> - pode, dá).

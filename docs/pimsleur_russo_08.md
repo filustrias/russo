@@ -20,13 +20,13 @@ Oleg convida Anna para almoçar. Eles acabam pedindo cerveja.
 
 ## Conceitos
 
-**Números e concordância.** *два* = dois. Depois de *два*, o substantivo vai para o genitivo singular: *пи́во* → *два пи́ва* (duas cervejas).
+**Números e concordância.** *Два* (<Lat>dva</Lat> - dois). Depois de *два* (<Lat>dva</Lat> - dois), o substantivo vai para o genitivo singular: *пи́во* (<Lat>píva</Lat> - cerveja) vira *два пи́ва* (<Lat>dva píva</Lat> - duas cervejas).
 
-**«Или» = «ou».** *Вино́ и́ли пи́во?* = «Vinho ou cerveja?»
+**Ou.** *И́ли* (<Lat>íli</Lat> - ou): *Вино́ и́ли пи́во?* (<Lat>vinó íli píva?</Lat> - Vinho ou cerveja?)
 
-**Verbos de ação.** *де́лать* (fazer), *купи́ть* (comprar).
+**Verbos de ação.** *Де́лать* (<Lat>diélat'</Lat> - fazer) e *купи́ть* (<Lat>kupít'</Lat> - comprar).
 
-**Companhia.** *с ва́ми* = com o senhor / com a senhora.
+**Companhia.** *С ва́ми* (<Lat>s vámi</Lat> - com o senhor, com a senhora).
 
 ## Vocabulário
 
@@ -43,10 +43,10 @@ Oleg convida Anna para almoçar. Eles acabam pedindo cerveja.
 ## Exercícios
 
 1. Pergunte a Anna se ela não gostaria de almoçar agora.
-2. Pergunte: «O que a senhora gostaria?»
+2. Pergunte: *O que a senhora gostaria?*
 3. Diga que você também quer cerveja.
 4. Peça duas cervejas.
-5. Pergunte: «Vinho ou cerveja?»
+5. Pergunte: *Vinho ou cerveja?*
 
 ::: details Respostas
 1. А́нна, не хоте́ли бы вы пообе́дать сейча́с?
@@ -68,4 +68,4 @@ Oleg convida Anna para almoçar. Eles acabam pedindo cerveja.
 | Oleg | Слу́шай, а то́чно есть не хо́чешь? | slúshai, a tótchna iest' ni khótchesh? | Mas escuta, tem certeza que não quer comer nada? |
 | Anna | Есть? Да не, пото́м, мо́жет. | iest'? da nié, patóm, mójet. | Comer? Não, depois talvez. |
 
-*Ань* é a forma carinhosa de chamar *А́ня*, apelido de *А́нна*. *Лады́* é «beleza», «combinado». *Бу́дешь* / *бу́ду* («vai querer» / «vou querer») é o jeito comum de pedir no bar. *Де́вушка* («moça») é como se chama a garçonete. *Пока́* aqui é «por enquanto», não «tchau».
+*Ань* (<Lat>an'</Lat> - Aninha) é a forma carinhosa de chamar *А́ня* (<Lat>ánia</Lat> - Ania), apelido de *А́нна* (<Lat>ána</Lat> - Anna). *Лады́* (<Lat>ladý</Lat> - beleza, combinado). *Бу́дешь* (<Lat>búdish</Lat> - vai querer) e *бу́ду* (<Lat>búdu</Lat> - vou querer) são o jeito comum de pedir no bar. *Де́вушка* (<Lat>diévushka</Lat> - moça) é como se chama a garçonete. Aqui *пока́* (<Lat>paká</Lat> - por enquanto) não é tchau.

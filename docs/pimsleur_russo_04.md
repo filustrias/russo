@@ -20,13 +20,13 @@ Uma americana conversa com um russo.
 
 ## Conceitos
 
-**Verbo «falar» (*говори́ть*).** *Вы говори́те?* = «O senhor fala?». *Я говорю́* = «Eu falo».
+**Falar.** *Говори́ть* (<Lat>gavarít'</Lat> - falar): *Вы говори́те?* (<Lat>vy gavaríte?</Lat> - O senhor fala?) e *Я говорю́.* (<Lat>iá gavariú.</Lat> - Eu falo.)
 
-**«И» = «e».** Soma duas coisas: *по-англи́йски **и** по-ру́сски* = «inglês e russo». Para contrapor, usa-se *а* (lição 2).
+**E.** *И* (<Lat>i</Lat> - e) soma duas coisas: *по-англи́йски и по-ру́сски* (<Lat>pa-anglíiski i pa-rússki</Lat> - inglês e russo). Para contrapor, usa-se *а* (<Lat>a</Lat> - e, mas), da lição 2.
 
-**Pedindo direções.** *Где…?* = «Onde fica…?». Lugares: *у́лица* (rua), *пло́щадь* (praça), *Тверска́я у́лица* (Rua Tverskaya), *Кра́сная пло́щадь* (Praça Vermelha).
+**Pedindo direções.** *Где…?* (<Lat>gdie…?</Lat> - Onde fica…?). Lugares: *у́лица* (<Lat>úlitsa</Lat> - rua), *пло́щадь* (<Lat>plóshit'</Lat> - praça), *Тверска́я у́лица* (<Lat>tvirskáia úlitsa</Lat> - Rua Tverskaya), *Кра́сная пло́щадь* (<Lat>krásnaia plóshit'</Lat> - Praça Vermelha).
 
-**Aqui e lá.** *здесь* = aqui, *там* = lá.
+**Aqui e lá.** *Здесь* (<Lat>zdies'</Lat> - aqui) e *там* (<Lat>tam</Lat> - lá).
 
 ## Vocabulário
 
@@ -72,4 +72,4 @@ Uma americana conversa com um russo.
 | Homem | Да нет, отли́чно говори́шь! | da niet, atlítchna gavarísh! | Que nada, fala super bem! |
 | Mulher | Спаси́бочки! | spasíbatchki! | Valeuzão! / Obrigada! |
 
-*Слу́шай* («escuta») chama a atenção de alguém com quem se tem intimidade. *Говори́шь* é a forma de *ты*. *Спаси́бочки* é um «obrigadinho» carinhoso.
+*Слу́шай* (<Lat>slúshai</Lat> - escuta) chama a atenção de alguém com quem se tem intimidade. *Говори́шь* (<Lat>gavarísh</Lat> - falas) é a forma de *ты* (<Lat>ty</Lat> - tu). *Спаси́бочки* (<Lat>spasíbatchki</Lat> - obrigadinho) é um agradecimento carinhoso.

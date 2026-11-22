@@ -24,12 +24,12 @@ Uma russa conversa com um americano.
 
 **Gênero nas nacionalidades.** A palavra muda conforme a pessoa:
 
-- Homem: *америка́нец* (americano), *ру́сский* (russo).
-- Mulher: *америка́нка* (americana), *ру́сская* (russa).
+- Homem: *америка́нец* (<Lat>amirikánets</Lat> - americano), *ру́сский* (<Lat>rússkii</Lat> - russo).
+- Mulher: *америка́нка* (<Lat>amirikánka</Lat> - americana), *ру́сская* (<Lat>rússkaia</Lat> - russa).
 
-**«Но» = «mas».** *Немно́го, **но** не о́чень хорошо́.* = «Um pouco, mas não muito bem.»
+**Mas.** *Но* (<Lat>no</Lat> - mas): *Немно́го, но не о́чень хорошо́.* (<Lat>nimnóga, no ni ótchen' kharashó.</Lat> - Um pouco, mas não muito bem.)
 
-**Пожа́луйста.** É «de nada» quando responde a *спаси́бо*, e «por favor» quando acompanha um pedido.
+**De nada e por favor.** *Пожа́луйста* (<Lat>pajálusta</Lat> - de nada, por favor) responde a *спаси́бо* (<Lat>spasíba</Lat> - obrigado) e também acompanha os pedidos.
 
 ## Vocabulário
 
@@ -49,7 +49,7 @@ Uma russa conversa com um americano.
 2. Diga que entende um pouco, mas não muito bem.
 3. Diga que você é russa.
 4. Agradeceram a você. Responda.
-5. Devolva a pergunta: «E o senhor?»
+5. Devolva a pergunta: *E o senhor?*
 
 ::: details Respostas
 1. Вы понима́ете по-ру́сски?
@@ -73,4 +73,4 @@ Uma russa conversa com um americano.
 | Mulher | Не́ за что! | nié za shta! | De boa! / Não há de quê! |
 | Homem | Дава́й, пока́! | davái, paká! | Até mais, falou! |
 
-*Не́ за что* responde a *спаси́бо*, como *пожа́луйста*. *Ты из Аме́рики?* é «Você é da América?». *Дава́й* («vamos») antes de *пока́* deixa a despedida mais leve.
+*Не́ за что* (<Lat>nié za shta</Lat> - não há de quê) responde a *спаси́бо* (<Lat>spasíba</Lat> - obrigado), como *пожа́луйста* (<Lat>pajálusta</Lat> - de nada). *Ты из Аме́рики?* (<Lat>ty iz amiériki?</Lat> - Você é da América?) *Дава́й* (<Lat>davái</Lat> - vamos) antes de *пока́* (<Lat>paká</Lat> - tchau) deixa a despedida mais leve.
