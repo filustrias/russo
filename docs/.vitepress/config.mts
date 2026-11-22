@@ -1,6 +1,13 @@
 import { defineConfig } from 'vitepress'
 import { latinizadoNasTabelas } from './theme/latinizado-markdown'
 
+// Lições do Pimsleur já escritas: basta aumentar este número ao criar a próxima.
+const totalLicoes = 10
+const licoes = Array.from({ length: totalLicoes }, (_, i) => {
+  const n = String(i + 1).padStart(2, '0')
+  return { text: `Lição ${n}`, link: `/pimsleur_russo_${n}` }
+})
+
 export default defineConfig({
   lang: 'pt-BR',
   title: 'Caderno de russo',
@@ -20,13 +27,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Alfabeto', link: '/alfabeto-cirilico' },
-      {
-        text: 'Pimsleur',
-        items: [
-          { text: 'Lição 01', link: '/pimsleur_russo_01' },
-          { text: 'Lição 02', link: '/pimsleur_russo_02' }
-        ]
-      }
+      { text: 'Pimsleur', items: licoes }
     ],
 
     sidebar: [
@@ -37,13 +38,7 @@ export default defineConfig({
           { text: 'O alfabeto cirílico', link: '/alfabeto-cirilico' }
         ]
       },
-      {
-        text: 'Pimsleur',
-        items: [
-          { text: 'Lição 01', link: '/pimsleur_russo_01' },
-          { text: 'Lição 02', link: '/pimsleur_russo_02' }
-        ]
-      }
+      { text: 'Pimsleur', items: licoes }
     ],
 
     socialLinks: [{ icon: 'github', link: 'https://github.com/filustrias/russo' }],

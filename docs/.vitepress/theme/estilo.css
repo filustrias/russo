@@ -184,25 +184,32 @@ html[data-tamanho='g'] {
   outline-offset: 2px;
 }
 
-/* Botão "Mostrar todo o latinizado": fica preso no alto enquanto a página rola. */
-.lat-todos-barra {
+/* Barra da aula (tocador + "Mostrar todo o latinizado"): fica presa no alto enquanto a página rola. */
+.barra-aula {
   position: sticky;
   top: calc(var(--vp-nav-height) + 12px);
   z-index: 10;
   display: flex;
+  flex-wrap: wrap;
+  align-items: center;
   justify-content: flex-end;
+  gap: 8px;
   margin-bottom: 8px;
   pointer-events: none;
 }
 
+.barra-aula > * {
+  pointer-events: auto;
+}
+
+/* Abaixo de 960px a barra principal rola junto e só a barra "Capítulos" (48px) fica presa. */
 @media (max-width: 959px) {
-  .lat-todos-barra {
-    top: calc(var(--vp-nav-height) + 52px);
+  .barra-aula {
+    top: 56px;
   }
 }
 
 .lat-todos {
-  pointer-events: auto;
   background: var(--vp-c-bg);
   border: 2px solid var(--vp-c-text-1);
   border-radius: 4px;
@@ -217,6 +224,141 @@ html[data-tamanho='g'] {
 .lat-todos:hover {
   border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1);
+}
+
+/* ---------- Tocador de áudio ---------- */
+
+.tocador {
+  flex: 1 1 380px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+  background: var(--vp-c-bg);
+  border: 2px solid var(--vp-c-text-1);
+  border-radius: 6px;
+  box-shadow: 3px 3px 0 var(--vp-c-brand-1);
+  padding: 6px 10px;
+}
+
+.tocador button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  flex: none;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 4px;
+  color: var(--vp-c-text-1);
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 1;
+  padding: 5px 6px;
+}
+
+.tocador button:hover {
+  border-color: var(--vp-c-brand-1);
+  color: var(--vp-c-brand-1);
+}
+
+.tocador button:focus-visible,
+.tocador-barra:focus-visible {
+  outline: 2px solid var(--vp-c-brand-1);
+  outline-offset: 2px;
+}
+
+.tocador svg {
+  width: 16px;
+  height: 16px;
+  fill: currentColor;
+}
+
+.tocador .tocador-play {
+  width: 36px;
+  height: 36px;
+  padding: 0;
+  border-radius: 50%;
+  border-color: var(--vp-button-brand-bg);
+  background: var(--vp-button-brand-bg);
+  color: #ffffff;
+}
+
+.tocador .tocador-play:hover {
+  background: var(--vp-button-brand-hover-bg);
+  color: #ffffff;
+}
+
+.tocador .tocador-play svg {
+  width: 20px;
+  height: 20px;
+}
+
+.tocador-esperando {
+  animation: tocador-pulsa 1s ease-in-out infinite;
+}
+
+@keyframes tocador-pulsa {
+  50% {
+    opacity: 0.55;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tocador-esperando {
+    animation: none;
+  }
+}
+
+.tocador-barra {
+  flex: 1 1 auto;
+  min-width: 60px;
+  accent-color: var(--vp-c-brand-1);
+  cursor: pointer;
+}
+
+.tocador-tempo {
+  flex: none;
+  font-size: 12px;
+  font-variant-numeric: tabular-nums;
+  color: var(--vp-c-text-2);
+  white-space: nowrap;
+}
+
+.tocador-erro {
+  margin: 0;
+  font-size: 13px;
+  line-height: 1.4;
+  color: var(--vp-c-text-2);
+}
+
+.tocador-erro a {
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+}
+
+@media (max-width: 640px) {
+  /* No celular só o tocador fica preso no alto; o botão do latinizado rola com o texto. */
+  .barra-aula {
+    display: contents;
+  }
+
+  .tocador {
+    position: sticky;
+    top: 56px;
+    z-index: 10;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+
+  .lat-todos {
+    display: block;
+    margin: 0 0 12px auto;
+  }
+
+  .tocador-barra {
+    order: 10;
+    flex-basis: 100%;
+  }
 }
 
 /* ---------- Painel de leitura (fonte e tamanho) ---------- */

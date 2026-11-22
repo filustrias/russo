@@ -1,3 +1,7 @@
+---
+unidade: 1
+---
+
 # Pimsleur — Lição 01
 ## Diálogo
 
@@ -80,3 +84,14 @@ Entre jovens ou amigos usa-se **ты** (tu) em vez de **вы**.
 | Homem | Я не америка́нец, я брази́лец. | iá ni amirikánets, iá brazíliets. | Não sou americano, sou brasileiro. |
 
 *Извини* e *понимаешь* são as formas de *ты*.
+
+### Outras formas informais
+
+| Russo | Latinizado | Português |
+|:--|:--|:--|
+| Прости́! | prastí! | Desculpa! (como *извини́*) |
+| Не. | nié. | Não. (forma rápida de *нет*) |
+| Я чуть-чу́ть говорю́ по-ру́сски. | iá tchut'-tchút' gavariú pa-rússki. | Eu arranho um pouquinho de russo. |
+| Ага́, америка́нец. | agá, amirikánets. | É, americano. |
+
+*Чуть-чу́ть* é «um pouquinho», mais informal que *немно́го*. *Говорю́* é «eu falo»: o verbo *говори́ть* aparece na lição 4.

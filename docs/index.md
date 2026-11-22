@@ -19,14 +19,9 @@ features:
     details: As 33 letras, com som, exemplo e latinizado.
     link: /alfabeto-cirilico
     linkText: Abrir
-  - icon: "01"
-    title: Pimsleur — Lição 01
-    details: Diálogo, conceitos, vocabulário e exercícios.
+  - icon: "01–10"
+    title: Pimsleur — Lições 01 a 10
+    details: Diálogo, conceitos, vocabulário, exercícios e versão informal, com o áudio de cada aula.
     link: /pimsleur_russo_01
-    linkText: Abrir
-  - icon: "02"
-    title: Pimsleur — Lição 02
-    details: Cumprimentos, «хорошо», «спасибо» e despedidas.
-    link: /pimsleur_russo_02
-    linkText: Abrir
+    linkText: Começar pela lição 01
 ---

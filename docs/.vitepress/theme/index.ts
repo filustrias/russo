@@ -16,7 +16,7 @@ import '@fontsource-variable/unbounded'
 import './estilo.css'
 
 import Lat from './Lat.vue'
-import LatTodos from './LatTodos.vue'
+import BarraAula from './BarraAula.vue'
 import Leitura from './Leitura.vue'
 import Capa from './Capa.vue'
 
@@ -25,7 +25,7 @@ export default {
   Layout() {
     return h(DefaultTheme.Layout, null, {
       'home-hero-image': () => h(Capa),
-      'doc-before': () => h(LatTodos),
+      'doc-before': () => h(BarraAula),
       'nav-bar-content-after': () => h(Leitura)
     })
   },
