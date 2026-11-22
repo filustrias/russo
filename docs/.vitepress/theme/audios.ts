@@ -1,6 +1,8 @@
 // Áudios do Pimsleur Russian 1 no Google Drive (pasta "Russian1_UXX_Lesson.mp3").
-// Para tocar no site, os arquivos precisam estar compartilhados como
-// "Qualquer pessoa com o link".
+// O tocador próprio (com ±15 s) só consegue ler o arquivo se ele estiver
+// compartilhado como "Qualquer pessoa com o link". Com o arquivo privado, o
+// tocador usa o player do próprio Drive, que funciona para quem está logado
+// na conta dona dos arquivos (o mesmo esquema do livro de árabe).
 const ids: Record<number, string> = {
   1: '1C14_iksPhjV7naAl7SsrXq8VK8kF_yzJ',
   2: '1kUV8eBAtaEUxPOqTMXeDOQnokysB6lD9',
@@ -39,6 +41,7 @@ export function audioPimsleur(unidade: number) {
   if (!id) return null
   return {
     url: `https://drive.usercontent.google.com/download?id=${id}&export=download`,
-    drive: `https://drive.google.com/file/d/${id}/view`
+    drive: `https://drive.google.com/file/d/${id}/view`,
+    previa: `https://drive.google.com/file/d/${id}/preview`
   }
 }

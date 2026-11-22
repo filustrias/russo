@@ -158,9 +158,14 @@ onUnmounted(() => {
       </button>
     </template>
 
-    <p v-else class="tocador-erro">
-      Não consegui carregar o áudio desta lição.
-      <a :href="arquivo.drive" target="_blank" rel="noopener">Abrir no Google Drive</a>
-    </p>
+    <!-- Arquivo privado: usa o player do próprio Drive, que reconhece o login no Google. -->
+    <div v-else class="tocador-drive">
+      <div class="tocador-moldura">
+        <iframe :src="arquivo.previa" :title="`Áudio da lição ${unidade}`" allow="autoplay"></iframe>
+      </div>
+      <a class="tocador-link" :href="arquivo.drive" target="_blank" rel="noopener" title="Abrir no Google Drive" aria-label="Abrir o áudio no Google Drive">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3h7v7h-2V6.4l-9.3 9.3-1.4-1.4L17.6 5H14V3zM5 5h6v2H5v12h12v-6h2v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2z" /></svg>
+      </a>
+    </div>
   </div>
 </template>

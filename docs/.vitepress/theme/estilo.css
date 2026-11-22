@@ -324,16 +324,46 @@ html[data-tamanho='g'] {
   white-space: nowrap;
 }
 
-.tocador-erro {
-  margin: 0;
-  font-size: 13px;
-  line-height: 1.4;
-  color: var(--vp-c-text-2);
+/* Player do Google Drive (arquivo privado): mostra só a faixa dos controles. */
+.tocador-drive {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
 }
 
-.tocador-erro a {
+.tocador-moldura {
+  flex: 1 1 auto;
+  min-width: 0;
+  height: 56px;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.tocador-moldura iframe {
+  display: block;
+  width: calc(100% + 24px);
+  height: 110px;
+  margin-left: -12px;
+  border: 0;
+}
+
+.tocador-link {
+  flex: none;
+  display: inline-flex;
+  padding: 6px;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 4px;
+  color: var(--vp-c-text-1);
+}
+
+.tocador-link:hover {
+  border-color: var(--vp-c-brand-1);
   color: var(--vp-c-brand-1);
-  font-weight: 600;
+}
+
+.tocador-com-erro {
+  padding: 4px 6px;
 }
 
 @media (max-width: 640px) {
