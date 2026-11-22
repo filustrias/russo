@@ -8,7 +8,7 @@ unidade: 20
 
 O americano Jones visita uma casa russa e conhece Sergey, o marido da anfitriã.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Jones | Здра́вствуйте. | [ˈzdrastvʊjtʲɪ] | Olá. |
 | Mulher | А, здра́вствуйте, ми́стер Джо́унс. Войди́те, пожа́луйста. | [a, ˈzdrastvʊjtʲɪ, ˈmʲisʲtʲɪr ˈdʐoʊns. vɐjˈdʲitʲɪ, pɐˈʐaɫʊstə] | Ah, olá, Sr. Jones. Entre, por favor. |
@@ -34,7 +34,7 @@ O americano Jones visita uma casa russa e conhece Sergey, o marido da anfitriã.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | Войди́те, пожа́луйста. | [vɐjˈdʲitʲɪ, pɐˈʐaɫʊstə] | Entre, por favor. |
 | ваш муж | [vaʂ muʂ] | seu marido |
@@ -67,7 +67,7 @@ O americano Jones visita uma casa russa e conhece Sergey, o marido da anfitriã.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Jones | Приве́т! | [prʲɪˈvʲet!] | Oi! |
 | Mulher | О, ми́стер Джонс, здоро́во! Заходи́, заходи́! | [o, ˈmʲisʲtʲɪr dʐons, zdɐˈrovə! zəxɐˈdʲi, zəxɐˈdʲi!] | Ah, Sr. Jones, e aí! Entra, pode entrar! |

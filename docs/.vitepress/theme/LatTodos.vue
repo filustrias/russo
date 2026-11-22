@@ -9,6 +9,6 @@ import { latinizado } from './latinizado'
     class="lat-todos"
     @click="latinizado.mostrarTodos(!latinizado.todosVisiveis.value)"
   >
-    {{ latinizado.todosVisiveis.value ? 'Ocultar todo o latinizado' : 'Mostrar todo o latinizado' }}
+    {{ latinizado.todosVisiveis.value ? 'Ocultar todo o IPA' : 'Mostrar todo o IPA' }}
   </button>
 </template>

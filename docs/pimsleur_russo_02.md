@@ -8,7 +8,7 @@ unidade: 2
 
 A russa começa a conversa com o americano.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Здра́вствуйте. | [ˈzdrastvʊjtʲɪ] | Olá. / Bom dia. |
 | Mulher | Вы америка́нец? | [vɨ ɐmʲɪrʲɪˈkanʲɪts?] | O senhor é americano? |
@@ -38,7 +38,7 @@ A russa começa a conversa com o americano.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | здра́вствуйте | [ˈzdrastvʊjtʲɪ] | olá / bom dia (formal) |
 | хорошо́ | [xərɐˈʂo] | bem |
@@ -69,7 +69,7 @@ A russa começa a conversa com o americano.
 
 Com *ты* (<Lat>[tɨ]</Lat> - tu), o cumprimento e a despedida também mudam.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Приве́т! | [prʲɪˈvʲet!] | Oi! / E aí! |
 | Mulher | Ты америка́нец? | [tɨ ɐmʲɪrʲɪˈkanʲɪts?] | Tu é americano? |

@@ -8,7 +8,7 @@ unidade: 18
 
 Lena quer comprar um chapéu e pede dinheiro a Sergey.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Серге́й. | [sʲɪrˈɡʲej] | Sergey. |
 | Sergey | Да. | [da] | Sim? / Pois não. |
@@ -37,7 +37,7 @@ Lena quer comprar um chapéu e pede dinheiro a Sergey.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | шля́пка | [ˈʂlʲapkə] | chapéu |
 | Ско́лько э́то сто́ит? | [ˈskolʲkə ˈɛtə ˈstoɪt?] | Quanto custa isso? |
@@ -69,7 +69,7 @@ Lena quer comprar um chapéu e pede dinheiro a Sergey.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Серёж! | [sʲɪˈrʲɵʂ!] | Serjão! |
 | Sergey | А? Чего́? | [a? tɕɪˈvo?] | Hã? O que foi? |

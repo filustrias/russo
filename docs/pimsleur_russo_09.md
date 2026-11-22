@@ -8,7 +8,7 @@ unidade: 9
 
 Um homem convida Anna para almoçar no restaurante Intourist.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Anna | Здра́вствуйте. | [ˈzdrastvʊjtʲɪ] | Olá. |
 | Homem | Здра́вствуйте, А́нна. Скажи́те, что бы вы хоте́ли де́лать сейча́с? | [ˈzdrastvʊjtʲɪ, ˈanːə. skɐˈʐɨtʲɪ, ˈʂto bɨ vɨ xɐˈtʲelʲɪ ˈdʲeɫətʲ sʲɪˈtɕas?] | Olá, Anna. Diga-me, o que a senhora gostaria de fazer agora? |
@@ -38,7 +38,7 @@ Um homem convida Anna para almoçar no restaurante Intourist.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | скажи́те | [skɐˈʐɨtʲɪ] | diga(-me) |
 | де́лать | [ˈdʲeɫətʲ] | fazer |
@@ -73,7 +73,7 @@ Um homem convida Anna para almoçar no restaurante Intourist.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Anna | Приве́т! | [prʲɪˈvʲet!] | E aí! |
 | Homem | Приве́т, А́ня! Чем займёмся сейча́с? | [prʲɪˈvʲet, ˈanʲə! tɕem zɐjˈmʲɵmsʲə sʲɪˈtɕas?] | Oi, Anya! O que a gente vai fazer agora? |

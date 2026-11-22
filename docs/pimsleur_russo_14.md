@@ -8,7 +8,7 @@ unidade: 14
 
 Um homem compra um jornal no quiosque.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Извини́те, я хоте́л бы купи́ть газе́ту. | [ɪzvʲɪˈnʲitʲɪ, ja xɐˈtʲeɫ bɨ kʊˈpʲitʲ ɡɐˈzʲetʊ] | Com licença, eu gostaria de comprar um jornal. |
 | Vendedor | Да, вот, пожа́луйста. | [da, vot, pɐˈʐaɫʊstə] | Sim, aqui está. |
@@ -32,7 +32,7 @@ Um homem compra um jornal no quiosque.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | газе́та | [ɡɐˈzʲetə] | jornal |
 | купи́ть газе́ту | [kʊˈpʲitʲ ɡɐˈzʲetʊ] | comprar um jornal |
@@ -63,7 +63,7 @@ Um homem compra um jornal no quiosque.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Приве́т! Дай газе́тку, пожа́луйста. | [prʲɪˈvʲet! daj ɡɐˈzʲetkʊ, pɐˈʐaɫʊstə] | Oi! Me dá um jornalzinho, por favor. |
 | Vendedor | Держи́. | [dʲɪrˈʐɨ] | Pega aí. |

@@ -8,7 +8,7 @@ unidade: 15
 
 Lena vai comprar comida, e Sergey quer saber se o dinheiro dela basta.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | До свида́ния, Серге́й. | [də svʲɪˈdanʲɪjə, sʲɪrˈɡʲej] | Até logo, Sergey. |
 | Sergey | До свида́ния. Что бы вы хоте́ли де́лать, Ле́на? | [də svʲɪˈdanʲɪjə. ˈʂto bɨ vɨ xɐˈtʲelʲɪ ˈdʲeɫətʲ, ˈlʲenə?] | Até logo. O que a senhora gostaria de fazer, Lena? |
@@ -35,7 +35,7 @@ Lena vai comprar comida, e Sergey quer saber se o dinheiro dela basta.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | доста́точно | [dɐˈstatətɕnə] | suficiente |
 | де́ньги | [ˈdʲenʲɡʲɪ] | dinheiro |
@@ -67,7 +67,7 @@ Lena vai comprar comida, e Sergey quer saber se o dinheiro dela basta.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Ну, быва́й, Серёж! | [nu, bɨˈvaj, sʲɪˈrʲɵʂ!] | Bom, até mais, Serjão! |
 | Sergey | Дава́й, Лен. А ты куда́ сейча́с, каки́е пла́ны? | [dɐˈvaj, lʲen. a tɨ kʊˈda sʲɪˈtɕas, kɐˈkʲijɪ ˈpɫanɨ?] | Até, Lena. E você, vai pra onde agora, quais os planos? |

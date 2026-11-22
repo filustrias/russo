@@ -8,7 +8,7 @@ unidade: 21
 
 Uma americana e o marido visitam o senhor Pronin.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Здра́вствуйте, господи́н Про́нин. | [ˈzdrastvʊjtʲɪ, ɡəspɐˈdʲin ˈpronʲɪn] | Olá, Sr. Pronin. |
 | Pronin | Здра́вствуйте. Войди́те, пожа́луйста. А кто э́то с ва́ми? | [ˈzdrastvʊjtʲɪ. vɐjˈdʲitʲɪ, pɐˈʐaɫʊstə. a kto ˈɛtə s ˈvamʲɪ?] | Olá. Entre, por favor. E quem está com a senhora? |
@@ -34,7 +34,7 @@ Uma americana e o marido visitam o senhor Pronin.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | Войди́те. | [vɐjˈdʲitʲɪ] | Entre. |
 | Кто э́то с ва́ми? | [kto ˈɛtə s ˈvamʲɪ?] | Quem está com o senhor? |
@@ -70,7 +70,7 @@ Uma americana e o marido visitam o senhor Pronin.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Здоро́во, дядь Про́нин! | [zdɐˈrovə, dʲætʲ ˈpronʲɪn!] | Fala aí, seu Pronin! |
 | Pronin | О, приве́т! Заходи́те, чего́ на поро́ге стоя́ть. А с тобо́й э́то кто? | [o, prʲɪˈvʲet! zəxɐˈdʲitʲɪ, tɕɪˈvo nə pɐˈroɡʲɪ stɐˈjætʲ. a s tɐˈboj ˈɛtə kto?] | Opa, oi! Entrem logo, vão ficar aí na porta? E quem é esse aí contigo? |

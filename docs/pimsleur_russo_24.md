@@ -8,7 +8,7 @@ unidade: 24
 
 No posto de gasolina.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Motorista | Извини́те, у вас есть бензи́н? | [ɪzvʲɪˈnʲitʲɪ, ʊ ˈvas jesʲtʲ bʲɪnˈzʲin?] | Com licença, o senhor tem gasolina? |
 | Frentista | Коне́чно, есть. Ско́лько ли́тров вы хоти́те? | [kɐˈnʲeʂnə, jesʲtʲ. ˈskolʲkə ˈlʲitrəf vɨ xɐˈtʲitʲɪ?] | Claro que sim. Quantos litros o senhor quer? |
@@ -32,7 +32,7 @@ No posto de gasolina.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | бензи́н | [bʲɪnˈzʲin] | gasolina |
 | коне́чно | [kɐˈnʲeʂnə] | claro |
@@ -64,7 +64,7 @@ No posto de gasolina.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Motorista | Здоро́во! Бензи́нчик найдётся? | [zdɐˈrovə! bʲɪnˈzʲinʲtɕɪk nɐjˈdʲɵtsə?] | Fala aí! Tem gasolina? |
 | Frentista | А то! Ско́лько плесну́ть? | [a to! ˈskolʲkə plʲɪˈsnutʲ?] | Com certeza! Quantos litros eu coloco? |

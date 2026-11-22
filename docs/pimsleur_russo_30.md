@@ -8,7 +8,7 @@ unidade: 30
 
 Um russo pergunta a turistas quanto tempo eles vão ficar.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Russo | Ско́лько вре́мени вы здесь? | [ˈskolʲkə ˈvrʲemʲɪnʲɪ vɨ zʲdʲesʲ?] | Há quanto tempo vocês estão aqui? |
 | Turista | Уже́ два дня. | [ʊˈʐɛ dva dnʲa] | Já faz dois dias. |
@@ -25,7 +25,7 @@ Um russo pergunta a turistas quanto tempo eles vão ficar.
 
 **Cheguei.** *Прие́хать* (<Lat>[prʲɪˈjexətʲ]</Lat> - chegar de viagem) no passado:
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | я прие́хал | [ja prʲɪˈjexəɫ] | eu cheguei (homem) |
 | я прие́хала | [ja prʲɪˈjexəɫə] | eu cheguei (mulher) |
@@ -41,7 +41,7 @@ Um russo pergunta a turistas quanto tempo eles vão ficar.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | Ско́лько вре́мени вы здесь? | [ˈskolʲkə ˈvrʲemʲɪnʲɪ vɨ zʲdʲesʲ?] | Há quanto tempo vocês estão aqui? |
 | два дня | [dva dnʲa] | dois dias |
@@ -73,7 +73,7 @@ Um russo pergunta a turistas quanto tempo eles vão ficar.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Russo | Ско́лько вы тут уже́ торчи́те? | [ˈskolʲkə vɨ tut ʊˈʐɛ tɐrˈtɕitʲɪ?] | Quanto tempo vocês já estão enfiados por aqui? |
 | Turista | Да па́ру дней всего́. | [da ˈparʊ dnʲej fsʲɪˈvo] | Só uns dois dias. |

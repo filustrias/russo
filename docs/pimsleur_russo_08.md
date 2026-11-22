@@ -8,7 +8,7 @@ unidade: 8
 
 Oleg convida Anna para almoçar. Eles acabam pedindo cerveja.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Oleg | А́нна, не хоте́ли бы вы пообе́дать сейча́с? | [ˈanːə, nʲɪ xɐˈtʲelʲɪ bɨ vɨ pəɐˈbʲedətʲ sʲɪˈtɕas?] | Anna, a senhora não gostaria de almoçar agora? |
 | Anna | Нет, спаси́бо, Оле́г, не сейча́с. Но я хоте́ла бы что́-нибудь вы́пить. | [nʲet, spɐˈsʲibə, ɐˈlʲek, nʲɪ sʲɪˈtɕas. no ja xɐˈtʲeɫə bɨ ˈʂto nʲɪbʊtʲ ˈvɨpʲɪtʲ] | Não, obrigada, Oleg, agora não. Mas eu gostaria de beber alguma coisa. |
@@ -30,7 +30,7 @@ Oleg convida Anna para almoçar. Eles acabam pedindo cerveja.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | Что бы вы хоте́ли? | [ˈʂto bɨ vɨ xɐˈtʲelʲɪ?] | O que o senhor gostaria? |
 | два | [dva] | dois |
@@ -58,7 +58,7 @@ Oleg convida Anna para almoçar. Eles acabam pedindo cerveja.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Oleg | Ань, пойдём пое́дим сейча́с? | [anʲ, pɐjˈdʲɵm pɐˈjedʲɪm sʲɪˈtɕas?] | Aninha, bora comer agora? |
 | Anna | Не, Оле́г, спаси́бо, пока́ не хочу́. А вот вы́пить чего́-нибудь хочу́. | [nʲe, ɐˈlʲek, spɐˈsʲibə, pɐˈka nʲɪ xɐˈtɕu. a vot ˈvɨpʲɪtʲ tɕɪˈvo nʲɪbʊtʲ xɐˈtɕu] | Não, Oleg, valeu, agora não. Mas tomar alguma coisa eu quero. |

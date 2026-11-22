@@ -1,7 +1,7 @@
 """Preenche a pronúncia IPA do caderno a partir do russo acentuado.
 
 Uso: python ferramentas/aplicar.py docs/pimsleur_russo_*.md
-- Em tabelas com as colunas "Russo" e "Latinizado", refaz cada célula Latinizado.
+- Em tabelas com as colunas "Russo" e "IPA", refaz cada célula IPA.
 - No texto, refaz cada *Русский* (<Lat>...</Lat> - português) a partir do russo em itálico.
 Escreva o russo sempre com o acento tônico (´); monossílabos dispensam.
 O alfabeto usa a coluna "Exemplo": processar('docs/alfabeto-cirilico.md', 'Exemplo').
@@ -43,8 +43,8 @@ def processar(caminho, coluna_origem='Russo'):
         l = linhas[i]
         if l.startswith('|') and i + 1 < len(linhas) and re.match(r'^\|[\s:|-]+\|$', linhas[i + 1]):
             cab = celulas(l)
-            if 'Latinizado' in cab and coluna_origem in cab:
-                a, b = cab.index(coluna_origem), cab.index('Latinizado')
+            if 'IPA' in cab and coluna_origem in cab:
+                a, b = cab.index(coluna_origem), cab.index('IPA')
                 j = i + 2
                 while j < len(linhas) and linhas[j].startswith('|'):
                     cs = celulas(linhas[j])

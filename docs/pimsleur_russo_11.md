@@ -8,7 +8,7 @@ unidade: 11
 
 Duas pessoas tentam marcar a hora do almoço, sem chegar a um acordo.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | A | Во ско́лько вы хоте́ли бы пообе́дать со мной? В час? | [vɐ ˈskolʲkə vɨ xɐˈtʲelʲɪ bɨ pəɐˈbʲedətʲ sɐ ˈmnoj? f tɕas?] | A que horas você gostaria de almoçar comigo? À uma? |
 | B | Хорошо́… Нет, не в час. Мо́жет быть, в два часа́? | [xərɐˈʂo… nʲet, nʲɪ f tɕas. ˈmoʐɨt bɨtʲ, v dva tɕɪˈsa?] | Está bem… Não, à uma não. Talvez às duas? |
@@ -34,7 +34,7 @@ Duas pessoas tentam marcar a hora do almoço, sem chegar a um acordo.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | сего́дня | [sʲɪˈvodnʲə] | hoje |
 | за́втра | [ˈzaftrə] | amanhã |
@@ -66,7 +66,7 @@ Duas pessoas tentam marcar a hora do almoço, sem chegar a um acordo.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | A | Во ско́лько пообе́даем? В час? | [vɐ ˈskolʲkə pəɐˈbʲedəjɪm? f tɕas?] | Que horas a gente almoça? À uma? |
 | B | Дава́й… Не, в час не пойдёт. Мо́жет, в два? | [dɐˈvaj… nʲe, f tɕas nʲɪ pɐjˈdʲɵt. ˈmoʐɨt, v dva?] | Bora… Não, à uma não rola. Talvez às duas? |

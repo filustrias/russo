@@ -8,7 +8,7 @@ unidade: 29
 
 Lena conta o que vai fazer hoje.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Amigo | Здра́вствуйте, Ле́на. Что вы де́лаете? | [ˈzdrastvʊjtʲɪ, ˈlʲenə. ʂto vɨ ˈdʲeɫəjɪtʲɪ?] | Olá, Lena. O que você está fazendo? |
 | Lena | Сейча́с я хоте́ла бы ко́е-что купи́ть. | [sʲɪˈtɕas ja xɐˈtʲeɫə bɨ ˈkojɪ ʂto kʊˈpʲitʲ] | Agora eu gostaria de comprar umas coisas. |
@@ -28,7 +28,7 @@ Lena conta o que vai fazer hoje.
 
 **Comprei.** *Вчера́* (<Lat>[ftɕɪˈra]</Lat> - ontem). O passado de *купи́ть* (<Lat>[kʊˈpʲitʲ]</Lat> - comprar) muda com quem fala:
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | я купи́л / он купи́л | [ja kʊˈpʲiɫ / on kʊˈpʲiɫ] | eu comprei (homem) / ele comprou |
 | я купи́ла / она́ купи́ла | [ja kʊˈpʲiɫə / ɐˈna kʊˈpʲiɫə] | eu comprei (mulher) / ela comprou |
@@ -40,7 +40,7 @@ Lena conta o que vai fazer hoje.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | пло́хо | [ˈpɫoxə] | mal |
 | непло́хо | [nʲɪˈpɫoxə] | nada mal |
@@ -72,7 +72,7 @@ Lena conta o que vai fazer hoje.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Amigo | Ле́нка, здоро́во! Чем ма́ешься? | [ˈlʲenkə, zdɐˈrovə! tɕem ˈmajɪʂsʲə?] | Leninha, e aí! O que você está fazendo? |
 | Lena | Да вот пройти́сь хочу́, прикупи́ть ко́е-чего́. | [da vot prɐjˈtʲisʲ xɐˈtɕu, prʲɪkʊˈpʲitʲ ˈkojɪ tɕɪˈvo] | Ah, quero dar uma volta e comprar umas coisinhas. |

@@ -8,7 +8,7 @@ unidade: 22
 
 Um anfitrião russo conversa com um visitante sobre a família.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Anfitrião | Ско́лько у вас дете́й? | [ˈskolʲkə ʊ ˈvas dʲɪˈtʲej?] | Quantos filhos vocês têm? |
 | Visitante | У нас оди́н ма́льчик и одна́ де́вочка. | [ʊ ˈnas ɐˈdʲin ˈmalʲtɕɪk i ɐdˈna ˈdʲevətɕkə] | Nós temos um menino e uma menina. |
@@ -34,7 +34,7 @@ Um anfitrião russo conversa com um visitante sobre a família.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | челове́к | [tɕɪɫɐˈvʲek] | pessoa, pessoas |
 | в ва́шей семье́ | [v ˈvaʂɨj sʲɪmʲˈje] | na sua família |
@@ -67,7 +67,7 @@ Um anfitrião russo conversa com um visitante sobre a família.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Anfitrião | Ну и ско́лько у вас дете́й? | [nu i ˈskolʲkə ʊ ˈvas dʲɪˈtʲej?] | E aí, quantos filhos vocês têm? |
 | Visitante | Да дво́е: сын да до́чка. | [da ˈdvojɪ: sɨn da ˈdotɕkə] | Dois: um guri e uma menininha. |

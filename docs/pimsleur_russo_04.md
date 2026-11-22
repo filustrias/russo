@@ -8,7 +8,7 @@ unidade: 4
 
 Uma americana conversa com um russo.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Извини́те, вы ру́сский? | [ɪzvʲɪˈnʲitʲɪ, vɨ ˈruskʲɪj?] | Com licença, o senhor é russo? |
 | Homem | Да, я ру́сский. А вы? | [da, ja ˈruskʲɪj. a vɨ?] | Sim, sou russo. E a senhora? |
@@ -30,7 +30,7 @@ Uma americana conversa com um russo.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | говори́ть | [ɡəvɐˈrʲitʲ] | falar |
 | я говорю́ | [ja ɡəvɐˈrʲu] | eu falo |
@@ -62,7 +62,7 @@ Uma americana conversa com um russo.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Слу́шай, ты ру́сский? | [ˈsɫuʂəj, tɨ ˈruskʲɪj?] | Escuta, você é russo? |
 | Homem | Ага́, ру́сский. А ты? | [ɐˈɡa, ˈruskʲɪj. a tɨ?] | É, sou russo. E tu? |

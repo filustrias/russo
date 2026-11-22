@@ -8,7 +8,7 @@ unidade: 3
 
 Uma russa conversa com um americano.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Здра́вствуйте. Вы понима́ете по-ру́сски? | [ˈzdrastvʊjtʲɪ. vɨ pənʲɪˈmajɪtʲɪ pɐ ˈruskʲɪ?] | Olá. O senhor entende russo? |
 | Homem | Да, немно́го, но не о́чень хорошо́. | [da, nʲɪˈmnoɡə, no nʲɪ ˈotɕɪnʲ xərɐˈʂo] | Sim, um pouco, mas não muito bem. |
@@ -33,7 +33,7 @@ Uma russa conversa com um americano.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | но | [no] | mas |
 | ру́сский | [ˈruskʲɪj] | russo |
@@ -61,7 +61,7 @@ Uma russa conversa com um americano.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Приве́т. По-ру́сски понима́ешь? | [prʲɪˈvʲet. pɐ ˈruskʲɪ pənʲɪˈmajɪʂ?] | Oi. Entende russo? |
 | Homem | Да, чуть-чу́ть, но так себе́. | [da, tɕʉtʲ ˈtɕʉtʲ, no tak sʲɪˈbʲe] | Sim, um pouco, mas meia-boca. |

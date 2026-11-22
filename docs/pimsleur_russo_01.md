@@ -8,7 +8,7 @@ unidade: 1
 
 Um americano puxa conversa com uma russa.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Извини́те, вы понима́ете по-англи́йски? | [ɪzvʲɪˈnʲitʲɪ, vɨ pənʲɪˈmajɪtʲɪ pə ɐnˈɡlʲijskʲɪ?] | Com licença, a senhora entende inglês? |
 | Mulher | Нет, я не понима́ю по-англи́йски. | [nʲet, ja nʲɪ pənʲɪˈmajʊ pə ɐnˈɡlʲijskʲɪ] | Não, eu não entendo inglês. |
@@ -24,7 +24,7 @@ Um americano puxa conversa com uma russa.
 
 **Verbo entender.** Muda com a pessoa:
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | я понима́ю | [ja pənʲɪˈmajʊ] | eu entendo |
 | ты понима́ешь | [tɨ pənʲɪˈmajɪʂ] | tu entendes / você entende |
@@ -43,7 +43,7 @@ Um americano puxa conversa com uma russa.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | извини́те | [ɪzvʲɪˈnʲitʲɪ] | com licença / desculpe |
 | вы | [vɨ] | o senhor / a senhora (você formal) |
@@ -77,7 +77,7 @@ Um americano puxa conversa com uma russa.
 
 Entre jovens ou amigos usa-se *ты* (<Lat>[tɨ]</Lat> - tu) em vez de *вы* (<Lat>[vɨ]</Lat> - o senhor, a senhora).
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Извини́, ты понима́ешь по-англи́йски? | [ɪzvʲɪˈnʲi, tɨ pənʲɪˈmajɪʂ pə ɐnˈɡlʲijskʲɪ?] | Desculpa, entendes inglês? |
 | Mulher | Нет, не понима́ю. Немно́го по-ру́сски. | [nʲet, nʲɪ pənʲɪˈmajʊ. nʲɪˈmnoɡə pɐ ˈruskʲɪ] | Não, não entendo. Um pouco de russo. |
@@ -88,7 +88,7 @@ Entre jovens ou amigos usa-se *ты* (<Lat>[tɨ]</Lat> - tu) em vez de *вы* (<
 
 ### Outras formas informais
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | Прости́! | [prɐˈsʲtʲi!] | Desculpa! (como *извини́*) |
 | Не. | [nʲe] | Não. (forma rápida de *нет*) |

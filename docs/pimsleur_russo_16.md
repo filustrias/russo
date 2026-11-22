@@ -8,7 +8,7 @@ unidade: 16
 
 Desta vez é Lena quem telefona para convidar Sergey para jantar.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Алло́, Серге́й, э́то вы? До́брый ве́чер. Э́то Ле́на. | [ɐˈɫo, sʲɪrˈɡʲej, ˈɛtə vɨ? ˈdobrɨj ˈvʲetɕɪr. ˈɛtə ˈlʲenə] | Alô, Sergey, é o senhor? Boa noite. Aqui é a Lena. |
 | Sergey | До́брый ве́чер, Ле́на. | [ˈdobrɨj ˈvʲetɕɪr, ˈlʲenə] | Boa noite, Lena. |
@@ -31,7 +31,7 @@ Desta vez é Lena quem telefona para convidar Sergey para jantar.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | Э́то вы? | [ˈɛtə vɨ?] | É o senhor? |
 | до́брый ве́чер | [ˈdobrɨj ˈvʲetɕɪr] | boa noite |
@@ -64,7 +64,7 @@ Desta vez é Lena quem telefona para convidar Sergey para jantar.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Алло́, Серёж, ты? Здоро́во, э́то я, Ле́на. | [ɐˈɫo, sʲɪˈrʲɵʂ, tɨ? zdɐˈrovə, ˈɛtə ja, ˈlʲenə] | Alô, Serjão, é você? E aí, sou eu, a Lena. |
 | Sergey | О, Лено́к, приве́т! | [o, lʲɪˈnok, prʲɪˈvʲet!] | Opa, Leninha, oi! |

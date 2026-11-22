@@ -8,7 +8,7 @@ unidade: 27
 
 Um amigo pergunta a Sergey sobre a viagem.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Amigo | Здра́вствуйте, Серге́й. Когда́ вы собира́етесь пое́хать в Санкт-Петербу́рг? | [ˈzdrastvʊjtʲɪ, sʲɪrˈɡʲej. kɐɡˈda vɨ səbʲɪˈrajɪtʲɪsʲ pɐˈjexətʲ f sankt pʲɪtʲɪrˈburk?] | Olá, Sergey. Quando você pretende ir a São Petersburgo? |
 | Sergey | За́втра ве́чером. | [ˈzaftrə ˈvʲetɕɪrəm] | Amanhã à noite. |
@@ -31,7 +31,7 @@ Um amigo pergunta a Sergey sobre a viagem.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | когда́ | [kɐɡˈda] | quando |
 | за́втра ве́чером | [ˈzaftrə ˈvʲetɕɪrəm] | amanhã à noite |
@@ -63,7 +63,7 @@ Um amigo pergunta a Sergey sobre a viagem.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Amigo | Серёг, здоро́во! Когда́ в Пи́тер рванёшь? | [sʲɪˈrʲɵk, zdɐˈrovə! kɐɡˈda f ˈpʲitʲɪr rvɐˈnʲɵʂ?] | Serjão, e aí! Quando você dá no pé para São Petersburgo? |
 | Sergey | Да за́втра к ве́черу. | [da ˈzaftrə k ˈvʲetɕɪrʊ] | Ah, amanhã, lá pelo fim da tarde. |

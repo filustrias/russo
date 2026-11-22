@@ -8,7 +8,7 @@ unidade: 6
 
 Um homem oferece comida e bebida a uma mulher.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Здра́вствуйте. | [ˈzdrastvʊjtʲɪ] | Olá. |
 | Homem | Здра́вствуйте. Не хоте́ли бы вы что́-нибудь пое́сть? | [ˈzdrastvʊjtʲɪ. nʲɪ xɐˈtʲelʲɪ bɨ vɨ ˈʂto nʲɪbʊtʲ pɐˈjesʲtʲ?] | Olá. A senhora não gostaria de comer alguma coisa? |
@@ -31,7 +31,7 @@ Um homem oferece comida e bebida a uma mulher.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | я хоте́ла бы | [ja xɐˈtʲeɫə bɨ] | eu gostaria (mulher) |
 | я хоте́л бы | [ja xɐˈtʲeɫ bɨ] | eu gostaria (homem) |
@@ -62,7 +62,7 @@ Um homem oferece comida e bebida a uma mulher.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Приве́т! | [prʲɪˈvʲet!] | Oi! |
 | Homem | Приве́т! Перекуси́ть не хо́чешь? | [prʲɪˈvʲet! pʲɪrʲɪkʊˈsʲitʲ nʲɪ ˈxotɕɪʂ?] | Oi! Não quer beliscar alguma coisa? |

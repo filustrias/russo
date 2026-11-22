@@ -8,7 +8,7 @@ unidade: 5
 
 Um homem pede informações a um passante.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Извини́те, пожа́луйста. | [ɪzvʲɪˈnʲitʲɪ, pɐˈʐaɫʊstə] | Com licença, por favor. |
 | Passante | Да. | [da] | Sim? / Pois não. |
@@ -33,7 +33,7 @@ Um homem pede informações a um passante.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | знать | [znatʲ] | saber |
 | я зна́ю | [ja ˈznajʊ] | eu sei |
@@ -65,7 +65,7 @@ Um homem pede informações a um passante.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Подскажи́, пожа́луйста! | [pətskɐˈʐɨ, pɐˈʐaɫʊstə!] | Dá uma dica aqui, por favor! / Me tira uma dúvida! |
 | Passante | Да, что тако́е? | [da, ʂto tɐˈkojɪ?] | Fala, o que foi? |

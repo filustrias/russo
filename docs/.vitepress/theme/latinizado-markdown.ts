@@ -1,6 +1,6 @@
 import type MarkdownIt from 'markdown-it'
 
-// Nas tabelas com uma coluna chamada "Latinizado", envolve cada célula dessa
+// Nas tabelas com uma coluna chamada "IPA", envolve cada célula dessa
 // coluna no componente <Lat>, que deixa o texto encoberto até o clique.
 export function latinizadoNasTabelas(md: MarkdownIt) {
   md.core.ruler.push('latinizado-nas-tabelas', (state) => {
@@ -24,7 +24,7 @@ export function latinizadoNasTabelas(md: MarkdownIt) {
           break
         case 'th_open':
           celula++
-          if (tokens[i + 1]?.content.trim().toLowerCase() === 'latinizado') coluna = celula
+          if (tokens[i + 1]?.content.trim().toLowerCase() === 'ipa') coluna = celula
           break
         case 'td_open': {
           celula++

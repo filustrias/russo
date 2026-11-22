@@ -12,7 +12,7 @@ onUnmounted(() => latinizado.remover(visivel))
     type="button"
     class="lat"
     :aria-expanded="String(visivel)"
-    :aria-label="visivel ? undefined : 'Mostrar latinizado'"
+    :aria-label="visivel ? undefined : 'Mostrar IPA'"
     @click="visivel = !visivel"
   >
     <span class="lat-texto"><slot /></span>

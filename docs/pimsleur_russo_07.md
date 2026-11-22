@@ -8,7 +8,7 @@ unidade: 7
 
 Um homem convida uma mulher para almoçar.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Когда́ бы вы хоте́ли пообе́дать? Сейча́с? | [kɐɡˈda bɨ vɨ xɐˈtʲelʲɪ pəɐˈbʲedətʲ? sʲɪˈtɕas?] | Quando a senhora gostaria de almoçar? Agora? |
 | Mulher | Нет, не сейча́с. Мо́жет быть, по́зже. Сейча́с я хоте́ла бы что́-нибудь вы́пить. | [nʲet, nʲɪ sʲɪˈtɕas. ˈmoʐɨt bɨtʲ, ˈpoʐːɨ. sʲɪˈtɕas ja xɐˈtʲeɫə bɨ ˈʂto nʲɪbʊtʲ ˈvɨpʲɪtʲ] | Não, agora não. Talvez mais tarde. Agora eu gostaria de beber alguma coisa. |
@@ -27,7 +27,7 @@ Um homem convida uma mulher para almoçar.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | пообе́дать | [pəɐˈbʲedətʲ] | almoçar |
 | рестора́н | [rʲɪstɐˈran] | restaurante |
@@ -55,7 +55,7 @@ Um homem convida uma mulher para almoçar.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Когда́ пообе́даем? Пря́мо сейча́с? | [kɐɡˈda pəɐˈbʲedəjɪm? ˈprʲamə sʲɪˈtɕas?] | Quando a gente almoça? Agora mesmo? |
 | Mulher | Не, сейча́с не хочу́. Дава́й попо́зже. А вот вы́пить бы сейча́с не отказа́лась. | [nʲe, sʲɪˈtɕas nʲɪ xɐˈtɕu. dɐˈvaj pɐˈpoʐːɨ. a vot ˈvɨpʲɪdʲ bɨ sʲɪˈtɕas nʲɪ ɐtkɐˈzaɫəsʲ] | Não, agora não. Vamos mais tarde. Mas um drink agora eu não recusava. |

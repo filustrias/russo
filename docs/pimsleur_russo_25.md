@@ -8,7 +8,7 @@ unidade: 25
 
 Um motorista pede o caminho para Moscou.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Motorista | Извини́те. | [ɪzvʲɪˈnʲitʲɪ] | Com licença. |
 | Passante | Да, пожа́луйста. | [da, pɐˈʐaɫʊstə] | Sim, pois não. |
@@ -36,7 +36,7 @@ Um motorista pede o caminho para Moscou.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | отсю́да | [ɐˈtsudə] | daqui |
 | пятьдеся́т | [pʲɪdʲːɪˈsʲat] | cinquenta |
@@ -69,7 +69,7 @@ Um motorista pede o caminho para Moscou.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Motorista | Слышь, подскажи́, пожа́луйста! | [sɫɨʂ, pətskɐˈʐɨ, pɐˈʐaɫʊstə!] | Ei, me dá uma luz aqui, por favor! |
 | Passante | Да, чё тако́е? | [da, tɕɵ tɐˈkojɪ?] | Fala, o que manda? |

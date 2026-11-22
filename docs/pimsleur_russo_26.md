@@ -8,7 +8,7 @@ unidade: 26
 
 O americano Jones encontra a senhora Petrova.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Jones | Здра́вствуйте, госпожа́ Петро́ва. | [ˈzdrastvʊjtʲɪ, ɡəspɐˈʐa pʲɪˈtrovə] | Olá, Sra. Petrova. |
 | Petrova | Здра́вствуйте, господи́н Джонс. | [ˈzdrastvʊjtʲɪ, ɡəspɐˈdʲin dʐons] | Olá, Sr. Jones. |
@@ -31,7 +31,7 @@ O americano Jones encontra a senhora Petrova.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | сего́дня | [sʲɪˈvodnʲə] | hoje |
 | собира́ться | [səbʲɪˈratsə] | pretender |
@@ -64,7 +64,7 @@ O americano Jones encontra a senhora Petrova.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Jones | Здоро́во, Петро́ва! | [zdɐˈrovə, pʲɪˈtrovə!] | Fala, Petrova! |
 | Petrova | О, Джонс, приве́т! | [o, dʐons, prʲɪˈvʲet!] | Opa, Jones, oi! |

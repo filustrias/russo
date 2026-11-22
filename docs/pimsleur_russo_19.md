@@ -8,7 +8,7 @@ unidade: 19
 
 Uma mulher e o marido, John, fazem o pedido no restaurante.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Извини́те. | [ɪzvʲɪˈnʲitʲɪ] | Com licença. |
 | Garçom | Да, что бы вы хоте́ли? Не хоте́ли бы вы что́-нибудь пое́сть? | [da, ˈʂto bɨ vɨ xɐˈtʲelʲɪ? nʲɪ xɐˈtʲelʲɪ bɨ vɨ ˈʂto nʲɪbʊtʲ pɐˈjesʲtʲ?] | Pois não, o que a senhora gostaria? Não gostaria de comer alguma coisa? |
@@ -40,7 +40,7 @@ Uma mulher e o marido, John, fazem o pedido no restaurante.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | Что у вас есть? | [ʂto ʊ ˈvas jesʲtʲ?] | O que vocês têm? |
 | во́дка | [ˈvotkə] | vodca |
@@ -75,7 +75,7 @@ Uma mulher e o marido, John, fazem o pedido no restaurante.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Mulher | Официа́нт, бу́дьте добры́! | [ɐfʲɪtsɨˈant, ˈbutʲtʲɪ dɐˈbrɨ!] | Garçom, por gentileza! |
 | Garçom | Слу́шаю вас! Что бу́дете? Перекуси́ть чего́-нибудь возьмёте? | [ˈsɫuʂəjʊ vas! ʂto ˈbudʲɪtʲɪ? pʲɪrʲɪkʊˈsʲitʲ tɕɪˈvo nʲɪbʊtʲ vɐˈzʲmʲɵtʲɪ?] | Às ordens! O que vão querer? Vão beliscar algo? |

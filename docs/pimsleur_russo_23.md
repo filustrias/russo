@@ -8,7 +8,7 @@ unidade: 23
 
 Dois conhecidos continuam a conversa sobre a família.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Ско́лько челове́к в ва́шей семье́? | [ˈskolʲkə tɕɪɫɐˈvʲek v ˈvaʂɨj sʲɪmʲˈje?] | Quantas pessoas há na sua família? |
 | Mulher | Пять челове́к. У нас два ма́льчика и одна́ де́вочка. | [pʲætʲ tɕɪɫɐˈvʲek. ʊ ˈnas dva ˈmalʲtɕɪkə i ɐdˈna ˈdʲevətɕkə] | Cinco pessoas. Nós temos dois meninos e uma menina. |
@@ -31,7 +31,7 @@ Dois conhecidos continuam a conversa sobre a família.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | пять челове́к | [pʲætʲ tɕɪɫɐˈvʲek] | cinco pessoas |
 | больша́я | [bɐlʲˈʂajə] | grande (feminino) |
@@ -63,7 +63,7 @@ Dois conhecidos continuam a conversa sobre a família.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Ну а ско́лько вас там вообще́ в семье́-то? | [nu a ˈskolʲkə vas tam vəɐpˈɕːe f sʲɪmʲˈje tə?] | E quantas pessoas são, no total, na sua família? |
 | Mulher | Да пя́теро нас. Пацано́в дво́е и до́чка. | [da ˈpʲætʲɪrə nas. pətsɐˈnof ˈdvojɪ i ˈdotɕkə] | Ah, somos cinco. Dois garotos e a menina. |

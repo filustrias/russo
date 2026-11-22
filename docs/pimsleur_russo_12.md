@@ -8,7 +8,7 @@ unidade: 12
 
 Sergey telefona para Lena e a convida para jantar.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Алло́. | [ɐˈɫo] | Alô. |
 | Sergey | Алло́, Ле́на, э́то Серге́й. | [ɐˈɫo, ˈlʲenə, ˈɛtə sʲɪrˈɡʲej] | Alô, Lena, é o Sergey. |
@@ -34,7 +34,7 @@ Sergey telefona para Lena e a convida para jantar.
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | алло́ | [ɐˈɫo] | alô |
 | э́то | [ˈɛtə] | isto é, é |
@@ -64,7 +64,7 @@ Sergey telefona para Lena e a convida para jantar.
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Алло́. | [ɐˈɫo] | Alô. |
 | Sergey | Алло́, Лен, приве́т, э́то Серёжа. | [ɐˈɫo, lʲen, prʲɪˈvʲet, ˈɛtə sʲɪˈrʲɵʐə] | Alô, Lena, oi, é o Seryozha. |

@@ -8,7 +8,7 @@ unidade: 10
 
 Lena convida Sergey para almoçar e os dois marcam a hora.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Серге́й, я хоте́ла бы пообе́дать с ва́ми. | [sʲɪrˈɡʲej, ja xɐˈtʲeɫə bɨ pəɐˈbʲedətʲ s ˈvamʲɪ] | Sergey, eu gostaria de almoçar com o senhor. |
 | Sergey | Хорошо́. Во ско́лько? В два часа́? | [xərɐˈʂo. vɐ ˈskolʲkə? v dva tɕɪˈsa?] | Está bem. A que horas? Às duas? |
@@ -23,7 +23,7 @@ Lena convida Sergey para almoçar e os dois marcam a hora.
 
 **A palavra hora muda com o número.** *Час* (<Lat>[tɕas]</Lat> - hora) tem três formas:
 
-| Número | Russo | Latinizado | Português |
+| Número | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | 1 | в час | [f tɕas] | à uma hora |
 | 2, 3, 4 | в два часа́ | [v dva tɕɪˈsa] | às duas horas |
@@ -35,7 +35,7 @@ De 5 em diante usa-se *часо́в* (<Lat>[tɕɪˈsof]</Lat> - horas), o geniti
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | Кото́рый сейча́с час? | [kɐˈtorɨj sʲɪˈtɕas tɕas?] | Que horas são agora? |
 | пять | [pʲætʲ] | cinco |
@@ -67,7 +67,7 @@ De 5 em diante usa-se *часо́в* (<Lat>[tɕɪˈsof]</Lat> - horas), o geniti
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Серёж, го пообе́даем вме́сте? | [sʲɪˈrʲɵʂ, ɡo pəɐˈbʲedəjɪm ˈvmʲesʲtʲɪ?] | Seryozha, bora almoçar juntos? |
 | Sergey | Дава́й! Во ско́лько? В два? | [dɐˈvaj! vɐ ˈskolʲkə? v dva?] | Bora! Que horas? Às duas? |

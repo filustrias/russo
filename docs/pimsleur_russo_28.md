@@ -8,7 +8,7 @@ unidade: 28
 
 Irina conta seus planos para a noite.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Amigo | До́брый ве́чер, Ири́на. Что сего́дня вы собира́етесь де́лать? | [ˈdobrɨj ˈvʲetɕɪr, ɪˈrʲinə. ʂto sʲɪˈvodnʲə vɨ səbʲɪˈrajɪtʲɪsʲ ˈdʲeɫətʲ?] | Boa noite, Irina. O que você pretende fazer hoje? |
 | Irina | Не зна́ю… Вы зна́ете, я собира́юсь пое́хать в Санкт-Петербу́рг. Моя́ семья́ там сейча́с. | [nʲɪ ˈznajʊ… vɨ ˈznajɪtʲɪ, ja səbʲɪˈrajʊsʲ pɐˈjexətʲ f sankt pʲɪtʲɪrˈburk. mɐˈja sʲɪmʲˈja tam sʲɪˈtɕas] | Não sei… Sabe, eu pretendo ir a São Petersburgo. Minha família está lá agora. |
@@ -36,7 +36,7 @@ No texto de origem, Irina diz *хоте́л бы* (<Lat>[xɐˈtʲeɫ bɨ]</Lat> 
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | До́брый ве́чер. | [ˈdobrɨj ˈvʲetɕɪr] | Boa noite. |
 | провести́ не́сколько дней | [prəvʲɪˈsʲtʲi ˈnʲeskəlʲkə dnʲej] | passar alguns dias |
@@ -68,7 +68,7 @@ No texto de origem, Irina diz *хоте́л бы* (<Lat>[xɐˈtʲeɫ bɨ]</Lat> 
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Amigo | Ири́ш, ве́чер до́брый! Каки́е пла́ны на ве́чер? | [ɪˈrʲiʂ, ˈvʲetɕɪr ˈdobrɨj! kɐˈkʲijɪ ˈpɫanɨ nɐ ˈvʲetɕɪr?] | Irina, boa noite! Quais são os planos para hoje à noite? |
 | Irina | Да пока́ не зна́ю… Слу́шай, я, наве́рное, в Пи́тер махну́. У меня́ ж мои́ все там сейча́с. | [da pɐˈka nʲɪ ˈznajʊ… ˈsɫuʂəj, ja, nɐˈvʲernəjɪ, f ˈpʲitʲɪr mɐxˈnu. ʊ mʲɪˈnʲa ʂ mɐˈi fsʲe tam sʲɪˈtɕas] | Ah, ainda nem sei… Olha, acho que vou dar um pulo em São Petersburgo. É que a minha família está toda lá agora. |

@@ -8,7 +8,7 @@ unidade: 13
 
 Sergey liga de novo para Lena. Ela já tem um jantar marcado, mas propõe um drink mais tarde.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Алло́. | [ɐˈɫo] | Alô. |
 | Sergey | Алло́, Ле́на, э́то Серге́й. | [ɐˈɫo, ˈlʲenə, ˈɛtə sʲɪrˈɡʲej] | Alô, Lena, é o Sergey. |
@@ -36,7 +36,7 @@ Sergey liga de novo para Lena. Ela já tem um jantar marcado, mas propõe um dri
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | до́брый ве́чер | [ˈdobrɨj ˈvʲetɕɪr] | boa noite |
 | у вас есть…? | [ʊ ˈvas jesʲtʲ…?] | o senhor tem…? |
@@ -69,7 +69,7 @@ Sergey liga de novo para Lena. Ela já tem um jantar marcado, mas propõe um dri
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Lena | Алло́. | [ɐˈɫo] | Alô. |
 | Sergey | Алло́, Лен, здоро́во, э́то Серёга. | [ɐˈɫo, lʲen, zdɐˈrovə, ˈɛtə sʲɪˈrʲɵɡə] | Alô, Lena, fala aí, é o Serjão. |

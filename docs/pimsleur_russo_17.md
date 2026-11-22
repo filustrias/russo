@@ -8,7 +8,7 @@ unidade: 17
 
 Uma mulher quer comprar comida e pede dinheiro a um homem, que acha que ela já tem bastante.
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | Что бы вы хоте́ли де́лать? | [ˈʂto bɨ vɨ xɐˈtʲelʲɪ ˈdʲeɫətʲ?] | O que a senhora gostaria de fazer? |
 | Mulher | Сего́дня я собира́юсь купи́ть что́-нибудь пое́сть. | [sʲɪˈvodnʲə ja səbʲɪˈrajʊsʲ kʊˈpʲitʲ ˈʂto nʲɪbʊtʲ pɐˈjesʲtʲ] | Hoje vou comprar alguma coisa para comer. |
@@ -28,7 +28,7 @@ Uma mulher quer comprar comida e pede dinheiro a um homem, que acha que ela já 
 
 **Dezenas de 50 e 60.** *Пятьдеся́т* (<Lat>[pʲɪdʲːɪˈsʲat]</Lat> - cinquenta) e *шестьдеся́т* (<Lat>[ʂɨzʲdʲɪˈsʲat]</Lat> - sessenta). Nos números compostos, é o último algarismo que decide a forma de *рубль* (<Lat>[rublʲ]</Lat> - rublo):
 
-| Termina em | Russo | Latinizado | Português |
+| Termina em | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | 1 | пятьдеся́т оди́н рубль | [pʲɪdʲːɪˈsʲat ɐˈdʲin rublʲ] | 51 rublos |
 | 2, 3, 4 | пятьдеся́т три рубля́ | [pʲɪdʲːɪˈsʲat trʲi rʊˈblʲa] | 53 rublos |
@@ -36,7 +36,7 @@ Uma mulher quer comprar comida e pede dinheiro a um homem, que acha que ela já 
 
 ## Vocabulário
 
-| Russo | Latinizado | Português |
+| Russo | IPA | Português |
 |:--|:--|:--|
 | де́ньги | [ˈdʲenʲɡʲɪ] | dinheiro |
 | Ско́лько у вас де́нег? | [ˈskolʲkə ʊ ˈvas ˈdʲenʲɪk?] | Quanto dinheiro o senhor tem? |
@@ -66,7 +66,7 @@ Uma mulher quer comprar comida e pede dinheiro a um homem, que acha que ela já 
 
 ## Versão informal
 
-| Quem | Russo | Latinizado | Português |
+| Quem | Russo | IPA | Português |
 |:--|:--|:--|:--|
 | Homem | И каки́е пла́ны на сего́дня? | [i kɐˈkʲijɪ ˈpɫanɨ nə sʲɪˈvodnʲə?] | E quais são os planos pra hoje? |
 | Mulher | Да вот, хочу́ пойти́ купи́ть перекуси́ть чего́-нибудь. | [da vot, xɐˈtɕu pɐjˈtʲi kʊˈpʲitʲ pʲɪrʲɪkʊˈsʲitʲ tɕɪˈvo nʲɪbʊtʲ] | Ah, tô querendo ir comprar algo pra beliscar. |

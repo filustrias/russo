@@ -6,7 +6,7 @@
 
 O alfabeto russo tem 33 letras. Para cada uma, este capítulo indica o som equivalente em português, uma palavra russa de exemplo, como ela se lê e o que significa.
 
-Na coluna "Latinizado", a pronúncia está escrita no Alfabeto Fonético Internacional (IPA), entre colchetes. O sinal ˈ vem antes da sílaba tônica. O texto fica encoberto: clique sobre ele para vê-lo. A tabela [Os símbolos do IPA](#os-simbolos-do-ipa), no fim desta página, explica cada símbolo.
+Na coluna "IPA", a pronúncia está escrita no Alfabeto Fonético Internacional, entre colchetes. O sinal ˈ vem antes da sílaba tônica. O texto fica encoberto: clique sobre ele para vê-lo. A tabela [Os símbolos do IPA](#os-simbolos-do-ipa), no fim desta página, explica cada símbolo.
 
 ## Três regras antes de começar
 
@@ -16,7 +16,7 @@ Na coluna "Latinizado", a pronúncia está escrita no Alfabeto Fonético Interna
 
 ## А – Д
 
-| Letra | Som em português | Exemplo | Latinizado | Significado |
+| Letra | Som em português | Exemplo | IPA | Significado |
 |---|---|---|---|---|
 | **А а** | **a** de "casa" | ма́ма | [ˈmamə] | mãe |
 | **Б б** | **b** de "bola" | банк | [bank] | banco |
@@ -30,7 +30,7 @@ Na coluna "Latinizado", a pronúncia está escrita no Alfabeto Fonético Interna
 
 ## Е – И
 
-| Letra | Som em português | Exemplo | Latinizado | Significado |
+| Letra | Som em português | Exemplo | IPA | Significado |
 |---|---|---|---|---|
 | **Е е** | **ié** de "Iémen" | нет | [nʲet] | não |
 | **Ё ё** | **iô** de "iôiô", sempre tônica | ёлка | [ˈjɵɫkə] | pinheiro |
@@ -44,7 +44,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": *нет* (<Lat>
 
 ## Й – Н
 
-| Letra | Som em português | Exemplo | Latinizado | Significado |
+| Letra | Som em português | Exemplo | IPA | Significado |
 |---|---|---|---|---|
 | **Й й** | **i** curto de "pai" | мой | [moj] | meu |
 | **К к** | **k** de "casa" | кот | [kot] | gato |
@@ -58,7 +58,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": *нет* (<Lat>
 
 ## О – С
 
-| Letra | Som em português | Exemplo | Latinizado | Significado |
+| Letra | Som em português | Exemplo | IPA | Significado |
 |---|---|---|---|---|
 | **О о** | **ó** quando tônico; **a** quando átono | молоко́ | [məɫɐˈko] | leite |
 | **П п** | **p** de "pato" | па́па | [ˈpapə] | papai |
@@ -73,7 +73,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": *нет* (<Lat>
 
 ## У – Ч
 
-| Letra | Som em português | Exemplo | Latinizado | Significado |
+| Letra | Som em português | Exemplo | IPA | Significado |
 |---|---|---|---|---|
 | **У у** | **u** de "uva" | у́тро | [ˈutrə] | manhã |
 | **Ф ф** | **f** de "faca" | фо́то | [ˈfotə] | foto |
@@ -87,7 +87,7 @@ Depois de consoante, **Е** dá um leve som de "i" antes do "e": *нет* (<Lat>
 
 ## Ш – Ь
 
-| Letra | Som em português | Exemplo | Latinizado | Significado |
+| Letra | Som em português | Exemplo | IPA | Significado |
 |---|---|---|---|---|
 | **Ш ш** | **ch** de "chave" | ша́пка | [ˈʂapkə] | gorro |
 | **Щ щ** | **ch** mais longo e suave | борщ | [borɕː] | borscht (sopa) |
@@ -102,7 +102,7 @@ Em день, o Ь deixa o "n" final mais suave, parecido com um "nh" curto.
 
 ## Э – Я
 
-| Letra | Som em português | Exemplo | Latinizado | Significado |
+| Letra | Som em português | Exemplo | IPA | Significado |
 |---|---|---|---|---|
 | **Э э** | **é** de "café" | э́то | [ˈɛtə] | isto |
 | **Ю ю** | **iu** de "Iugoslávia" | ю́бка | [ˈjupkə] | saia |
@@ -123,7 +123,7 @@ Em день, o Ь deixa o "n" final mais suave, parecido com um "nh" curto.
 
 A pronúncia do caderno segue o Alfabeto Fonético Internacional. A maioria dos símbolos soa como a letra latina correspondente. Estes são os que pedem atenção:
 
-| Símbolo | Como soa | Exemplo | Latinizado | Significado |
+| Símbolo | Como soa | Exemplo | IPA | Significado |
 |---|---|---|---|---|
 | <span class="ipa">ˈ</span> | marca o início da sílaba tônica | молоко́ | [məɫɐˈko] | leite |
 | <span class="ipa">ʲ</span> | a consoante anterior é mole, com a língua no céu da boca, quase um "i" | нет | [nʲet] | não |
