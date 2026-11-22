@@ -16,11 +16,11 @@ hero:
 features:
   - icon: А
     title: O alfabeto cirílico russo
-    details: As 33 letras, com som, exemplo e latinizado.
+    details: As 33 letras, com som, exemplo e pronúncia no IPA.
     link: /alfabeto-cirilico
     linkText: Abrir
-  - icon: "01–20"
-    title: Pimsleur — Lições 01 a 20
+  - icon: "01–30"
+    title: Pimsleur — Lições 01 a 30
     details: Diálogo, conceitos, vocabulário, exercícios e versão informal, com o áudio de cada aula.
     link: /pimsleur_russo_01
     linkText: Começar pela lição 01

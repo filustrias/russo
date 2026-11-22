@@ -167,6 +167,13 @@ html[data-tamanho='g'] {
   text-align: inherit;
 }
 
+/* A pronúncia está no IPA: a Charis SIL tem todos os símbolos (ɐ ɕ ʂ ʐ ʲ ˈ). */
+.lat-texto {
+  font-family: 'Charis SIL', 'Noto Serif', 'Segoe UI', serif;
+  font-style: normal;
+  letter-spacing: 0.01em;
+}
+
 .lat[aria-expanded='false'] {
   background: repeating-linear-gradient(135deg, var(--lat-listra-a) 0 6px, var(--lat-listra-b) 6px 12px);
 }
@@ -574,4 +581,11 @@ html[data-tamanho='g'] {
   margin-top: 8px;
   font-size: 13px;
   color: var(--vp-c-text-2);
+}
+
+/* Símbolos do IPA citados fora do latinizado (tabela do alfabeto) */
+.ipa {
+  font-family: 'Charis SIL', 'Noto Serif', serif;
+  font-size: 1.35em;
+  font-weight: 400;
 }

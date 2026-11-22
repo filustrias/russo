@@ -10,44 +10,44 @@ A russa começa a conversa com o americano.
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
-| Mulher | Здра́вствуйте. | zdrástvuite. | Olá. / Bom dia. |
-| Mulher | Вы америка́нец? | vy amirikánets? | O senhor é americano? |
-| Homem | Да, я америка́нец. | da, iá amirikánets. | Sim, sou americano. |
-| Homem | Вы понима́ете по-англи́йски? | vy panimáiete pa-anglíiski? | A senhora entende inglês? |
-| Mulher | Нет, я не понима́ю по-англи́йски. Вы понима́ете по-ру́сски? | niet, iá ni panimáiu pa-anglíiski. vy panimáiete pa-rússki? | Não, não entendo inglês. O senhor entende russo? |
-| Homem | Немно́го. Я немно́го понима́ю по-ру́сски. | nimnóga. iá nimnóga panimáiu pa-rússki. | Um pouco. Entendo um pouco de russo. |
-| Mulher | Вы хорошо́ понима́ете по-ру́сски? | vy kharashó panimáiete pa-rússki? | O senhor entende bem russo? |
-| Homem | Нет, не о́чень хорошо́. Я понима́ю по-ру́сски не о́чень хорошо́. | niet, ni ótchen' kharashó. iá panimáiu pa-rússki ni ótchen' kharashó. | Não, não muito bem. Não entendo russo muito bem. |
-| Mulher | Нет, нет, вы хорошо́ понима́ете. | niet, niet, vy kharashó panimáiete. | Não, não, o senhor entende bem. |
-| Homem | Спаси́бо. | spasíba. | Obrigado. |
-| Mulher | До свида́ния. | da svidánia. | Até logo. |
+| Mulher | Здра́вствуйте. | [ˈzdrastvʊjtʲɪ] | Olá. / Bom dia. |
+| Mulher | Вы америка́нец? | [vɨ ɐmʲɪrʲɪˈkanʲɪts?] | O senhor é americano? |
+| Homem | Да, я америка́нец. | [da, ja ɐmʲɪrʲɪˈkanʲɪts] | Sim, sou americano. |
+| Homem | Вы понима́ете по-англи́йски? | [vɨ pənʲɪˈmajɪtʲɪ pə ɐnˈɡlʲijskʲɪ?] | A senhora entende inglês? |
+| Mulher | Нет, я не понима́ю по-англи́йски. Вы понима́ете по-ру́сски? | [nʲet, ja nʲɪ pənʲɪˈmajʊ pə ɐnˈɡlʲijskʲɪ. vɨ pənʲɪˈmajɪtʲɪ pɐ ˈruskʲɪ?] | Não, não entendo inglês. O senhor entende russo? |
+| Homem | Немно́го. Я немно́го понима́ю по-ру́сски. | [nʲɪˈmnoɡə. ja nʲɪˈmnoɡə pənʲɪˈmajʊ pɐ ˈruskʲɪ] | Um pouco. Entendo um pouco de russo. |
+| Mulher | Вы хорошо́ понима́ете по-ру́сски? | [vɨ xərɐˈʂo pənʲɪˈmajɪtʲɪ pɐ ˈruskʲɪ?] | O senhor entende bem russo? |
+| Homem | Нет, не о́чень хорошо́. Я понима́ю по-ру́сски не о́чень хорошо́. | [nʲet, nʲɪ ˈotɕɪnʲ xərɐˈʂo. ja pənʲɪˈmajʊ pɐ ˈruskʲɪ nʲɪ ˈotɕɪnʲ xərɐˈʂo] | Não, não muito bem. Não entendo russo muito bem. |
+| Mulher | Нет, нет, вы хорошо́ понима́ете. | [nʲet, nʲet, vɨ xərɐˈʂo pənʲɪˈmajɪtʲɪ] | Não, não, o senhor entende bem. |
+| Homem | Спаси́бо. | [spɐˈsʲibə] | Obrigado. |
+| Mulher | До свида́ния. | [də svʲɪˈdanʲɪjə] | Até logo. |
 
 ## Conceitos
 
-**Dois jeitos de dizer não.** *Нет* (<Lat>niet</Lat> - não) é a resposta. *Не* (<Lat>ni</Lat> - não) nega o verbo e vem antes dele: *Нет, я не понима́ю.* (<Lat>niet, iá ni panimáiu.</Lat> - Não, eu não entendo.)
+**Dois jeitos de dizer não.** *Нет* (<Lat>[nʲet]</Lat> - não) é a resposta. *Не* (<Lat>[nʲe]</Lat> - não) nega o verbo e vem antes dele: *Нет, я не понима́ю.* (<Lat>[nʲet, ja nʲɪ pənʲɪˈmajʊ]</Lat> - Não, eu não entendo.)
 
-**Bem, antes do verbo.** *Хорошо́* (<Lat>kharashó</Lat> - bem) vem antes do verbo, como *немно́го* (<Lat>nimnóga</Lat> - um pouco): *Вы хорошо́ понима́ете.* (<Lat>vy kharashó panimáiete.</Lat> - O senhor entende bem.)
+**Bem, antes do verbo.** *Хорошо́* (<Lat>[xərɐˈʂo]</Lat> - bem) vem antes do verbo, como *немно́го* (<Lat>[nʲɪˈmnoɡə]</Lat> - um pouco): *Вы хорошо́ понима́ете.* (<Lat>[vɨ xərɐˈʂo pənʲɪˈmajɪtʲɪ]</Lat> - O senhor entende bem.)
 
-**Não muito bem.** Em russo diz-se "entendo não muito bem": *Я понима́ю не о́чень хорошо́.* (<Lat>iá panimáiu ni ótchen' kharashó.</Lat> - Não entendo muito bem.) Aqui *не* (<Lat>ni</Lat> - não) fica antes de *о́чень* (<Lat>ótchen'</Lat> - muito), e não do verbo.
+**Não muito bem.** Em russo diz-se "entendo não muito bem": *Я понима́ю не о́чень хорошо́.* (<Lat>[ja pənʲɪˈmajʊ nʲɪ ˈotɕɪnʲ xərɐˈʂo]</Lat> - Não entendo muito bem.) Aqui *не* (<Lat>[nʲe]</Lat> - não) fica antes de *о́чень* (<Lat>[ˈotɕɪnʲ]</Lat> - muito), e não do verbo.
 
-**Cumprimentos e agradecimento.** *Здра́вствуйте* (<Lat>zdrástvuite</Lat> - olá, formal), *До свида́ния* (<Lat>da svidánia</Lat> - até logo), *Спаси́бо* (<Lat>spasíba</Lat> - obrigado).
+**Cumprimentos e agradecimento.** *Здра́вствуйте* (<Lat>[ˈzdrastvʊjtʲɪ]</Lat> - olá, formal), *До свида́ния* (<Lat>[də svʲɪˈdanʲɪjə]</Lat> - até logo), *Спаси́бо* (<Lat>[spɐˈsʲibə]</Lat> - obrigado).
 
-**Partícula а.** *А* (<Lat>a</Lat> - e, e quanto a) contrapõe ou devolve a pergunta: *А ты по-ру́сски понима́ешь?* (<Lat>a ty pa-rússki panimáiesh?</Lat> - E tu, entendes russo?)
+**Partícula а.** *А* (<Lat>[a]</Lat> - e, e quanto a) contrapõe ou devolve a pergunta: *А ты по-ру́сски понима́ешь?* (<Lat>[a tɨ pɐ ˈruskʲɪ pənʲɪˈmajɪʂ?]</Lat> - E tu, entendes russo?)
 
-**Pronúncia.** Em *здра́вствуйте* (<Lat>zdrástvuite</Lat> - olá) o primeiro **в** não se ouve. Em *хорошо́* (<Lat>kharashó</Lat> - bem) só o último **о** é forte; os outros soam *a*. O mesmo acontece em *спаси́бо* (<Lat>spasíba</Lat> - obrigado) e *до свида́ния* (<Lat>da svidánia</Lat> - até logo).
+**Pronúncia.** Em *здра́вствуйте* (<Lat>[ˈzdrastvʊjtʲɪ]</Lat> - olá) o primeiro **в** não se ouve. Em *хорошо́* (<Lat>[xərɐˈʂo]</Lat> - bem) só o último **о** é forte; os outros soam *a*. O mesmo acontece em *спаси́бо* (<Lat>[spɐˈsʲibə]</Lat> - obrigado) e *до свида́ния* (<Lat>[də svʲɪˈdanʲɪjə]</Lat> - até logo).
 
 ## Vocabulário
 
 | Russo | Latinizado | Português |
 |:--|:--|:--|
-| здра́вствуйте | zdrástvuite | olá / bom dia (formal) |
-| хорошо́ | kharashó | bem |
-| о́чень | ótchen' | muito |
-| о́чень хорошо́ | ótchen' kharashó | muito bem |
-| не о́чень хорошо́ | ni ótchen' kharashó | não muito bem |
-| спаси́бо | spasíba | obrigado |
-| до свида́ния | da svidánia | até logo / adeus |
-| а | a | e (contrapondo), e quanto a… |
+| здра́вствуйте | [ˈzdrastvʊjtʲɪ] | olá / bom dia (formal) |
+| хорошо́ | [xərɐˈʂo] | bem |
+| о́чень | [ˈotɕɪnʲ] | muito |
+| о́чень хорошо́ | [ˈotɕɪnʲ xərɐˈʂo] | muito bem |
+| не о́чень хорошо́ | [nʲɪ ˈotɕɪnʲ xərɐˈʂo] | não muito bem |
+| спаси́бо | [spɐˈsʲibə] | obrigado |
+| до свида́ния | [də svʲɪˈdanʲɪjə] | até logo / adeus |
+| а | [a] | e (contrapondo), e quanto a… |
 
 ## Exercícios
 
@@ -67,20 +67,20 @@ A russa começa a conversa com o americano.
 
 ## Versão informal
 
-Com *ты* (<Lat>ty</Lat> - tu), o cumprimento e a despedida também mudam.
+Com *ты* (<Lat>[tɨ]</Lat> - tu), o cumprimento e a despedida também mudam.
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
-| Mulher | Приве́т! | privíet! | Oi! / E aí! |
-| Mulher | Ты америка́нец? | ty amirikánets? | Tu é americano? |
-| Homem | Да, америка́нец. | da, amirikánets. | Sim, sou americano. |
-| Homem | Англи́йский понима́ешь? | anglíiskii panimáiesh? | Entende inglês? |
-| Mulher | Не, вообще́ не понима́ю. А ты по-ру́сски понима́ешь? | nié, vapshé ni panimáiu. a ty pa-rússki panimáiesh? | Não, nada. E tu entende russo? |
-| Homem | Чуть-чу́ть. Немно́го понима́ю. | tchut'-tchút'. nimnóga panimáiu. | Só um tiquinho. Entendo um pouco. |
-| Mulher | Хорошо́ понима́ешь? | kharashó panimáiesh? | Entende bem? |
-| Homem | Да не осо́бо. Так себе́. | da ni asóba. tak sibié. | Que nada, mais ou menos. |
-| Mulher | Да ла́дно, отли́чно понима́ешь! | da ládna, atlítchna panimáiesh! | Que isso, entende super bem! |
-| Homem | Спаси́бо! | spasíba! | Valeu! |
-| Mulher | Пока́! | paká! | Tchau! / Falou! |
+| Mulher | Приве́т! | [prʲɪˈvʲet!] | Oi! / E aí! |
+| Mulher | Ты америка́нец? | [tɨ ɐmʲɪrʲɪˈkanʲɪts?] | Tu é americano? |
+| Homem | Да, америка́нец. | [da, ɐmʲɪrʲɪˈkanʲɪts] | Sim, sou americano. |
+| Homem | Англи́йский понима́ешь? | [ɐnˈɡlʲijskʲɪj pənʲɪˈmajɪʂ?] | Entende inglês? |
+| Mulher | Не, вообще́ не понима́ю. А ты по-ру́сски понима́ешь? | [nʲe, vəɐpˈɕːe nʲɪ pənʲɪˈmajʊ. a tɨ pɐ ˈruskʲɪ pənʲɪˈmajɪʂ?] | Não, nada. E tu entende russo? |
+| Homem | Чуть-чу́ть. Немно́го понима́ю. | [tɕʉtʲ ˈtɕʉtʲ. nʲɪˈmnoɡə pənʲɪˈmajʊ] | Só um tiquinho. Entendo um pouco. |
+| Mulher | Хорошо́ понима́ешь? | [xərɐˈʂo pənʲɪˈmajɪʂ?] | Entende bem? |
+| Homem | Да не осо́бо. Так себе́. | [da nʲɪ ɐˈsobə. tak sʲɪˈbʲe] | Que nada, mais ou menos. |
+| Mulher | Да ла́дно, отли́чно понима́ешь! | [da ˈɫadnə, ɐˈtlʲitɕnə pənʲɪˈmajɪʂ!] | Que isso, entende super bem! |
+| Homem | Спаси́бо! | [spɐˈsʲibə!] | Valeu! |
+| Mulher | Пока́! | [pɐˈka!] | Tchau! / Falou! |
 
-*Приве́т* (<Lat>privíet</Lat> - oi) e *Пока́* (<Lat>paká</Lat> - tchau) são o cumprimento e a despedida entre amigos. *Вообще́ не* (<Lat>vapshé ni</Lat> - nada mesmo) reforça o não. *Так себе́* (<Lat>tak sibié</Lat> - mais ou menos). *Да ла́дно* (<Lat>da ládna</Lat> - que isso). *Отли́чно* (<Lat>atlítchna</Lat> - ótimo) é mais forte que *хорошо́* (<Lat>kharashó</Lat> - bem).
+*Приве́т* (<Lat>[prʲɪˈvʲet]</Lat> - oi) e *Пока́* (<Lat>[pɐˈka]</Lat> - tchau) são o cumprimento e a despedida entre amigos. *Вообще́ не* (<Lat>[vəɐpˈɕːe nʲe]</Lat> - nada mesmo) reforça o não. *Так себе́* (<Lat>[tak sʲɪˈbʲe]</Lat> - mais ou menos). *Да ла́дно* (<Lat>[da ˈɫadnə]</Lat> - que isso). *Отли́чно* (<Lat>[ɐˈtlʲitɕnə]</Lat> - ótimo) é mais forte que *хорошо́* (<Lat>[xərɐˈʂo]</Lat> - bem).

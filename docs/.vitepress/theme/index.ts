@@ -13,6 +13,8 @@ import '@fontsource/pt-serif/700-italic.css'
 import '@fontsource-variable/inter'
 import '@fontsource-variable/inter/wght-italic.css'
 import '@fontsource-variable/unbounded'
+import '@fontsource/charis-sil/latin-400.css'
+import '@fontsource/charis-sil/latin-ext-400.css'
 import './estilo.css'
 
 import Lat from './Lat.vue'

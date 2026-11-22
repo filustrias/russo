@@ -10,50 +10,50 @@ Um homem convida Anna para almoçar no restaurante Intourist.
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
-| Anna | Здра́вствуйте. | zdrástvuite. | Olá. |
-| Homem | Здра́вствуйте, А́нна. Скажи́те, что бы вы хоте́ли де́лать сейча́с? | zdrástvuite, ána. skajíte, shto by vy khatiéli diélat' sitchás? | Olá, Anna. Diga-me, o que a senhora gostaria de fazer agora? |
-| Anna | Не зна́ю. А вы? | ni znáiu. a vy? | Não sei. E o senhor? |
-| Homem | Сейча́с я хоте́л бы пообе́дать. Не хоте́ли бы вы пообе́дать со мной? | sitchás iá khatiél by paabiédat'. ni khatiéli by vy paabiédat' sa mnói? | Agora eu gostaria de almoçar. A senhora não gostaria de almoçar comigo? |
-| Anna | С ва́ми? Да, спаси́бо. Где бы вы хоте́ли пообе́дать? | s vámi? da, spasíba. gdie by vy khatiéli paabiédat'? | Com o senhor? Sim, obrigada. Onde o senhor gostaria de almoçar? |
-| Homem | В рестора́не Интури́ст. | v ristaránie inturíst. | No restaurante Intourist. |
-| Anna | Хорошо́. Где рестора́н Интури́ст? | kharashó. gdie ristarán inturíst? | Está bem. Onde fica o restaurante Intourist? |
-| Homem | На Тверско́й у́лице. | na tvirskói úlitse. | Na Rua Tverskaya. |
+| Anna | Здра́вствуйте. | [ˈzdrastvʊjtʲɪ] | Olá. |
+| Homem | Здра́вствуйте, А́нна. Скажи́те, что бы вы хоте́ли де́лать сейча́с? | [ˈzdrastvʊjtʲɪ, ˈanːə. skɐˈʐɨtʲɪ, ˈʂto bɨ vɨ xɐˈtʲelʲɪ ˈdʲeɫətʲ sʲɪˈtɕas?] | Olá, Anna. Diga-me, o que a senhora gostaria de fazer agora? |
+| Anna | Не зна́ю. А вы? | [nʲɪ ˈznajʊ. a vɨ?] | Não sei. E o senhor? |
+| Homem | Сейча́с я хоте́л бы пообе́дать. Не хоте́ли бы вы пообе́дать со мной? | [sʲɪˈtɕas ja xɐˈtʲeɫ bɨ pəɐˈbʲedətʲ. nʲɪ xɐˈtʲelʲɪ bɨ vɨ pəɐˈbʲedətʲ sɐ ˈmnoj?] | Agora eu gostaria de almoçar. A senhora não gostaria de almoçar comigo? |
+| Anna | С ва́ми? Да, спаси́бо. Где бы вы хоте́ли пообе́дать? | [s ˈvamʲɪ? da, spɐˈsʲibə. ˈɡdʲe bɨ vɨ xɐˈtʲelʲɪ pəɐˈbʲedətʲ?] | Com o senhor? Sim, obrigada. Onde o senhor gostaria de almoçar? |
+| Homem | В рестора́не Интури́ст. | [v rʲɪstɐˈranʲɪ ɪntʊˈrʲist] | No restaurante Intourist. |
+| Anna | Хорошо́. Где рестора́н Интури́ст? | [xərɐˈʂo. ɡdʲe rʲɪstɐˈran ɪntʊˈrʲist?] | Está bem. Onde fica o restaurante Intourist? |
+| Homem | На Тверско́й у́лице. | [nə tvʲɪrˈskoj ˈulʲɪtsɨ] | Na Rua Tverskaya. |
 
 ## Conceitos
 
-**Comigo.** *Со мной* (<Lat>sa mnói</Lat> - comigo). Antes de *мной* (<Lat>mnói</Lat> - mim), *с* (<Lat>s</Lat> - com) vira *со* (<Lat>sa</Lat> - com) para facilitar a pronúncia.
+**Comigo.** *Со мной* (<Lat>[sɐ ˈmnoj]</Lat> - comigo). Antes de *мной* (<Lat>[mnoj]</Lat> - mim), *с* (<Lat>[s]</Lat> - com) vira *со* (<Lat>[so]</Lat> - com) para facilitar a pronúncia.
 
-**Ele e ela no gostaria.** Ele diz *я хоте́л бы* (<Lat>iá khatiél by</Lat> - eu gostaria); ela, *я хоте́ла бы* (<Lat>iá khatiéla by</Lat> - eu gostaria).
+**Ele e ela no gostaria.** Ele diz *я хоте́л бы* (<Lat>[ja xɐˈtʲeɫ bɨ]</Lat> - eu gostaria); ela, *я хоте́ла бы* (<Lat>[ja xɐˈtʲeɫə bɨ]</Lat> - eu gostaria).
 
-**A que horas?** *Во ско́лько?* (<Lat>va skól'ka?</Lat> - A que horas?)
+**A que horas?** *Во ско́лько?* (<Lat>[vɐ ˈskolʲkə?]</Lat> - A que horas?)
 
-- *в час* (<Lat>f tchas</Lat> - à uma hora)
-- *в два часа́* (<Lat>v dva tchisá</Lat> - às duas horas)
-- *в три часа́* (<Lat>f tri tchisá</Lat> - às três horas)
-- *в четы́ре часа́* (<Lat>f tchitýrie tchisá</Lat> - às quatro horas)
+- *в час* (<Lat>[f tɕas]</Lat> - à uma hora)
+- *в два часа́* (<Lat>[v dva tɕɪˈsa]</Lat> - às duas horas)
+- *в три часа́* (<Lat>[f trʲi tɕɪˈsa]</Lat> - às três horas)
+- *в четы́ре часа́* (<Lat>[f tɕɪˈtɨrʲɪ tɕɪˈsa]</Lat> - às quatro horas)
 
-**Números.** *Оди́н* (<Lat>adín</Lat> - um), *два* (<Lat>dva</Lat> - dois), *три* (<Lat>tri</Lat> - três), *четы́ре* (<Lat>tchitýrie</Lat> - quatro).
+**Números.** *Оди́н* (<Lat>[ɐˈdʲin]</Lat> - um), *два* (<Lat>[dva]</Lat> - dois), *три* (<Lat>[trʲi]</Lat> - três), *четы́ре* (<Lat>[tɕɪˈtɨrʲɪ]</Lat> - quatro).
 
-**Certeza.** *Коне́чно* (<Lat>kaniéshna</Lat> - claro).
+**Certeza.** *Коне́чно* (<Lat>[kɐˈnʲeʂnə]</Lat> - claro).
 
 ## Vocabulário
 
 | Russo | Latinizado | Português |
 |:--|:--|:--|
-| скажи́те | skajíte | diga(-me) |
-| де́лать | diélat' | fazer |
-| со мной | sa mnói | comigo |
-| с ва́ми | s vámi | com o senhor / com a senhora |
-| Во ско́лько? | va skól'ka? | A que horas? |
-| в час | f tchas | à uma hora |
-| в два часа́ | v dva tchisá | às duas horas |
-| в три часа́ | f tri tchisá | às três horas |
-| в четы́ре часа́ | f tchitýrie tchisá | às quatro horas |
-| оди́н | adín | um |
-| два | dva | dois |
-| три | tri | três |
-| четы́ре | tchitýrie | quatro |
-| коне́чно | kaniéshna | claro |
+| скажи́те | [skɐˈʐɨtʲɪ] | diga(-me) |
+| де́лать | [ˈdʲeɫətʲ] | fazer |
+| со мной | [sɐ ˈmnoj] | comigo |
+| с ва́ми | [s ˈvamʲɪ] | com o senhor / com a senhora |
+| Во ско́лько? | [vɐ ˈskolʲkə?] | A que horas? |
+| в час | [f tɕas] | à uma hora |
+| в два часа́ | [v dva tɕɪˈsa] | às duas horas |
+| в три часа́ | [f trʲi tɕɪˈsa] | às três horas |
+| в четы́ре часа́ | [f tɕɪˈtɨrʲɪ tɕɪˈsa] | às quatro horas |
+| оди́н | [ɐˈdʲin] | um |
+| два | [dva] | dois |
+| три | [trʲi] | três |
+| четы́ре | [tɕɪˈtɨrʲɪ] | quatro |
+| коне́чно | [kɐˈnʲeʂnə] | claro |
 
 ## Exercícios
 
@@ -75,13 +75,13 @@ Um homem convida Anna para almoçar no restaurante Intourist.
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
-| Anna | Приве́т! | privíet! | E aí! |
-| Homem | Приве́т, А́ня! Чем займёмся сейча́с? | privíet, ánia! tchem zaimiômsia sitchás? | Oi, Anya! O que a gente vai fazer agora? |
-| Anna | Да не зна́ю. А ты что ду́маешь? | da ni znáiu. a ty shto dúmaiesh? | Sei lá. E tu, o que acha? |
-| Homem | Я бы пообе́дал. Пойдёшь со мной за компа́нию? | iá by paabiédal. paidiôsh sa mnói za kampániiu? | Eu almoçaria. Bora almoçar comigo? |
-| Anna | С тобо́й? Да дава́й! А куда́ пойдём? | s tabói? da davái! a kudá paidiôm? | Contigo? Bora sim! E pra onde a gente vai? |
-| Homem | В Интури́ст. | v inturíst. | No Intourist. |
-| Anna | Ага́, а где он? | agá, a gdie on? | Tá, e onde fica isso? |
-| Homem | Да на Тверско́й же. | da na tvirskói je. | Na Tverskaya, pô. |
+| Anna | Приве́т! | [prʲɪˈvʲet!] | E aí! |
+| Homem | Приве́т, А́ня! Чем займёмся сейча́с? | [prʲɪˈvʲet, ˈanʲə! tɕem zɐjˈmʲɵmsʲə sʲɪˈtɕas?] | Oi, Anya! O que a gente vai fazer agora? |
+| Anna | Да не зна́ю. А ты что ду́маешь? | [da nʲɪ ˈznajʊ. a tɨ ʂto ˈduməjɪʂ?] | Sei lá. E tu, o que acha? |
+| Homem | Я бы пообе́дал. Пойдёшь со мной за компа́нию? | [ˈja bɨ pəɐˈbʲedəɫ. pɐjˈdʲɵʂ sɐ ˈmnoj zə kɐmˈpanʲɪjʊ?] | Eu almoçaria. Bora almoçar comigo? |
+| Anna | С тобо́й? Да дава́й! А куда́ пойдём? | [s tɐˈboj? da dɐˈvaj! a kʊˈda pɐjˈdʲɵm?] | Contigo? Bora sim! E pra onde a gente vai? |
+| Homem | В Интури́ст. | [v ɨntʊˈrʲist] | No Intourist. |
+| Anna | Ага́, а где он? | [ɐˈɡa, a ɡdʲe on?] | Tá, e onde fica isso? |
+| Homem | Да на Тверско́й же. | [da nə tvʲɪrˈskoj ʐɨ] | Na Tverskaya, pô. |
 
-*Я бы пообе́дал* (<Lat>iá by paabiédal</Lat> - eu almoçaria) dispensa o *хоте́л* (<Lat>khatiél</Lat> - queria). *За компа́нию* (<Lat>za kampániiu</Lat> - para fazer companhia). *С тобо́й* (<Lat>s tabói</Lat> - contigo) é a forma de *ты* (<Lat>ty</Lat> - tu), assim como *с ва́ми* (<Lat>s vámi</Lat> - com o senhor) é a de *вы* (<Lat>vy</Lat> - o senhor). *Же* (<Lat>je</Lat> - ora) no fim da frase dá ênfase.
+*Я бы пообе́дал* (<Lat>[ˈja bɨ pəɐˈbʲedəɫ]</Lat> - eu almoçaria) dispensa o *хоте́л* (<Lat>[xɐˈtʲeɫ]</Lat> - queria). *За компа́нию* (<Lat>[zə kɐmˈpanʲɪjʊ]</Lat> - para fazer companhia). *С тобо́й* (<Lat>[s tɐˈboj]</Lat> - contigo) é a forma de *ты* (<Lat>[tɨ]</Lat> - tu), assim como *с ва́ми* (<Lat>[s ˈvamʲɪ]</Lat> - com o senhor) é a de *вы* (<Lat>[vɨ]</Lat> - o senhor). *Же* (<Lat>[ʐɛ]</Lat> - ora) no fim da frase dá ênfase.

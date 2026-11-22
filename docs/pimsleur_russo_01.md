@@ -10,52 +10,52 @@ Um americano puxa conversa com uma russa.
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
-| Homem | Извини́те, вы понима́ете по-англи́йски? | izviníte, vy panimáiete pa-anglíiski? | Com licença, a senhora entende inglês? |
-| Mulher | Нет, я не понима́ю по-англи́йски. | niet, iá ni panimáiu pa-anglíiski. | Não, eu não entendo inglês. |
-| Mulher | Я немно́го понима́ю по-ру́сски. | iá nimnóga panimáiu pa-rússki. | Eu entendo um pouco de russo. |
-| Mulher | Вы америка́нец? | vy amirikánets? | O senhor é americano? |
-| Homem | Да, я америка́нец. | da, iá amirikánets. | Sim, eu sou americano. |
+| Homem | Извини́те, вы понима́ете по-англи́йски? | [ɪzvʲɪˈnʲitʲɪ, vɨ pənʲɪˈmajɪtʲɪ pə ɐnˈɡlʲijskʲɪ?] | Com licença, a senhora entende inglês? |
+| Mulher | Нет, я не понима́ю по-англи́йски. | [nʲet, ja nʲɪ pənʲɪˈmajʊ pə ɐnˈɡlʲijskʲɪ] | Não, eu não entendo inglês. |
+| Mulher | Я немно́го понима́ю по-ру́сски. | [ja nʲɪˈmnoɡə pənʲɪˈmajʊ pɐ ˈruskʲɪ] | Eu entendo um pouco de russo. |
+| Mulher | Вы америка́нец? | [vɨ ɐmʲɪrʲɪˈkanʲɪts?] | O senhor é americano? |
+| Homem | Да, я америка́нец. | [da, ja ɐmʲɪrʲɪˈkanʲɪts] | Sim, eu sou americano. |
 
 ## Conceitos
 
-**Pergunta de sim ou não.** Nada muda na frase, só a entoação: *Вы понима́ете.* (<Lat>vy panimáiete.</Lat> - O senhor entende.) e *Вы понима́ете?* (<Lat>vy panimáiete?</Lat> - O senhor entende?)
+**Pergunta de sim ou não.** Nada muda na frase, só a entoação: *Вы понима́ете.* (<Lat>[vɨ pənʲɪˈmajɪtʲɪ]</Lat> - O senhor entende.) e *Вы понима́ете?* (<Lat>[vɨ pənʲɪˈmajɪtʲɪ?]</Lat> - O senhor entende?)
 
-**Não antes do verbo.** *Не* (<Lat>ni</Lat> - não) vem logo antes do verbo: *Я понима́ю.* (<Lat>iá panimáiu.</Lat> - Eu entendo.) vira *Я не понима́ю.* (<Lat>iá ni panimáiu.</Lat> - Eu não entendo.) É curto e quase engolido na fala rápida, mas muda o sentido.
+**Não antes do verbo.** *Не* (<Lat>[nʲe]</Lat> - não) vem logo antes do verbo: *Я понима́ю.* (<Lat>[ja pənʲɪˈmajʊ]</Lat> - Eu entendo.) vira *Я не понима́ю.* (<Lat>[ja nʲɪ pənʲɪˈmajʊ]</Lat> - Eu não entendo.) É curto e quase engolido na fala rápida, mas muda o sentido.
 
 **Verbo entender.** Muda com a pessoa:
 
 | Russo | Latinizado | Português |
 |:--|:--|:--|
-| я понима́ю | iá panimáiu | eu entendo |
-| ты понима́ешь | ty panimáiesh | tu entendes / você entende |
-| он / она́ / оно́ понима́ет | on / aná / anó panimáiet | ele / ela entende (оно́: neutro) |
-| мы понима́ем | my panimáiem | nós entendemos |
-| вы понима́ете | vy panimáiete | o senhor / a senhora entende; vocês entendem |
-| они́ понима́ют | aní panimáiut | eles / elas entendem |
+| я понима́ю | [ja pənʲɪˈmajʊ] | eu entendo |
+| ты понима́ешь | [tɨ pənʲɪˈmajɪʂ] | tu entendes / você entende |
+| он / она́ / оно́ понима́ет | [on / ɐˈna / ɐˈno pənʲɪˈmajɪt] | ele / ela entende (оно́: neutro) |
+| мы понима́ем | [mɨ pənʲɪˈmajɪm] | nós entendemos |
+| вы понима́ете | [vɨ pənʲɪˈmajɪtʲɪ] | o senhor / a senhora entende; vocês entendem |
+| они́ понима́ют | [ɐˈnʲi pənʲɪˈmajʊt] | eles / elas entendem |
 
-**Sem verbo ser.** *Вы америка́нец?* (<Lat>vy amirikánets?</Lat> - O senhor é americano?): o verbo fica subentendido. Para mulher: *америка́нка* (<Lat>amirikánka</Lat> - americana).
+**Sem verbo ser.** *Вы америка́нец?* (<Lat>[vɨ ɐmʲɪrʲɪˈkanʲɪts?]</Lat> - O senhor é americano?): o verbo fica subentendido. Para mulher: *америка́нка* (<Lat>[ɐmʲɪrʲɪˈkankə]</Lat> - americana).
 
-**Língua com по-.** *по-англи́йски* (<Lat>pa-anglíiski</Lat> - em inglês), *по-ру́сски* (<Lat>pa-rússki</Lat> - em russo).
+**Língua com по-.** *по-англи́йски* (<Lat>[pə ɐnˈɡlʲijskʲɪ]</Lat> - em inglês), *по-ру́сски* (<Lat>[pɐ ˈruskʲɪ]</Lat> - em russo).
 
-**Ordem.** *Немно́го* (<Lat>nimnóga</Lat> - um pouco) vem antes do verbo: *Я немно́го понима́ю.* (<Lat>iá nimnóga panimáiu.</Lat> - Eu entendo um pouco.)
+**Ordem.** *Немно́го* (<Lat>[nʲɪˈmnoɡə]</Lat> - um pouco) vem antes do verbo: *Я немно́го понима́ю.* (<Lat>[ja nʲɪˈmnoɡə pənʲɪˈmajʊ]</Lat> - Eu entendo um pouco.)
 
-**Acento.** O sinal ´ marca a sílaba forte e não se escreve no russo normal. O **о** fora da sílaba forte soa *a*: *немно́го* (<Lat>nimnóga</Lat> - um pouco), *по* (<Lat>pa</Lat> - em).
+**Acento.** O sinal ´ marca a sílaba forte e não se escreve no russo normal. O **о** fora da sílaba forte soa *a* (no IPA, ɐ ou ə): *немно́го* (<Lat>[nʲɪˈmnoɡə]</Lat> - um pouco), *по-ру́сски* (<Lat>[pɐ ˈruskʲɪ]</Lat> - em russo). No IPA, o sinal ˈ vem antes da sílaba forte.
 
 ## Vocabulário
 
 | Russo | Latinizado | Português |
 |:--|:--|:--|
-| извини́те | izviníte | com licença / desculpe |
-| вы | vy | o senhor / a senhora (você formal) |
-| я | iá | eu |
-| понима́ть | panimát' | entender |
-| по-англи́йски | pa-anglíiski | (em) inglês |
-| по-ру́сски | pa-rússki | (em) russo |
-| да | da | sim |
-| нет | niet | não |
-| не | ni | não (antes do verbo) |
-| немно́го | nimnóga | um pouco |
-| америка́нец | amirikánets | americano |
+| извини́те | [ɪzvʲɪˈnʲitʲɪ] | com licença / desculpe |
+| вы | [vɨ] | o senhor / a senhora (você formal) |
+| я | [ja] | eu |
+| понима́ть | [pənʲɪˈmatʲ] | entender |
+| по-англи́йски | [pə ɐnˈɡlʲijskʲɪ] | (em) inglês |
+| по-ру́сски | [pɐ ˈruskʲɪ] | (em) russo |
+| да | [da] | sim |
+| нет | [nʲet] | não |
+| не | [nʲe] | não (antes do verbo) |
+| немно́го | [nʲɪˈmnoɡə] | um pouco |
+| америка́нец | [ɐmʲɪrʲɪˈkanʲɪts] | americano |
 
 ## Exercícios
 
@@ -75,24 +75,24 @@ Um americano puxa conversa com uma russa.
 
 ## Versão informal
 
-Entre jovens ou amigos usa-se *ты* (<Lat>ty</Lat> - tu) em vez de *вы* (<Lat>vy</Lat> - o senhor, a senhora).
+Entre jovens ou amigos usa-se *ты* (<Lat>[tɨ]</Lat> - tu) em vez de *вы* (<Lat>[vɨ]</Lat> - o senhor, a senhora).
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
-| Homem | Извини́, ты понима́ешь по-англи́йски? | izviní, ty panimáiesh pa-anglíiski? | Desculpa, entendes inglês? |
-| Mulher | Нет, не понима́ю. Немно́го по-ру́сски. | niet, ni panimáiu. nimnóga pa-rússki. | Não, não entendo. Um pouco de russo. |
-| Mulher | Ты америка́нец? | ty amirikánets? | És americano? |
-| Homem | Я не америка́нец, я брази́лец. | iá ni amirikánets, iá brazíliets. | Não sou americano, sou brasileiro. |
+| Homem | Извини́, ты понима́ешь по-англи́йски? | [ɪzvʲɪˈnʲi, tɨ pənʲɪˈmajɪʂ pə ɐnˈɡlʲijskʲɪ?] | Desculpa, entendes inglês? |
+| Mulher | Нет, не понима́ю. Немно́го по-ру́сски. | [nʲet, nʲɪ pənʲɪˈmajʊ. nʲɪˈmnoɡə pɐ ˈruskʲɪ] | Não, não entendo. Um pouco de russo. |
+| Mulher | Ты америка́нец? | [tɨ ɐmʲɪrʲɪˈkanʲɪts?] | És americano? |
+| Homem | Я не америка́нец, я брази́лец. | [ja nʲɪ ɐmʲɪrʲɪˈkanʲɪts, ja brɐˈzʲilʲɪts] | Não sou americano, sou brasileiro. |
 
-*Извини́* (<Lat>izviní</Lat> - desculpa) e *понима́ешь* (<Lat>panimáiesh</Lat> - entendes) são as formas de *ты* (<Lat>ty</Lat> - tu).
+*Извини́* (<Lat>[ɪzvʲɪˈnʲi]</Lat> - desculpa) e *понима́ешь* (<Lat>[pənʲɪˈmajɪʂ]</Lat> - entendes) são as formas de *ты* (<Lat>[tɨ]</Lat> - tu).
 
 ### Outras formas informais
 
 | Russo | Latinizado | Português |
 |:--|:--|:--|
-| Прости́! | prastí! | Desculpa! (como *извини́*) |
-| Не. | nié. | Não. (forma rápida de *нет*) |
-| Я чуть-чу́ть говорю́ по-ру́сски. | iá tchut'-tchút' gavariú pa-rússki. | Eu arranho um pouquinho de russo. |
-| Ага́, америка́нец. | agá, amirikánets. | É, americano. |
+| Прости́! | [prɐˈsʲtʲi!] | Desculpa! (como *извини́*) |
+| Не. | [nʲe] | Não. (forma rápida de *нет*) |
+| Я чуть-чу́ть говорю́ по-ру́сски. | [ja tɕʉtʲ ˈtɕʉtʲ ɡəvɐˈrʲu pɐ ˈruskʲɪ] | Eu arranho um pouquinho de russo. |
+| Ага́, америка́нец. | [ɐˈɡa, ɐmʲɪrʲɪˈkanʲɪts] | É, americano. |
 
-*Чуть-чу́ть* (<Lat>tchut'-tchút'</Lat> - um pouquinho) é mais informal que *немно́го* (<Lat>nimnóga</Lat> - um pouco). *Говорю́* (<Lat>gavariú</Lat> - eu falo) vem do verbo *говори́ть* (<Lat>gavarít'</Lat> - falar), que aparece na lição 4.
+*Чуть-чу́ть* (<Lat>[tɕʉtʲ ˈtɕʉtʲ]</Lat> - um pouquinho) é mais informal que *немно́го* (<Lat>[nʲɪˈmnoɡə]</Lat> - um pouco). *Говорю́* (<Lat>[ɡəvɐˈrʲu]</Lat> - eu falo) vem do verbo *говори́ть* (<Lat>[ɡəvɐˈrʲitʲ]</Lat> - falar), que aparece na lição 4.

@@ -10,39 +10,39 @@ Uma americana conversa com um russo.
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
-| Mulher | Извини́те, вы ру́сский? | izviníte, vy rússkii? | Com licença, o senhor é russo? |
-| Homem | Да, я ру́сский. А вы? | da, iá rússkii. a vy? | Sim, sou russo. E a senhora? |
-| Mulher | Я америка́нка. | iá amirikánka. | Sou americana. |
-| Homem | А вы понима́ете по-ру́сски? | a vy panimáiete pa-rússki? | E a senhora entende russo? |
-| Mulher | Я немно́го понима́ю. Не о́чень хорошо́. | iá nimnóga panimáiu. ni ótchen' kharashó. | Entendo um pouco. Não muito bem. |
-| Homem | Нет, нет, вы хорошо́ понима́ете. | niet, niet, vy kharashó panimáiete. | Não, não, a senhora entende bem. |
-| Mulher | Спаси́бо. | spasíba. | Obrigada. |
+| Mulher | Извини́те, вы ру́сский? | [ɪzvʲɪˈnʲitʲɪ, vɨ ˈruskʲɪj?] | Com licença, o senhor é russo? |
+| Homem | Да, я ру́сский. А вы? | [da, ja ˈruskʲɪj. a vɨ?] | Sim, sou russo. E a senhora? |
+| Mulher | Я америка́нка. | [ja ɐmʲɪrʲɪˈkankə] | Sou americana. |
+| Homem | А вы понима́ете по-ру́сски? | [a vɨ pənʲɪˈmajɪtʲɪ pɐ ˈruskʲɪ?] | E a senhora entende russo? |
+| Mulher | Я немно́го понима́ю. Не о́чень хорошо́. | [ja nʲɪˈmnoɡə pənʲɪˈmajʊ. nʲɪ ˈotɕɪnʲ xərɐˈʂo] | Entendo um pouco. Não muito bem. |
+| Homem | Нет, нет, вы хорошо́ понима́ете. | [nʲet, nʲet, vɨ xərɐˈʂo pənʲɪˈmajɪtʲɪ] | Não, não, a senhora entende bem. |
+| Mulher | Спаси́бо. | [spɐˈsʲibə] | Obrigada. |
 
 ## Conceitos
 
-**Falar.** *Говори́ть* (<Lat>gavarít'</Lat> - falar): *Вы говори́те?* (<Lat>vy gavaríte?</Lat> - O senhor fala?) e *Я говорю́.* (<Lat>iá gavariú.</Lat> - Eu falo.)
+**Falar.** *Говори́ть* (<Lat>[ɡəvɐˈrʲitʲ]</Lat> - falar): *Вы говори́те?* (<Lat>[vɨ ɡəvɐˈrʲitʲɪ?]</Lat> - O senhor fala?) e *Я говорю́.* (<Lat>[ja ɡəvɐˈrʲu]</Lat> - Eu falo.)
 
-**E.** *И* (<Lat>i</Lat> - e) soma duas coisas: *по-англи́йски и по-ру́сски* (<Lat>pa-anglíiski i pa-rússki</Lat> - inglês e russo). Para contrapor, usa-se *а* (<Lat>a</Lat> - e, mas), da lição 2.
+**E.** *И* (<Lat>[i]</Lat> - e) soma duas coisas: *по-англи́йски и по-ру́сски* (<Lat>[pə ɐnˈɡlʲijskʲɪ i pɐ ˈruskʲɪ]</Lat> - inglês e russo). Para contrapor, usa-se *а* (<Lat>[a]</Lat> - e, mas), da lição 2.
 
-**Pedindo direções.** *Где…?* (<Lat>gdie…?</Lat> - Onde fica…?). Lugares: *у́лица* (<Lat>úlitsa</Lat> - rua), *пло́щадь* (<Lat>plóshit'</Lat> - praça), *Тверска́я у́лица* (<Lat>tvirskáia úlitsa</Lat> - Rua Tverskaya), *Кра́сная пло́щадь* (<Lat>krásnaia plóshit'</Lat> - Praça Vermelha).
+**Pedindo direções.** *Где…?* (<Lat>[ɡdʲe…?]</Lat> - Onde fica…?). Lugares: *у́лица* (<Lat>[ˈulʲɪtsə]</Lat> - rua), *пло́щадь* (<Lat>[ˈpɫoɕːɪtʲ]</Lat> - praça), *Тверска́я у́лица* (<Lat>[tvʲɪrˈskajə ˈulʲɪtsə]</Lat> - Rua Tverskaya), *Кра́сная пло́щадь* (<Lat>[ˈkrasnəjə ˈpɫoɕːɪtʲ]</Lat> - Praça Vermelha).
 
-**Aqui e lá.** *Здесь* (<Lat>zdies'</Lat> - aqui) e *там* (<Lat>tam</Lat> - lá).
+**Aqui e lá.** *Здесь* (<Lat>[zʲdʲesʲ]</Lat> - aqui) e *там* (<Lat>[tam]</Lat> - lá).
 
 ## Vocabulário
 
 | Russo | Latinizado | Português |
 |:--|:--|:--|
-| говори́ть | gavarít' | falar |
-| я говорю́ | iá gavariú | eu falo |
-| вы говори́те | vy gavaríte | o senhor / a senhora fala |
-| и | i | e |
-| где | gdie | onde |
-| у́лица | úlitsa | rua |
-| пло́щадь | plóshit' | praça |
-| Кра́сная пло́щадь | krásnaia plóshit' | Praça Vermelha |
-| Тверска́я у́лица | tvirskáia úlitsa | Rua Tverskaya |
-| здесь | zdies' | aqui |
-| там | tam | lá |
+| говори́ть | [ɡəvɐˈrʲitʲ] | falar |
+| я говорю́ | [ja ɡəvɐˈrʲu] | eu falo |
+| вы говори́те | [vɨ ɡəvɐˈrʲitʲɪ] | o senhor / a senhora fala |
+| и | [i] | e |
+| где | [ɡdʲe] | onde |
+| у́лица | [ˈulʲɪtsə] | rua |
+| пло́щадь | [ˈpɫoɕːɪtʲ] | praça |
+| Кра́сная пло́щадь | [ˈkrasnəjə ˈpɫoɕːɪtʲ] | Praça Vermelha |
+| Тверска́я у́лица | [tvʲɪrˈskajə ˈulʲɪtsə] | Rua Tverskaya |
+| здесь | [zʲdʲesʲ] | aqui |
+| там | [tam] | lá |
 
 ## Exercícios
 
@@ -64,12 +64,12 @@ Uma americana conversa com um russo.
 
 | Quem | Russo | Latinizado | Português |
 |:--|:--|:--|:--|
-| Mulher | Слу́шай, ты ру́сский? | slúshai, ty rússkii? | Escuta, você é russo? |
-| Homem | Ага́, ру́сский. А ты? | agá, rússkii. a ty? | É, sou russo. E tu? |
-| Mulher | Я америка́нка. | iá amirikánka. | Sou americana. |
-| Homem | А по-ру́сски говори́шь? | a pa-rússki gavarísh? | E fala russo? |
-| Mulher | Немно́го. Не осо́бо хорошо́. | nimnóga. ni asóba kharashó. | Um pouquinho. Nada demais. |
-| Homem | Да нет, отли́чно говори́шь! | da niet, atlítchna gavarísh! | Que nada, fala super bem! |
-| Mulher | Спаси́бочки! | spasíbatchki! | Valeuzão! / Obrigada! |
+| Mulher | Слу́шай, ты ру́сский? | [ˈsɫuʂəj, tɨ ˈruskʲɪj?] | Escuta, você é russo? |
+| Homem | Ага́, ру́сский. А ты? | [ɐˈɡa, ˈruskʲɪj. a tɨ?] | É, sou russo. E tu? |
+| Mulher | Я америка́нка. | [ja ɐmʲɪrʲɪˈkankə] | Sou americana. |
+| Homem | А по-ру́сски говори́шь? | [a pɐ ˈruskʲɪ ɡəvɐˈrʲiʂ?] | E fala russo? |
+| Mulher | Немно́го. Не осо́бо хорошо́. | [nʲɪˈmnoɡə. nʲɪ ɐˈsobə xərɐˈʂo] | Um pouquinho. Nada demais. |
+| Homem | Да нет, отли́чно говори́шь! | [da nʲet, ɐˈtlʲitɕnə ɡəvɐˈrʲiʂ!] | Que nada, fala super bem! |
+| Mulher | Спаси́бочки! | [spɐˈsʲibətɕkʲɪ!] | Valeuzão! / Obrigada! |
 
-*Слу́шай* (<Lat>slúshai</Lat> - escuta) chama a atenção de alguém com quem se tem intimidade. *Говори́шь* (<Lat>gavarísh</Lat> - falas) é a forma de *ты* (<Lat>ty</Lat> - tu). *Спаси́бочки* (<Lat>spasíbatchki</Lat> - obrigadinho) é um agradecimento carinhoso.
+*Слу́шай* (<Lat>[ˈsɫuʂəj]</Lat> - escuta) chama a atenção de alguém com quem se tem intimidade. *Говори́шь* (<Lat>[ɡəvɐˈrʲiʂ]</Lat> - falas) é a forma de *ты* (<Lat>[tɨ]</Lat> - tu). *Спаси́бочки* (<Lat>[spɐˈsʲibətɕkʲɪ]</Lat> - obrigadinho) é um agradecimento carinhoso.
